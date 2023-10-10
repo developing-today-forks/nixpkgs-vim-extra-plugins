@@ -31,6 +31,7 @@ GCBallesteros/NotebookNavigator.nvim
 HiPhish/rainbow-delimiters.nvim
 IlyasYOY/obs.nvim
 Iron-E/nvim-cartographer
+JMarkin/gentags.lua
 JoosepAlviste/nvim-ts-context-commentstring
 Junnplus/nvim-lsp-setup
 Kasama/nvim-custom-diagnostic-highlight
@@ -92,6 +93,7 @@ ThePrimeagen/vim-be-good
 TimUntersberger/neofs
 TobinPalmer/rayso.nvim
 Verf/deepwhite.nvim
+VidocqH/data-viewer.nvim
 VidocqH/lsp-lens.nvim
 Wansmer/binary-swap.nvim
 Wansmer/langmapper.nvim
@@ -392,9 +394,11 @@ nvim-telescope/telescope-bibtex.nvim
 nvim-treesitter/nvim-treesitter-context
 nvim-zh/colorful-winsep.nvim
 nvimdev/dashboard-nvim
+nvimdev/hlsearch.nvim
 nvimdev/indentmini.nvim
 nvimdev/lspsaga.nvim
 nvimdev/zephyr-nvim
+nvimtools/none-ls.nvim
 nxvu699134/vn-night.nvim
 nyngwang/NeoNoName.lua
 nyngwang/NeoRoot.lua
