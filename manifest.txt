@@ -249,6 +249,7 @@ glacambre/firenvim
 gnikdroy/projections.nvim
 gorbit99/codewindow.nvim
 gsuuon/llm.nvim
+gsuuon/note.nvim
 h-hg/fcitx.nvim
 sourcehut:henriquehbr/ataraxis.lua
 sourcehut:henriquehbr/nvim-startup.lua
@@ -375,6 +376,7 @@ niuiic/format.nvim
 niuiic/git-log.nvim
 niuiic/multiple-session.nvim
 niuiic/part-edit.nvim
+niuiic/remote.nvim
 niuiic/translate.nvim
 niuiic/typst-preview.nvim
 nkakouros-original/numbers.nvim
