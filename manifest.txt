@@ -117,6 +117,7 @@ Zeioth/markmap.nvim
 ZhiyuanLck/smart-pairs
 aaronhallaert/advanced-git-search.nvim
 abecodes/tabout.nvim
+abeldekat/lazyflex.nvim
 ada0l/obsidian
 adelarsq/image_preview.nvim
 adelarsq/neoline.vim
@@ -206,6 +207,7 @@ cuducos/yaml.nvim
 cunderw/nvim
 danielpieper/telescope-tmuxinator.nvim
 danymat/neogen
+dasupradyumna/launch.nvim
 dasupradyumna/midnight.nvim
 datwaft/bubbly.nvim
 davidgranstrom/nvim-markdown-preview
@@ -535,6 +537,8 @@ stevearc/gkeep.nvim
 stevearc/overseer.nvim
 stevearc/qf_helper.nvim
 subnut/nvim-ghost.nvim
+svermeulen/nvim-lusc
+svermeulen/text-to-colorscheme
 svermeulen/vim-yoink
 svermeulen/vimpeccable
 svrana/neosolarized.nvim
