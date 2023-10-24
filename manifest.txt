@@ -99,6 +99,7 @@ ThePrimeagen/vim-be-good
 TimUntersberger/neofs
 TobinPalmer/rayso.nvim
 Verf/deepwhite.nvim
+VidocqH/auto-indent.nvim
 VidocqH/data-viewer.nvim
 VidocqH/lsp-lens.nvim
 Wansmer/binary-swap.nvim
@@ -378,6 +379,8 @@ mnacamura/vim-fennel-syntax
 mnacamura/vim-r7rs-syntax
 monaqa/dial.nvim
 monkoose/matchparen.nvim
+mrcjkb/kickstart-nix.nvim
+mrcjkb/rustaceanvim
 mrjones2014/legendary.nvim
 nanotee/luv-vimdocs
 nanotee/nvim-lsp-basics
@@ -399,6 +402,7 @@ niuiic/git-log.nvim
 niuiic/multiple-session.nvim
 niuiic/part-edit.nvim
 niuiic/remote.nvim
+niuiic/terminal.nvim
 niuiic/translate.nvim
 niuiic/typst-preview.nvim
 nkakouros-original/numbers.nvim
@@ -578,6 +582,7 @@ utilyre/barbecue.nvim
 utilyre/sentiment.nvim
 vi-tality/neovitality
 vigoux/complementree.nvim
+vxpm/ferris.nvim
 williamboman/mason-lspconfig.nvim
 williamboman/mason.nvim
 williamboman/nvim-lsp-installer
