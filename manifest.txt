@@ -192,6 +192,7 @@ chuwy/ucm.nvim
 ckolkey/ts-node-action
 clojure-vim/jazz.nvim
 coffebar/neovim-project
+coffebar/transfer.nvim
 cpea2506/one_monokai.nvim
 cpea2506/relative-toggle.nvim
 creativenull/diagnosticls-configs-nvim
@@ -535,6 +536,7 @@ sontungexpt/stcursorword
 sontungexpt/stinvim
 sontungexpt/sttusline
 sontungexpt/url-open
+soulis-1256/hoverhints.nvim
 startup-nvim/startup.nvim
 stevearc/conform.nvim
 stevearc/gkeep.nvim
