@@ -380,6 +380,8 @@ mnacamura/vim-fennel-syntax
 mnacamura/vim-r7rs-syntax
 monaqa/dial.nvim
 monkoose/matchparen.nvim
+mrcjkb/haskell-snippets.nvim
+mrcjkb/haskell-tools.nvim
 mrcjkb/kickstart-nix.nvim
 mrcjkb/rustaceanvim
 mrjones2014/legendary.nvim
