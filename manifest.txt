@@ -361,6 +361,7 @@ m00qek/plugin-template.nvim
 m4xshen/autoclose.nvim
 madskjeldgaard/reaper-nvim
 malbertzard/inline-fold.nvim
+mangelozzi/rgflow.nvim
 matbme/JABS.nvim
 maxmx03/FluoroMachine.nvim
 mcauley-penney/tidy.nvim
@@ -369,6 +370,7 @@ melkster/modicator.nvim
 mfussenegger/nvim-ts-hint-textobject
 mg979/tabline.nvim
 michaelb/sniprun
+miikanissi/modus-themes.nvim
 mikesmithgh/kitty-scrollback.nvim
 milanglacier/yarepl.nvim
 milisims/nvim-luaref
