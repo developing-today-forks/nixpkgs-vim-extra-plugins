@@ -88,6 +88,7 @@ RutaTang/compter.nvim
 RutaTang/quicknote.nvim
 RutaTang/spectacle.nvim
 Saecki/crates.nvim
+SalOrak/whaler.nvim
 Shatur/neovim-session-manager
 Shatur/neovim-tasks
 SidOfc/carbon.nvim
@@ -230,6 +231,7 @@ dpayne/CodeGPT.nvim
 dracula/vim
 dracula/vim::dracula
 drybalka/tree-climber.nvim
+duane9/nvim-rg
 ecthelionvi/NeoColumn.nvim
 ecthelionvi/NeoComposer.nvim
 edolphin-ydf/goimpl.nvim
@@ -375,6 +377,7 @@ mikesmithgh/kitty-scrollback.nvim
 milanglacier/yarepl.nvim
 milisims/nvim-luaref
 miversen33/import.nvim
+miversen33/sunglasses.nvim
 mizlan/iswap.nvim
 mnacamura/iron.nvim::iron-nvim-mnacamura
 mnacamura/nvim-srcerite
