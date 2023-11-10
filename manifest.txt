@@ -606,6 +606,7 @@ winston0410/commented.nvim
 woosaaahh/sj.nvim
 xeluxee/competitest.nvim
 xero/miasma.nvim
+xiaoshihou514/squirrel.nvim
 xiyaowong/link-visitor.nvim
 xiyaowong/nvim-cursorword
 xiyaowong/nvim-transparent
