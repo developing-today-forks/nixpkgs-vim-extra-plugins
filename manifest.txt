@@ -98,7 +98,9 @@ Th3Whit3Wolf/space-nvim
 TheBlob42/drex.nvim
 ThePrimeagen/vim-be-good
 TimUntersberger/neofs
+TobinPalmer/Tip.nvim
 TobinPalmer/rayso.nvim
+Tsuzat/NeoSolarized.nvim
 Verf/deepwhite.nvim
 VidocqH/auto-indent.nvim
 VidocqH/data-viewer.nvim
@@ -545,6 +547,7 @@ sontungexpt/sttusline
 sontungexpt/url-open
 soulis-1256/hoverhints.nvim
 startup-nvim/startup.nvim
+stevanmilic/nvim-lspimport
 stevearc/conform.nvim
 stevearc/gkeep.nvim
 stevearc/overseer.nvim
