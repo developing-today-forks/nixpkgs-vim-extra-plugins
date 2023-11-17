@@ -172,6 +172,7 @@ bluz71/vim-nightfly-colors
 booperlv/nvim-gomove
 brendalf/mix.nvim
 brenoprata10/nvim-highlight-colors
+calind/selenized.nvim
 cappyzawa/trim.nvim
 catppuccin/nvim::catppuccin
 cbochs/grapple.nvim
@@ -274,6 +275,7 @@ gsuuon/note.nvim
 gsuuon/tshjkl.nvim
 h-hg/fcitx.nvim
 hackorum/VapourNvim
+hedyhli/outline.nvim
 sourcehut:henriquehbr/ataraxis.lua
 sourcehut:henriquehbr/nvim-startup.lua
 hinell/duplicate.nvim
@@ -320,6 +322,7 @@ jrychn/ModuleVim
 jubnzv/mdeval.nvim
 jubnzv/virtual-types.nvim
 judaew/ronny.nvim
+jyscao/ventana.nvim
 kaiuri/nvim-juliana
 kana/vim-textobj-indent
 kazhala/close-buffers.nvim
