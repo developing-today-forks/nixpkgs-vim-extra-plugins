@@ -39,6 +39,7 @@ Iron-E/nvim-cartographer
 JMarkin/gentags.lua
 JoosepAlviste/nvim-ts-context-commentstring
 Junnplus/nvim-lsp-setup
+Jxstxs/conceal.nvim
 Kasama/nvim-custom-diagnostic-highlight
 L3MON4D3/LuaSnip
 LeonHeidelbach/trailblazer.nvim
@@ -166,6 +167,7 @@ beauwilliams/statusline.lua
 bennypowers/nvim-regexplainer
 bennypowers/splitjoin.nvim
 bennypowers/svgo.nvim
+bfredl/nvim-ipy
 bfredl/nvim-luadev
 bfredl/nvim-miniyank
 bkegley/gloombuddy
@@ -213,6 +215,7 @@ cryptomilk/nightcity.nvim
 cstsunfu/.sea.nvim
 cuducos/yaml.nvim
 cunderw/nvim
+cvigilv/esqueleto.nvim
 danielpieper/telescope-tmuxinator.nvim
 danymat/neogen
 dasupradyumna/launch.nvim
