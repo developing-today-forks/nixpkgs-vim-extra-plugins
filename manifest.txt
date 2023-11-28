@@ -170,6 +170,7 @@ bennypowers/svgo.nvim
 bfredl/nvim-ipy
 bfredl/nvim-luadev
 bfredl/nvim-miniyank
+bgaillard/readonly.nvim
 bkegley/gloombuddy
 bluz71/vim-moonfly-colors
 bluz71/vim-nightfly-colors
@@ -446,6 +447,8 @@ nvim-telescope/telescope-bibtex.nvim
 nvim-treesitter/nvim-treesitter-context
 nvim-zh/colorful-winsep.nvim
 nvimdev/dashboard-nvim
+nvimdev/epo.nvim
+nvimdev/guard.nvim
 nvimdev/hlsearch.nvim
 nvimdev/indentmini.nvim
 nvimdev/lspsaga.nvim
@@ -639,6 +642,7 @@ yazeed1s/oh-lucy.nvim
 yonlu/omni.vim
 gitlab:yorickpeterse/nvim-pqf
 yorickpeterse/nvim-window
+yutkat/confirm-quit.nvim
 zaldih/themery.nvim
 zbirenbaum/copilot-cmp
 zbirenbaum/neodim
