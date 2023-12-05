@@ -186,6 +186,7 @@ cbochs/grapple.nvim
 cbochs/portal.nvim
 chipsenkbeil/distant.nvim
 chiyadev/dep
+chomosuke/typst-preview.nvim
 chrisgrieser/nvim-alt-substitute
 chrisgrieser/nvim-dr-lsp
 chrisgrieser/nvim-early-retirement
