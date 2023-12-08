@@ -445,6 +445,7 @@ nvim-colortils/colortils.nvim
 nvim-lua/kickstart.nvim
 nvim-neo-tree/neo-tree.nvim
 nvim-neorocks/luarocks-tag-release
+nvim-neorocks/rocks.nvim
 nvim-neotest/neotest
 nvim-telescope/telescope-bibtex.nvim
 nvim-treesitter/nvim-treesitter-context
