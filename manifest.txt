@@ -28,6 +28,7 @@ Dhanus3133/Leetbuddy.nvim
 Eandrju/cellular-automaton.nvim
 EthanJWright/vs-tasks.nvim
 Everblush/everblush.nvim
+FabianWirth/search.nvim
 FeiyouG/command_center.nvim
 FrenzyExists/aquarium-vim
 Fymyte/rasi.vim
