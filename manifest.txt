@@ -1,5 +1,7 @@
 00sapo/visual.nvim
 0styx0/abbreinder.nvim
+2KAbhishek/co-author.nvim
+2KAbhishek/nerdy.nvim
 2nthony/vitesse.nvim
 4e554c4c/darkman.nvim
 9seconds/repolink.nvim
@@ -31,6 +33,7 @@ Everblush/everblush.nvim
 Exafunction/codeium.nvim
 FabianWirth/search.nvim
 FeiyouG/command_center.nvim
+FeiyouG/commander.nvim
 FrenzyExists/aquarium-vim
 Fymyte/rasi.vim
 GCBallesteros/NotebookNavigator.nvim
@@ -90,6 +93,7 @@ RishabhRD/lspactions
 RishabhRD/lspactions:nvim-0.6-compatible:lspactions-nvim06-compatible
 RishabhRD/nvim-rdark
 Robitx/gp.nvim
+Rolv-Apneseth/tfm.nvim
 RutaTang/compter.nvim
 RutaTang/quicknote.nvim
 RutaTang/spectacle.nvim
@@ -142,6 +146,7 @@ alec-gibson/nvim-tetris
 alexaandru/nvim-lspupdate
 alexmozaidze/palenight.nvim
 aliou/bats.vim
+altermo/nxwm
 altermo/ultimate-autopair.nvim
 amirrezaask/fuzzy.nvim
 amrbashir/nvim-docs-view
@@ -156,6 +161,7 @@ anuvyklack/hydra.nvim
 anuvyklack/keymap-amend.nvim
 anuvyklack/pretty-fold.nvim
 anuvyklack/windows.nvim
+ariel-frischer/bmessages.nvim
 artart222/CodeArt
 aserowy/tmux.nvim
 ashfinal/qfview.nvim
@@ -292,6 +298,7 @@ hackorum/VapourNvim
 hedyhli/outline.nvim
 sourcehut:henriquehbr/ataraxis.lua
 sourcehut:henriquehbr/nvim-startup.lua
+hiberabyss/bzlops.vim
 hinell/duplicate.nvim
 hinell/lsp-timeout.nvim
 hinell/move.nvim
@@ -500,6 +507,7 @@ projekt0n/github-nvim-theme
 pwntester/codeql.nvim
 rafaelsq/nvim-goc.lua
 rafcamlet/tabline-framework.nvim
+ragnarok22/whereami.nvim
 raimon49/requirements.txt.vim
 ramojus/mellifluous.nvim
 ranjithshegde/ccls.nvim
