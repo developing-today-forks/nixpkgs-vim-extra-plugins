@@ -50,6 +50,7 @@ Kasama/nvim-custom-diagnostic-highlight
 L3MON4D3/LuaSnip
 LeonHeidelbach/trailblazer.nvim
 LinArcX/telescope-command-palette.nvim
+LintaoAmons/easy-commands.nvim
 LintaoAmons/scratch.nvim
 LionC/nest.nvim
 LoricAndre/OneTerm.nvim
@@ -172,6 +173,9 @@ axkirillov/easypick.nvim
 axkirillov/hbac.nvim
 b0o/incline.nvim
 b0o/mapx.nvim
+backdround/improved-ft.nvim
+backdround/improved-search.nvim
+backdround/neowords.nvim
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
 bennypowers/nvim-regexplainer
