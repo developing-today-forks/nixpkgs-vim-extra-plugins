@@ -176,6 +176,7 @@ b0o/mapx.nvim
 backdround/improved-ft.nvim
 backdround/improved-search.nvim
 backdround/neowords.nvim
+backdround/tabscope.nvim
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
 bennypowers/nvim-regexplainer
@@ -418,6 +419,7 @@ mnacamura/vim-fennel-syntax
 mnacamura/vim-r7rs-syntax
 monaqa/dial.nvim
 monkoose/matchparen.nvim
+mpas/marp-nvim
 mrcjkb/haskell-snippets.nvim
 mrcjkb/haskell-tools.nvim
 mrcjkb/kickstart-nix.nvim
