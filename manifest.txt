@@ -378,6 +378,7 @@ lewpoly/sherbet.nvim
 liangxianzhe/nap.nvim
 linrongbin16/colorbox.nvim
 linrongbin16/fzfx.nvim
+linrongbin16/gentags.nvim
 linrongbin16/gitlinker.nvim
 linrongbin16/lin.nvim
 linrongbin16/lsp-progress.nvim
@@ -559,6 +560,7 @@ samjwill/nvim-unception
 samodostal/image.nvim
 savq/melange
 savq/paq-nvim
+scottmckendry/cyberdream.nvim
 seandewar/killersheep.nvim
 seandewar/nvimesweeper
 sekke276/dark_flat.nvim
@@ -625,6 +627,7 @@ tomiis4/hypersonic.nvim
 topaxi/gh-actions.nvim
 toppair/peek.nvim
 toppair/reach.nvim
+tris203/hawtkeys.nvim
 tveskag/nvim-blame-line
 udayvir-singh/hibiscus.nvim
 udayvir-singh/tangerine.nvim
