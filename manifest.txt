@@ -18,6 +18,7 @@ AllenDang/nvim-expand-expr
 AstroNvim/AstroNvim
 Bekaboo/deadcolumn.nvim
 CRAG666/code_runner.nvim
+CWood-sdf/pineapple
 CamdenClark/flyboy
 Chaitanyabsprip/present.nvim
 Civitasv/cmake-tools.nvim
@@ -100,6 +101,7 @@ RutaTang/quicknote.nvim
 RutaTang/spectacle.nvim
 Saecki/crates.nvim
 SalOrak/whaler.nvim
+SergioRibera/cmp-dotenv
 Shatur/neovim-session-manager
 Shatur/neovim-tasks
 SidOfc/carbon.nvim
@@ -169,6 +171,7 @@ ashfinal/qfview.nvim
 askfiy/nvim
 askfiy/nvim-picgo
 askfiy/visual_studio_code
+atusy/treemonkey.nvim
 axkirillov/easypick.nvim
 axkirillov/hbac.nvim
 b0o/incline.nvim
@@ -224,6 +227,7 @@ creativenull/diagnosticls-configs-nvim
 crispgm/nvim-go
 crispgm/nvim-tabline
 crispgm/telescope-heading.nvim
+crispybaccoon/evergarden
 crivotz/nv-ide
 crusj/bookmarks.nvim
 crusj/hierarchy-tree-go.nvim
@@ -450,6 +454,7 @@ niuiic/terminal.nvim
 niuiic/translate.nvim
 niuiic/typst-preview.nvim
 nkakouros-original/numbers.nvim
+nkakouros/scrollofffraction.nvim
 noib3/cokeline.nvim::cokeline
 noib3/nvim-compleet
 norcalli/nvim-base16.lua
