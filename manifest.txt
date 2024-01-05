@@ -204,6 +204,7 @@ chipsenkbeil/distant.nvim
 chiyadev/dep
 chomosuke/typst-preview.nvim
 chrisgrieser/nvim-alt-substitute
+chrisgrieser/nvim-chainsaw
 chrisgrieser/nvim-dr-lsp
 chrisgrieser/nvim-early-retirement
 chrisgrieser/nvim-genghis
@@ -212,6 +213,7 @@ chrisgrieser/nvim-origami
 chrisgrieser/nvim-puppeteer
 chrisgrieser/nvim-recorder
 chrisgrieser/nvim-rulebook
+chrisgrieser/nvim-scissors
 chrisgrieser/nvim-tinygit
 chrisgrieser/nvim-various-textobjs
 chrsm/impulse.nvim
@@ -227,6 +229,7 @@ creativenull/diagnosticls-configs-nvim
 crispgm/nvim-go
 crispgm/nvim-tabline
 crispgm/telescope-heading.nvim
+crispybaccoon/chaivim
 crispybaccoon/evergarden
 crivotz/nv-ide
 crusj/bookmarks.nvim
@@ -304,6 +307,7 @@ gsuuon/note.nvim
 gsuuon/tshjkl.nvim
 h-hg/fcitx.nvim
 hackorum/VapourNvim
+hakonharnes/img-clip.nvim
 hedyhli/outline.nvim
 sourcehut:henriquehbr/ataraxis.lua
 sourcehut:henriquehbr/nvim-startup.lua
@@ -506,6 +510,7 @@ otavioschwanck/tmux-awesome-manager.nvim
 oxfist/night-owl.nvim
 p00f/cphelper.nvim
 petertriho/nvim-scrollbar
+pgosar/CyberNvim
 phaazon/mind.nvim
 phha/zenburn.nvim
 pianocomposer321/consolation.nvim
@@ -578,6 +583,7 @@ shellRaining/hlchunk.nvim
 shortcuts/no-neck-pain.nvim
 siduck76/NvChad
 simaxme/java.nvim
+simonmclean/triptych.nvim
 sitiom/nvim-numbertoggle
 skanehira/christmas.vim
 slugbyte/unruly-worker
