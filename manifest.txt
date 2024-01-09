@@ -302,6 +302,7 @@ ghillb/cybu.nvim
 glacambre/firenvim
 gnikdroy/projections.nvim
 gorbit99/codewindow.nvim
+gregorias/coerce.nvim
 gsuuon/llm.nvim
 gsuuon/note.nvim
 gsuuon/tshjkl.nvim
@@ -611,6 +612,7 @@ svermeulen/vimpeccable
 svrana/neosolarized.nvim
 sychen52/smart-term-esc.nvim
 t-troebst/perfanno.nvim
+ta-tikoma/php.easy.nvim
 tadmccorkle/markdown.nvim
 tamago324/lir-git-status.nvim
 tamago324/nlsp-settings.nvim
