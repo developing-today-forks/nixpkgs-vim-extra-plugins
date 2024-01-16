@@ -19,11 +19,13 @@ AstroNvim/AstroNvim
 Bekaboo/deadcolumn.nvim
 CRAG666/code_runner.nvim
 CWood-sdf/pineapple
+CWood-sdf/spaceport.nvim
 CamdenClark/flyboy
 Chaitanyabsprip/present.nvim
 Civitasv/cmake-tools.nvim
 CosmicNvim/CosmicNvim
 CosmicNvim/cosmic-ui
+Cris-lml007/NeoPlus
 Darazaki/indent-o-matic
 David-Kunz/gen.nvim
 David-Kunz/jester
@@ -515,6 +517,7 @@ pgosar/CyberNvim
 phaazon/mind.nvim
 phha/zenburn.nvim
 pianocomposer321/consolation.nvim
+pianocomposer321/officer.nvim
 pianocomposer321/yabs.nvim
 piersolenski/telescope-import.nvim
 piersolenski/wtf.nvim
@@ -623,6 +626,7 @@ tenxsoydev/karen-yank.nvim
 tenxsoydev/nx.nvim
 tenxsoydev/tabs-vs-spaces.nvim
 thaerkh/vim-workspace
+theKnightsOfRohan/csvlens.nvim
 themaxmarchuk/tailwindcss-colors.nvim
 themercorp/themer.lua
 theniceboy/nvim-deus
