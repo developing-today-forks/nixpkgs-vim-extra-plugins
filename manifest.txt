@@ -42,6 +42,7 @@ Fymyte/rasi.vim
 GCBallesteros/NotebookNavigator.nvim
 GCBallesteros/jupytext.nvim
 HiPhish/rainbow-delimiters.nvim
+HoNamDuong/hybrid.nvim
 IlyasYOY/obs.nvim
 IndianBoy42/tree-sitter-just
 Iron-E/nvim-cartographer
