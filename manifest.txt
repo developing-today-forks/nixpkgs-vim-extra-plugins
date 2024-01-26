@@ -54,6 +54,7 @@ Kasama/nvim-custom-diagnostic-highlight
 L3MON4D3/LuaSnip
 LeonHeidelbach/trailblazer.nvim
 LinArcX/telescope-command-palette.nvim
+LintaoAmons/cd-project.nvim
 LintaoAmons/easy-commands.nvim
 LintaoAmons/scratch.nvim
 LionC/nest.nvim
@@ -397,6 +398,7 @@ linrongbin16/lsp-progress.nvim
 linty-org/key-menu.nvim
 linty-org/readline.nvim
 lmburns/kimbox
+lopi-py/luau-lsp.nvim
 lourenci/github-colors
 luckasRanarison/nvim-devdocs
 luisiacc/gruvbox-baby
