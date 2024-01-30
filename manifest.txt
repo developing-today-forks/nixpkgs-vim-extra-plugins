@@ -266,6 +266,7 @@ doctorfree/nvim-lazyman
 dpayne/CodeGPT.nvim
 dracula/vim
 dracula/vim::dracula
+drybalka/clean.nvim
 drybalka/tree-climber.nvim
 duane9/nvim-rg
 ecthelionvi/NeoColumn.nvim
@@ -308,6 +309,7 @@ gnikdroy/projections.nvim
 gorbit99/codewindow.nvim
 gregorias/coerce.nvim
 gsuuon/llm.nvim
+gsuuon/model.nvim
 gsuuon/note.nvim
 gsuuon/tshjkl.nvim
 h-hg/fcitx.nvim
@@ -370,6 +372,7 @@ kdheepak/monochrome.nvim
 keaising/im-select.nvim
 kelly-lin/ranger.nvim
 kevinhwang91/nvim-ufo
+kiddos/gemini.nvim
 kiran94/edit-markdown-table.nvim
 kiran94/s3edit.nvim
 kkharji/sqlite.lua
