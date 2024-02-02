@@ -607,6 +607,7 @@ sontungexpt/stcursorword
 sontungexpt/stinvim
 sontungexpt/sttusline
 sontungexpt/url-open
+sontungexpt/witch
 soulis-1256/hoverhints.nvim
 startup-nvim/startup.nvim
 stevanmilic/nvim-lspimport
