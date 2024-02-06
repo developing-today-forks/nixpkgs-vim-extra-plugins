@@ -54,6 +54,7 @@ Kasama/nvim-custom-diagnostic-highlight
 L3MON4D3/LuaSnip
 LeonHeidelbach/trailblazer.nvim
 LinArcX/telescope-command-palette.nvim
+LintaoAmons/bookmarks.nvim
 LintaoAmons/cd-project.nvim
 LintaoAmons/easy-commands.nvim
 LintaoAmons/scratch.nvim
@@ -81,6 +82,7 @@ NMAC427/guess-indent.nvim
 NTBBloodbath/cheovim
 NTBBloodbath/doom-nvim
 NTBBloodbath/doom-one.nvim
+Nedra1998/nvim-mdlink
 Nexmean/caskey.nvim
 NormalNvim/NormalNvim
 NvChad/nvim-colorizer.lua
@@ -415,6 +417,7 @@ m4xshen/autoclose.nvim
 madskjeldgaard/reaper-nvim
 malbertzard/inline-fold.nvim
 mangelozzi/rgflow.nvim
+marilari88/twoslash-queries.nvim
 matbme/JABS.nvim
 mateuszwieloch/automkdir.nvim
 maxmx03/FluoroMachine.nvim
@@ -608,6 +611,7 @@ sontungexpt/stinvim
 sontungexpt/sttusline
 sontungexpt/url-open
 sontungexpt/witch
+soulis-1256/eagle.nvim
 soulis-1256/hoverhints.nvim
 startup-nvim/startup.nvim
 stevanmilic/nvim-lspimport
