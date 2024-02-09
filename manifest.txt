@@ -328,6 +328,7 @@ hkupty/iron.nvim
 hkupty/nvimux
 houtsnip/vim-emacscommandline
 hylang/vim-hy
+iabdelkareem/csharp.nvim
 idanarye/nvim-buffls
 idanarye/nvim-channelot
 idanarye/nvim-moonicipal
@@ -632,6 +633,7 @@ tadmccorkle/markdown.nvim
 tamago324/lir-git-status.nvim
 tamago324/nlsp-settings.nvim
 tamton-aquib/staline.nvim
+tanloong/interlaced.nvim
 tanvirtin/monokai.nvim
 tanvirtin/vgit.nvim
 tenxsoydev/karen-yank.nvim
