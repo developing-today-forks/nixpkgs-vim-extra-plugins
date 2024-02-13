@@ -95,6 +95,7 @@ Pocco81/HighStr.nvim
 Pocco81/auto-save.nvim::AutoSave
 Pocco81/dap-buddy.nvim
 Pocco81/high-str.nvim
+RAprogramm/nekifoch
 RRethy/nvim-treesitter-textsubjects
 RishabhRD/gruvy
 RishabhRD/lspactions
@@ -172,6 +173,7 @@ anuvyklack/pretty-fold.nvim
 anuvyklack/windows.nvim
 ariel-frischer/bmessages.nvim
 artart222/CodeArt
+artemave/workspace-diagnostics.nvim
 aserowy/tmux.nvim
 ashfinal/qfview.nvim
 askfiy/nvim
@@ -182,6 +184,7 @@ axkirillov/easypick.nvim
 axkirillov/hbac.nvim
 b0o/incline.nvim
 b0o/mapx.nvim
+backdround/global-note.nvim
 backdround/improved-ft.nvim
 backdround/improved-search.nvim
 backdround/neowords.nvim
