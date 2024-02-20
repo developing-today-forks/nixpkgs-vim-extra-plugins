@@ -12,6 +12,7 @@ AckslD/muren.nvim
 AckslD/nvim-FeMaco.lua
 AckslD/nvim-gfold.lua
 AckslD/nvim-revJ.lua
+AckslD/nvim-trevJ.lua
 AckslD/swenv.nvim
 AlexvZyl/nordic.nvim
 AllenDang/nvim-expand-expr
@@ -386,6 +387,7 @@ klen/nvim-test
 kmonad/kmonad-vim
 koenverburg/peepsight.nvim
 konapun/vacuumline.nvim
+kr40/nvim-macros
 kvrohit/mellow.nvim
 kvrohit/rasmus.nvim
 kyazdani42/blue-moon
