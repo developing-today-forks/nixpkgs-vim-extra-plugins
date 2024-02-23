@@ -2,6 +2,8 @@
 0styx0/abbreinder.nvim
 2KAbhishek/co-author.nvim
 2KAbhishek/nerdy.nvim
+2KAbhishek/tdo.nvim
+2KAbhishek/termim.nvim
 2nthony/vitesse.nvim
 4e554c4c/darkman.nvim
 9seconds/repolink.nvim
@@ -258,6 +260,8 @@ datwaft/bubbly.nvim
 davidgranstrom/nvim-markdown-preview
 davidgranstrom/osc.nvim
 davidgranstrom/scnvim
+deathbeam/autocomplete.nvim
+deathbeam/lspecho.nvim
 debugloop/telescope-undo.nvim
 declancm/cinnamon.nvim
 declancm/windex.nvim
