@@ -78,6 +78,7 @@ MunifTanjim/exrc.nvim
 MunifTanjim/nougat.nvim
 MunifTanjim/nui.nvim
 MunifTanjim/prettier.nvim
+Myzel394/easytables.nvim
 NFrid/due.nvim
 NFrid/markdown-togglecheck
 NFrid/treesitter-utils
@@ -192,6 +193,7 @@ backdround/improved-ft.nvim
 backdround/improved-search.nvim
 backdround/neowords.nvim
 backdround/tabscope.nvim
+gitlab:bartekjaszczak/distinct-nvim
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
 bennypowers/nvim-regexplainer
@@ -269,8 +271,10 @@ dense-analysis/neural
 desdic/agrolens.nvim
 desdic/greyjoy.nvim
 desdic/macrothis.nvim
+desdic/marlin.nvim
 desdic/telescope-rooter.nvim
 dinhhuy258/sfm.nvim
+dmmulroy/ts-error-translator.nvim
 dmmulroy/tsc.nvim
 doctorfree/nvim-lazyman
 dpayne/CodeGPT.nvim
@@ -378,6 +382,7 @@ judaew/ronny.nvim
 jyscao/ventana.nvim
 kaiuri/nvim-juliana
 kana/vim-textobj-indent
+kawre/leetcode.nvim
 kazhala/close-buffers.nvim
 kdheepak/monochrome.nvim
 keaising/im-select.nvim
@@ -552,6 +557,7 @@ ragnarok22/whereami.nvim
 raimon49/requirements.txt.vim
 ramojus/mellifluous.nvim
 ranjithshegde/ccls.nvim
+rasulomaroff/telepath.nvim
 ray-x/go.nvim
 ray-x/guihua.lua
 ray-x/navigator.lua
@@ -635,6 +641,7 @@ svermeulen/text-to-colorscheme
 svermeulen/vim-yoink
 svermeulen/vimpeccable
 svrana/neosolarized.nvim
+gitlab:sxwpb/halfspace.nvim
 sychen52/smart-term-esc.nvim
 t-troebst/perfanno.nvim
 ta-tikoma/php.easy.nvim
