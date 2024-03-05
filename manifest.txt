@@ -548,6 +548,7 @@ piersolenski/telescope-import.nvim
 piersolenski/wtf.nvim
 pluffie/neoproj
 polirritmico/monokai-nightasty.nvim
+polirritmico/telescope-lazy-plugins.nvim
 potamides/pantran.nvim
 projekt0n/github-nvim-theme
 pwntester/codeql.nvim
@@ -557,6 +558,7 @@ ragnarok22/whereami.nvim
 raimon49/requirements.txt.vim
 ramojus/mellifluous.nvim
 ranjithshegde/ccls.nvim
+rasulomaroff/reactive.nvim
 rasulomaroff/telepath.nvim
 ray-x/go.nvim
 ray-x/guihua.lua
@@ -596,6 +598,8 @@ s1n7ax/nvim-terminal
 sQVe/bufignore.nvim
 sQVe/sort.nvim
 saifulapm/chartoggle.nvim
+samharju/synthweave.nvim
+samharju/yeet.nvim
 samjwill/nvim-unception
 samodostal/image.nvim
 savq/melange
