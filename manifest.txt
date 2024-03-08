@@ -66,6 +66,7 @@ LoricAndre/OneTerm.nvim
 LucasTavaresA/SingleComment.nvim
 LucasTavaresA/simpleIndentGuides.nvim
 LudoPinelli/comment-box.nvim
+LukasPietzschmann/boo.nvim
 LukasPietzschmann/telescope-tabs
 LunarVim/LunarVim
 Mangeshrex/uwu.vim
@@ -510,6 +511,7 @@ nvimdev/hlsearch.nvim
 nvimdev/indentmini.nvim
 nvimdev/lspsaga.nvim
 nvimdev/zephyr-nvim
+nvimtools/hydra.nvim
 nvimtools/none-ls.nvim
 nvoid-lua/nvoid
 nxvu699134/vn-night.nvim
@@ -708,6 +710,7 @@ xiyaowong/nvim-cursorword
 xiyaowong/nvim-transparent
 xiyaowong/virtcolumn.nvim
 yagiziskirik/AirSupport.nvim
+yanskun/gotests.nvim
 yaocccc/nvim-foldsign
 yaocccc/nvim-hl-mdcodeblock.lua
 yaocccc/nvim-hlchunk
