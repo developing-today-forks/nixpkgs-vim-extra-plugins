@@ -75,6 +75,8 @@ Mofiqul/adwaita.nvim
 Mofiqul/dracula.nvim
 Mofiqul/vscode.nvim
 Mr-LLLLL/interestingwords.nvim
+Mr-LLLLL/lualine-ext.nvim
+Mr-LLLLL/treesitter-outer
 MunifTanjim/exrc.nvim
 MunifTanjim/nougat.nvim
 MunifTanjim/nui.nvim
@@ -161,6 +163,7 @@ alec-gibson/nvim-tetris
 alexaandru/nvim-lspupdate
 alexmozaidze/palenight.nvim
 aliou/bats.vim
+altermo/iedit.nvim
 altermo/nxwm
 altermo/ultimate-autopair.nvim
 amirrezaask/fuzzy.nvim
@@ -302,6 +305,7 @@ esensar/nvim-dev-container
 f-person/auto-dark-mode.nvim
 fdschmidt93/telescope-egrepify.nvim
 feline-nvim/feline.nvim
+fnune/recall.nvim
 frabjous/knap
 fuenor/JpFormat.vim
 gaborvecsei/cryptoprice.nvim
@@ -438,6 +442,7 @@ matbme/JABS.nvim
 mateuszwieloch/automkdir.nvim
 maxmx03/FluoroMachine.nvim
 mcauley-penney/tidy.nvim
+mcauley-penney/visual-whitespace.nvim
 mcchrish/zenbones.nvim
 melkster/modicator.nvim
 mfussenegger/nvim-ts-hint-textobject
