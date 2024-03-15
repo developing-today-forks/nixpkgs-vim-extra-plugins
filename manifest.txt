@@ -77,6 +77,7 @@ Mofiqul/vscode.nvim
 Mr-LLLLL/interestingwords.nvim
 Mr-LLLLL/lualine-ext.nvim
 Mr-LLLLL/treesitter-outer
+Mr-LLLLL/utilities.nvim
 MunifTanjim/exrc.nvim
 MunifTanjim/nougat.nvim
 MunifTanjim/nui.nvim
@@ -143,7 +144,10 @@ WhoIsSethDaniel/mason-tool-installer.nvim
 XXiaoA/ns-textobject.nvim
 Xuyuanp/yanil
 Zeioth/compiler.nvim
+Zeioth/distroupdate.nvim
 Zeioth/dooku.nvim
+Zeioth/garbage-day.nvim
+Zeioth/makeit.nvim
 Zeioth/markmap.nvim
 ZhiyuanLck/smart-pairs
 aaronhallaert/advanced-git-search.nvim
@@ -534,6 +538,7 @@ ojroques/nvim-hardline
 ojroques/nvim-lspfuzzy
 okuuva/auto-save.nvim
 olexsmir/gopher.nvim
+olimorris/codecompanion.nvim
 olimorris/persisted.nvim
 olivercederborg/poimandres.nvim
 onsails/lspkind.nvim
