@@ -141,6 +141,7 @@ Wansmer/treesj
 Weissle/easy-action
 Weissle/persistent-breakpoints.nvim
 WhoIsSethDaniel/mason-tool-installer.nvim
+Willem-J-an/visidata.nvim
 XXiaoA/ns-textobject.nvim
 Xuyuanp/yanil
 Zeioth/compiler.nvim
@@ -152,6 +153,7 @@ Zeioth/markmap.nvim
 ZhiyuanLck/smart-pairs
 aaronhallaert/advanced-git-search.nvim
 abecodes/tabout.nvim
+abeldekat/harpoonline
 abeldekat/lazyflex.nvim
 ada0l/obsidian
 adelarsq/image_preview.nvim
@@ -357,6 +359,7 @@ imbacraft/dusk.nvim
 inkch/vim-fish::vim-fish-inkch
 is0n/fm-nvim
 is0n/jaq-nvim
+isak102/telescope-git-file-history.nvim
 ishan9299/modus-theme-vim
 j-morano/buffer_manager.nvim
 jakewvincent/mkdnflow.nvim
@@ -736,6 +739,7 @@ zaldih/themery.nvim
 zbirenbaum/copilot-cmp
 zbirenbaum/neodim
 zdcthomas/yop.nvim
+zeioth/heirline-components.nvim
 ziontee113/color-picker.nvim
 ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
