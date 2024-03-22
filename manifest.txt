@@ -121,6 +121,7 @@ Shatur/neovim-session-manager
 Shatur/neovim-tasks
 SidOfc/carbon.nvim
 SmiteshP/nvim-navic
+StratOS-Linux/StratVIM
 Th3Whit3Wolf/onebuddy
 Th3Whit3Wolf/space-nvim
 TheBlob42/drex.nvim
@@ -400,6 +401,7 @@ kdheepak/monochrome.nvim
 keaising/im-select.nvim
 kelly-lin/ranger.nvim
 kevinhwang91/nvim-ufo
+kevinm6/kurayami.nvim
 kiddos/gemini.nvim
 kiran94/edit-markdown-table.nvim
 kiran94/s3edit.nvim
@@ -433,6 +435,7 @@ lmburns/kimbox
 lopi-py/luau-lsp.nvim
 lourenci/github-colors
 luckasRanarison/nvim-devdocs
+luckasRanarison/tailwind-tools.nvim
 luisiacc/gruvbox-baby
 lukas-reineke/lsp-format.nvim
 luukvbaal/nnn.nvim
