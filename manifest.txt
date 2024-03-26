@@ -432,6 +432,8 @@ linrongbin16/lsp-progress.nvim
 linty-org/key-menu.nvim
 linty-org/readline.nvim
 lmburns/kimbox
+loganswartz/polychrome.nvim
+loganswartz/sunburn.nvim
 lopi-py/luau-lsp.nvim
 lourenci/github-colors
 luckasRanarison/nvim-devdocs
