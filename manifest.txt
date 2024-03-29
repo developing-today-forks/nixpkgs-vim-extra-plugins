@@ -114,6 +114,7 @@ Rolv-Apneseth/tfm.nvim
 RutaTang/compter.nvim
 RutaTang/quicknote.nvim
 RutaTang/spectacle.nvim
+SUSTech-data/neopyter
 Saecki/crates.nvim
 SalOrak/whaler.nvim
 SergioRibera/cmp-dotenv
@@ -580,6 +581,7 @@ ramojus/mellifluous.nvim
 ranjithshegde/ccls.nvim
 rasulomaroff/reactive.nvim
 rasulomaroff/telepath.nvim
+rawnly/gist.nvim
 ray-x/go.nvim
 ray-x/guihua.lua
 ray-x/navigator.lua
@@ -739,6 +741,7 @@ yazeed1s/oh-lucy.nvim
 yonlu/omni.vim
 gitlab:yorickpeterse/nvim-pqf
 yorickpeterse/nvim-window
+you-n-g/simplegpt.nvim
 yutkat/confirm-quit.nvim
 zaldih/themery.nvim
 zbirenbaum/copilot-cmp
