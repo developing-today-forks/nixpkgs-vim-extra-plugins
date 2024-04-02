@@ -118,6 +118,7 @@ SUSTech-data/neopyter
 Saecki/crates.nvim
 SalOrak/whaler.nvim
 SergioRibera/cmp-dotenv
+Shaobin-Jiang/IceNvim
 Shatur/neovim-session-manager
 Shatur/neovim-tasks
 SidOfc/carbon.nvim
@@ -571,6 +572,7 @@ pluffie/neoproj
 polirritmico/monokai-nightasty.nvim
 polirritmico/telescope-lazy-plugins.nvim
 potamides/pantran.nvim
+prichrd/netrw.nvim
 projekt0n/github-nvim-theme
 pwntester/codeql.nvim
 rafaelsq/nvim-goc.lua
@@ -681,6 +683,7 @@ tanvirtin/vgit.nvim
 tenxsoydev/karen-yank.nvim
 tenxsoydev/nx.nvim
 tenxsoydev/tabs-vs-spaces.nvim
+terje/simctl.nvim
 thaerkh/vim-workspace
 theKnightsOfRohan/csvlens.nvim
 themaxmarchuk/tailwindcss-colors.nvim
