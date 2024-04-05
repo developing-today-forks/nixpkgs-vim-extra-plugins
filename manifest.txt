@@ -574,6 +574,7 @@ polirritmico/telescope-lazy-plugins.nvim
 potamides/pantran.nvim
 prichrd/netrw.nvim
 projekt0n/github-nvim-theme
+ptdewey/yankbank-nvim
 pwntester/codeql.nvim
 rafaelsq/nvim-goc.lua
 rafcamlet/tabline-framework.nvim
