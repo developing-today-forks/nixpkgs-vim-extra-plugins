@@ -466,6 +466,7 @@ miikanissi/modus-themes.nvim
 mikesmithgh/kitty-scrollback.nvim
 milanglacier/yarepl.nvim
 milisims/nvim-luaref
+mistricky/codesnap.nvim
 miversen33/import.nvim
 miversen33/sunglasses.nvim
 mizlan/iswap.nvim
@@ -574,6 +575,7 @@ polirritmico/telescope-lazy-plugins.nvim
 potamides/pantran.nvim
 prichrd/netrw.nvim
 projekt0n/github-nvim-theme
+ptdewey/darkearth-nvim
 ptdewey/yankbank-nvim
 pwntester/codeql.nvim
 rafaelsq/nvim-goc.lua
