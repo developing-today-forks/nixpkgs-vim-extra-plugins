@@ -459,6 +459,7 @@ mcauley-penney/tidy.nvim
 mcauley-penney/visual-whitespace.nvim
 mcchrish/zenbones.nvim
 melkster/modicator.nvim
+mfussenegger/nvim-treehopper
 mfussenegger/nvim-ts-hint-textobject
 mg979/tabline.nvim
 michaelb/sniprun
@@ -476,6 +477,8 @@ mnacamura/vim-fennel-syntax
 mnacamura/vim-r7rs-syntax
 monaqa/dial.nvim
 monkoose/matchparen.nvim
+moyiz/command-and-cursor.nvim
+moyiz/git-dev.nvim
 mpas/marp-nvim
 mrcjkb/haskell-snippets.nvim
 mrcjkb/haskell-tools.nvim
