@@ -529,6 +529,7 @@ niuiic/git-log.nvim
 niuiic/multiple-session.nvim
 niuiic/part-edit.nvim
 niuiic/remote.nvim
+niuiic/scroll.nvim
 niuiic/terminal.nvim
 niuiic/translate.nvim
 niuiic/typst-preview.nvim
