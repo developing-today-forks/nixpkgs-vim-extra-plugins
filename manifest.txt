@@ -76,6 +76,7 @@ LukasPietzschmann/telescope-tabs
 LunarVim/LunarVim
 Mangeshrex/uwu.vim
 MarcHamamji/runner.nvim
+MeanderingProgrammer/markdown.nvim
 Mofiqul/adwaita.nvim
 Mofiqul/dracula.nvim
 Mofiqul/vscode.nvim
@@ -639,6 +640,7 @@ richardbizik/nvim-toc
 rktjmp/highlight-current-n.nvim
 rktjmp/pact.nvim
 rktjmp/paperplanes.nvim
+rktjmp/playtime.nvim
 rktjmp/shenzhen-solitaire.nvim
 rlane/pounce.nvim
 rmehri01/onenord.nvim
@@ -697,6 +699,7 @@ sontungexpt/url-open
 sontungexpt/witch
 soulis-1256/eagle.nvim
 soulis-1256/hoverhints.nvim
+speelbarrow/spLauncher.nvim
 startup-nvim/startup.nvim
 stevanmilic/nvim-lspimport
 stevearc/conform.nvim
@@ -744,6 +747,7 @@ topaxi/gh-actions.nvim
 toppair/peek.nvim
 toppair/reach.nvim
 tris203/hawtkeys.nvim
+tris203/precognition.nvim
 tveskag/nvim-blame-line
 udayvir-singh/hibiscus.nvim
 udayvir-singh/tangerine.nvim
