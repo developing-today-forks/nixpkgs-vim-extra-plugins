@@ -28,6 +28,7 @@ CWood-sdf/spaceport.nvim
 CamdenClark/flyboy
 Chaitanyabsprip/present.nvim
 Civitasv/cmake-tools.nvim
+CopilotC-Nvim/CopilotChat.nvim
 CosmicNvim/CosmicNvim
 CosmicNvim/cosmic-ui
 Cris-lml007/NeoPlus
@@ -529,6 +530,7 @@ niuiic/format.nvim
 niuiic/git-log.nvim
 niuiic/multiple-session.nvim
 niuiic/part-edit.nvim
+niuiic/quickfix.nvim
 niuiic/remote.nvim
 niuiic/scroll.nvim
 niuiic/terminal.nvim
@@ -604,6 +606,7 @@ pianocomposer321/yabs.nvim
 piersolenski/telescope-import.nvim
 piersolenski/wtf.nvim
 pluffie/neoproj
+pocco81/auto-save.nvim
 pocco81/dap-buddy.nvim
 pocco81/high-str.nvim
 pocco81/true-zen.nvim
