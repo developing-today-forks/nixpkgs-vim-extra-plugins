@@ -305,6 +305,7 @@ desdic/telescope-rooter.nvim
 dinhhuy258/sfm.nvim
 dmmulroy/ts-error-translator.nvim
 dmmulroy/tsc.nvim
+doctorfree/cheatsheet.nvim
 doctorfree/nvim-lazyman
 dpayne/CodeGPT.nvim
 dracula/vim
