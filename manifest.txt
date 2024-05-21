@@ -7,6 +7,7 @@
 2nthony/vitesse.nvim
 4e554c4c/darkman.nvim
 9seconds/repolink.nvim
+Aaronik/GPTModels.nvim
 Abstract-IDE/Abstract
 Abstract-IDE/Abstract-cs
 Abstract-IDE/penvim
@@ -17,6 +18,7 @@ AckslD/nvim-gfold.lua
 AckslD/nvim-revJ.lua
 AckslD/nvim-trevJ.lua
 AckslD/swenv.nvim
+AlejandroSuero/freeze-code.nvim
 AlexvZyl/nordic.nvim
 AllenDang/nvim-expand-expr
 AstroNvim/AstroNvim
@@ -98,6 +100,7 @@ NMAC427/guess-indent.nvim
 NTBBloodbath/cheovim
 NTBBloodbath/doom-nvim
 NTBBloodbath/doom-one.nvim
+NeViRAIDE/nekifoch.nvim
 Nedra1998/nvim-mdlink
 Nexmean/caskey.nvim
 NormalNvim/NormalNvim
@@ -204,6 +207,7 @@ anuvyklack/keymap-amend.nvim
 anuvyklack/pretty-fold.nvim
 anuvyklack/windows.nvim
 ariel-frischer/bmessages.nvim
+arminveres/md-pdf.nvim
 artart222/CodeArt
 artemave/workspace-diagnostics.nvim
 aserowy/tmux.nvim
@@ -535,6 +539,7 @@ niuiic/quickfix.nvim
 niuiic/remote.nvim
 niuiic/scroll.nvim
 niuiic/terminal.nvim
+niuiic/track.nvim
 niuiic/translate.nvim
 niuiic/typst-preview.nvim
 niyabits/calvera-dark.nvim
@@ -556,6 +561,7 @@ nvim-neo-tree/neo-tree.nvim
 nvim-neorocks/luarocks-tag-release
 nvim-neorocks/rocks.nvim
 nvim-neotest/neotest
+nvim-telekasten/telekasten.nvim
 nvim-telescope/telescope-bibtex.nvim
 nvim-tree/nvim-tree.lua
 nvim-tree/nvim-web-devicons
@@ -619,6 +625,7 @@ projekt0n/github-nvim-theme
 ptdewey/darkearth-nvim
 ptdewey/yankbank-nvim
 pwntester/codeql.nvim
+rachartier/tiny-devicons-auto-colors.nvim
 rafaelsq/nvim-goc.lua
 rafcamlet/tabline-framework.nvim
 ragnarok22/whereami.nvim
@@ -800,6 +807,7 @@ zbirenbaum/copilot-cmp
 zbirenbaum/neodim
 zdcthomas/yop.nvim
 zeioth/heirline-components.nvim
+zeioth/none-ls-autoload.nvim
 ziontee113/color-picker.nvim
 ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
