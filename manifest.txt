@@ -182,6 +182,7 @@ adisen99/codeschool.nvim
 akinsho/dependency-assist.nvim
 akinsho/git-conflict.nvim
 akinsho/nvim-toggleterm.lua
+al1-ce/just.nvim
 alanfortlink/blackjack.nvim
 alaviss/nim.nvim
 alec-gibson/nvim-tetris
@@ -463,6 +464,7 @@ loganswartz/polychrome.nvim
 loganswartz/sunburn.nvim
 lopi-py/luau-lsp.nvim
 lourenci/github-colors
+luckasRanarison/clear-action.nvim
 luckasRanarison/nvim-devdocs
 luckasRanarison/tailwind-tools.nvim
 luisiacc/gruvbox-baby
@@ -697,6 +699,7 @@ simaxme/java.nvim
 simonmclean/triptych.nvim
 sitiom/nvim-numbertoggle
 skanehira/christmas.vim
+slugbyte/lackluster.nvim
 slugbyte/unruly-worker
 smjonas/inc-rename.nvim
 smjonas/snippet-converter.nvim
