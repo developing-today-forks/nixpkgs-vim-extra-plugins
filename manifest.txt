@@ -551,6 +551,7 @@ nkakouros/scrollofffraction.nvim
 noib3/cokeline.nvim::cokeline
 noib3/nvim-compleet
 norcalli/nvim-base16.lua
+nosduco/remote-sshfs.nvim
 notomo/cmdbuf.nvim
 notomo/gesture.nvim
 novakne/kosmikoa.nvim
