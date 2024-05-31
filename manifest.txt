@@ -77,6 +77,7 @@ LudoPinelli/comment-box.nvim
 LukasPietzschmann/boo.nvim
 LukasPietzschmann/telescope-tabs
 LunarVim/LunarVim
+MagicDuck/grug-far.nvim
 Mangeshrex/uwu.vim
 MarcHamamji/runner.nvim
 MeanderingProgrammer/markdown.nvim
@@ -331,6 +332,7 @@ ellisonleao/nvim-plugin-template
 embark-theme/vim
 embark-theme/vim::embark-theme
 emileferreira/nvim-strict
+emmanueltouzery/decisive.nvim
 epwalsh/obsidian.nvim
 esensar/nvim-dev-container
 f-person/auto-dark-mode.nvim
@@ -702,6 +704,7 @@ sitiom/nvim-numbertoggle
 skanehira/christmas.vim
 slugbyte/lackluster.nvim
 slugbyte/unruly-worker
+slugbyte/unruly-worker.nvim
 smjonas/inc-rename.nvim
 smjonas/snippet-converter.nvim
 smzm/hydrovim
