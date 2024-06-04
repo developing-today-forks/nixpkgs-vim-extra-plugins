@@ -137,6 +137,7 @@ Shatur/neovim-tasks
 SidOfc/carbon.nvim
 SmiteshP/nvim-navic
 StratOS-Linux/StratVIM
+SuperBo/fugit2.nvim
 Th3Whit3Wolf/onebuddy
 Th3Whit3Wolf/space-nvim
 TheBlob42/drex.nvim
@@ -680,6 +681,7 @@ sQVe/bufignore.nvim
 sQVe/sort.nvim
 sachinsenal0x64/hot.nvim
 saifulapm/chartoggle.nvim
+saifulapm/neotree-file-nesting-config
 samharju/synthweave.nvim
 samharju/yeet.nvim
 samjwill/nvim-unception
