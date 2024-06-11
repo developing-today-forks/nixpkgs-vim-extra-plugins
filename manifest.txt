@@ -699,6 +699,7 @@ shaeinst/roshnivim
 shaeinst/roshnivim-cs
 shaunsingh/nyoom.nvim
 shellRaining/hlchunk.nvim
+sho-87/kanagawa-paper.nvim
 shortcuts/no-neck-pain.nvim
 siduck76/NvChad
 simaxme/java.nvim
