@@ -29,6 +29,7 @@ CWood-sdf/pineapple
 CWood-sdf/spaceport.nvim
 CamdenClark/flyboy
 Chaitanyabsprip/present.nvim
+ChuufMaster/buffer-vacuum
 Civitasv/cmake-tools.nvim
 CopilotC-Nvim/CopilotChat.nvim
 CosmicNvim/CosmicNvim
@@ -544,6 +545,7 @@ niuiic/part-edit.nvim
 niuiic/quickfix.nvim
 niuiic/remote.nvim
 niuiic/scroll.nvim
+niuiic/task.nvim
 niuiic/terminal.nvim
 niuiic/track.nvim
 niuiic/translate.nvim
@@ -812,6 +814,7 @@ yonlu/omni.vim
 gitlab:yorickpeterse/nvim-pqf
 yorickpeterse/nvim-window
 you-n-g/simplegpt.nvim
+ysmb-wtsg/in-and-out.nvim
 yutkat/confirm-quit.nvim
 zaldih/themery.nvim
 zbirenbaum/copilot-cmp
