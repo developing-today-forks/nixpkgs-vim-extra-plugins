@@ -30,6 +30,7 @@ CWood-sdf/spaceport.nvim
 CamdenClark/flyboy
 Chaitanyabsprip/present.nvim
 ChuufMaster/buffer-vacuum
+ChuufMaster/markdown-toc
 Civitasv/cmake-tools.nvim
 CopilotC-Nvim/CopilotChat.nvim
 CosmicNvim/CosmicNvim
