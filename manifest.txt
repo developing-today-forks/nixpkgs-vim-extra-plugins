@@ -429,6 +429,8 @@ junnplus/lsp-setup.nvim
 jyscao/ventana.nvim
 kaiuri/nvim-juliana
 kana/vim-textobj-indent
+karshPrime/only-tmux.nvim
+karshPrime/tmux-compile.nvim
 kawre/leetcode.nvim
 kazhala/close-buffers.nvim
 kdheepak/monochrome.nvim
@@ -773,6 +775,7 @@ toppair/peek.nvim
 toppair/reach.nvim
 tris203/hawtkeys.nvim
 tris203/precognition.nvim
+tristone13th/lspmark.nvim
 tveskag/nvim-blame-line
 udayvir-singh/hibiscus.nvim
 udayvir-singh/tangerine.nvim
