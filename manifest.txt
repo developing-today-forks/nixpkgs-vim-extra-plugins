@@ -263,6 +263,7 @@ chrisgrieser/nvim-kickstart-python
 chrisgrieser/nvim-origami
 chrisgrieser/nvim-puppeteer
 chrisgrieser/nvim-recorder
+chrisgrieser/nvim-rip-substitute
 chrisgrieser/nvim-rulebook
 chrisgrieser/nvim-scissors
 chrisgrieser/nvim-tinygit
@@ -270,6 +271,7 @@ chrisgrieser/nvim-various-textobjs
 chrsm/impulse.nvim
 chrsm/paramount-ng.nvim
 chuwy/ucm.nvim
+cjodo/convert.nvim
 ckolkey/ts-node-action
 clojure-vim/jazz.nvim
 coffebar/neovim-project
