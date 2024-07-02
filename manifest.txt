@@ -223,6 +223,7 @@ askfiy/visual_studio_code
 atusy/treemonkey.nvim
 axkirillov/easypick.nvim
 axkirillov/hbac.nvim
+ayamir/nvimdots
 b0o/incline.nvim
 b0o/mapx.nvim
 backdround/global-note.nvim
@@ -260,6 +261,7 @@ chrisgrieser/nvim-dr-lsp
 chrisgrieser/nvim-early-retirement
 chrisgrieser/nvim-genghis
 chrisgrieser/nvim-kickstart-python
+chrisgrieser/nvim-lsp-endhints
 chrisgrieser/nvim-origami
 chrisgrieser/nvim-puppeteer
 chrisgrieser/nvim-recorder
@@ -516,6 +518,8 @@ mnacamura/nvim-srcerite
 mnacamura/vim-fennel-syntax
 mnacamura/vim-r7rs-syntax
 monaqa/dial.nvim
+mong8se/actually.nvim
+mong8se/buffish.nvim
 monkoose/matchparen.nvim
 moyiz/command-and-cursor.nvim
 moyiz/git-dev.nvim
@@ -640,6 +644,7 @@ ptdewey/darkearth-nvim
 ptdewey/yankbank-nvim
 pwntester/codeql.nvim
 rachartier/tiny-devicons-auto-colors.nvim
+rachartier/tiny-inline-diagnostic.nvim
 rafaelsq/nvim-goc.lua
 rafcamlet/tabline-framework.nvim
 ragnarok22/whereami.nvim
