@@ -461,6 +461,7 @@ ldelossa/gh.nvim
 ldelossa/nvim-ide
 ldelossa/vimdark
 leafOfTree/vim-svelte-plugin
+legobeat/l7-devenv
 lewpoly/sherbet.nvim
 liangxianzhe/nap.nvim
 linrongbin16/colorbox.nvim
