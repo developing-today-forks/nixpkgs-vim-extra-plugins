@@ -727,6 +727,7 @@ smjonas/snippet-converter.nvim
 smzm/hydrovim
 someone-stole-my-name/yaml-companion.nvim
 sonjiku/yawnc.nvim
+sontungexpt/better-diagnostic-virtual-text
 sontungexpt/stcursorword
 sontungexpt/stinvim
 sontungexpt/sttusline
