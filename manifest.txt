@@ -362,6 +362,7 @@ gennaro-tedesco/nvim-commaround
 gennaro-tedesco/nvim-possession
 ggandor/leap-spooky.nvim
 ggandor/leap.nvim
+gh-liu/fold_line.nvim
 ghillb/cybu.nvim
 glacambre/firenvim
 gnikdroy/projections.nvim
