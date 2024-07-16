@@ -64,6 +64,7 @@ JoosepAlviste/nvim-ts-context-commentstring
 Junnplus/nvim-lsp-setup
 Jxstxs/conceal.nvim
 Kasama/nvim-custom-diagnostic-highlight
+Kicamon/markdown-table-mode.nvim
 L3MON4D3/LuaSnip
 LeonHeidelbach/trailblazer.nvim
 LinArcX/telescope-command-palette.nvim
@@ -675,6 +676,7 @@ rktjmp/paperplanes.nvim
 rktjmp/playtime.nvim
 rktjmp/shenzhen-solitaire.nvim
 rlane/pounce.nvim
+rmagatti/session-lens
 rmehri01/onenord.nvim
 rockerBOO/boo-colorscheme-nvim
 rockyzhang24/arctic.nvim
