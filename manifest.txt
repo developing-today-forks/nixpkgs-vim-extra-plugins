@@ -1,5 +1,6 @@
 00sapo/visual.nvim
 0styx0/abbreinder.nvim
+0xstepit/flow.nvim
 2KAbhishek/co-author.nvim
 2KAbhishek/nerdy.nvim
 2KAbhishek/tdo.nvim
