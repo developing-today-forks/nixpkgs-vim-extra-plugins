@@ -22,6 +22,7 @@ AckslD/swenv.nvim
 AlejandroSuero/freeze-code.nvim
 AlexvZyl/nordic.nvim
 AllenDang/nvim-expand-expr
+AntonVanAssche/music-controls.nvim
 AstroNvim/AstroNvim
 Bekaboo/deadcolumn.nvim
 CKolkey/ts-node-action
@@ -514,6 +515,7 @@ mikesmithgh/kitty-scrollback.nvim
 milanglacier/yarepl.nvim
 milisims/nvim-luaref
 mistricky/codesnap.nvim
+mistweaverco/kulala.nvim
 miversen33/import.nvim
 miversen33/sunglasses.nvim
 mizlan/iswap.nvim
@@ -560,6 +562,7 @@ niuiic/remote.nvim
 niuiic/scroll.nvim
 niuiic/task.nvim
 niuiic/terminal.nvim
+niuiic/todo.nvim
 niuiic/track.nvim
 niuiic/translate.nvim
 niuiic/typst-preview.nvim
@@ -647,6 +650,7 @@ projekt0n/github-nvim-theme
 ptdewey/darkearth-nvim
 ptdewey/yankbank-nvim
 pwntester/codeql.nvim
+rachartier/tiny-code-action.nvim
 rachartier/tiny-devicons-auto-colors.nvim
 rachartier/tiny-inline-diagnostic.nvim
 rafaelsq/nvim-goc.lua
