@@ -121,6 +121,7 @@ Pocco81/HighStr.nvim
 Pocco81/auto-save.nvim::AutoSave
 Pocco81/dap-buddy.nvim
 Pocco81/high-str.nvim
+QuentinGruber/timespent.nvim
 RAprogramm/nekifoch
 RRethy/nvim-treesitter-textsubjects
 RishabhRD/gruvy
@@ -498,6 +499,7 @@ mangelozzi/rgflow.nvim
 marilari88/twoslash-queries.nvim
 matbme/JABS.nvim
 mateuszwieloch/automkdir.nvim
+maxandron/goplements.nvim
 maxmx03/FluoroMachine.nvim
 maxmx03/fluoromachine.nvim
 mcauley-penney/tidy.nvim
@@ -650,6 +652,7 @@ projekt0n/github-nvim-theme
 ptdewey/darkearth-nvim
 ptdewey/yankbank-nvim
 pwntester/codeql.nvim
+quolpr/quicktest.nvim
 rachartier/tiny-code-action.nvim
 rachartier/tiny-devicons-auto-colors.nvim
 rachartier/tiny-inline-diagnostic.nvim
