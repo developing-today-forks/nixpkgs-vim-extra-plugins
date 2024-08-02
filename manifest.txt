@@ -27,6 +27,7 @@ AstroNvim/AstroNvim
 Bekaboo/deadcolumn.nvim
 CKolkey/ts-node-action
 CRAG666/code_runner.nvim
+CWood-sdf/banana.nvim
 CWood-sdf/pineapple
 CWood-sdf/spaceport.nvim
 CamdenClark/flyboy
