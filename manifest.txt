@@ -87,6 +87,7 @@ MagicDuck/grug-far.nvim
 Mangeshrex/uwu.vim
 MarcHamamji/runner.nvim
 MeanderingProgrammer/markdown.nvim
+MeanderingProgrammer/render-markdown.nvim
 Mofiqul/adwaita.nvim
 Mofiqul/dracula.nvim
 Mofiqul/vscode.nvim
@@ -515,6 +516,7 @@ michaelb/sniprun
 miikanissi/modus-themes.nvim
 mikesmithgh/git-prompt-string-lualine.nvim
 mikesmithgh/kitty-scrollback.nvim
+milanglacier/minuet-ai.nvim
 milanglacier/yarepl.nvim
 milisims/nvim-luaref
 mistricky/codesnap.nvim
