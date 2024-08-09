@@ -302,6 +302,7 @@ cstsunfu/.sea.nvim
 cuducos/yaml.nvim
 cunderw/nvim
 cvigilv/esqueleto.nvim
+dam9000/kickstart-modular.nvim
 danielpieper/telescope-tmuxinator.nvim
 danymat/neogen
 dasupradyumna/launch.nvim
@@ -710,6 +711,7 @@ sQVe/sort.nvim
 sachinsenal0x64/hot.nvim
 saifulapm/chartoggle.nvim
 saifulapm/neotree-file-nesting-config
+samharju/serene.nvim
 samharju/synthweave.nvim
 samharju/yeet.nvim
 samjwill/nvim-unception
@@ -756,6 +758,7 @@ stevearc/conform.nvim
 stevearc/gkeep.nvim
 stevearc/overseer.nvim
 stevearc/qf_helper.nvim
+stevearc/quicker.nvim
 subnut/nvim-ghost.nvim
 svermeulen/nvim-lusc
 svermeulen/text-to-colorscheme
