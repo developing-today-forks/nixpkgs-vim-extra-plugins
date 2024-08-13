@@ -25,6 +25,7 @@ AllenDang/nvim-expand-expr
 AntonVanAssche/music-controls.nvim
 AstroNvim/AstroNvim
 Bekaboo/deadcolumn.nvim
+BrunoCiccarino/gardenal
 CKolkey/ts-node-action
 CRAG666/code_runner.nvim
 CWood-sdf/banana.nvim
@@ -145,6 +146,7 @@ Shatur/neovim-tasks
 SidOfc/carbon.nvim
 SmiteshP/nvim-navic
 StratOS-Linux/StratVIM
+SunnyTamang/pendulum.nvim
 SuperBo/fugit2.nvim
 Th3Whit3Wolf/onebuddy
 Th3Whit3Wolf/space-nvim
@@ -502,6 +504,7 @@ mangelozzi/rgflow.nvim
 marilari88/twoslash-queries.nvim
 matbme/JABS.nvim
 mateuszwieloch/automkdir.nvim
+mawkler/demicolon.nvim
 maxandron/goplements.nvim
 maxmx03/FluoroMachine.nvim
 maxmx03/fluoromachine.nvim
@@ -550,6 +553,7 @@ neanias/everforest-nvim
 sourcehut:nedia/auto-format.nvim
 sourcehut:nedia/auto-save.nvim
 nekonako/xresources-nvim
+neolooong/whichpy.nvim
 nfrid/due.nvim
 nfrid/markdown-togglecheck
 nfrid/treesitter-utils
