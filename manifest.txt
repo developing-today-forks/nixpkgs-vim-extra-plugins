@@ -315,6 +315,7 @@ davidgranstrom/osc.nvim
 davidgranstrom/scnvim
 deathbeam/autocomplete.nvim
 deathbeam/lspecho.nvim
+debugloop/layers.nvim
 debugloop/telescope-undo.nvim
 declancm/cinnamon.nvim
 declancm/windex.nvim
@@ -844,6 +845,7 @@ yaocccc/nvim-lines.lua
 yashguptaz/calvera-dark.nvim
 yazeed1s/minimal.nvim
 yazeed1s/oh-lucy.nvim
+yetone/avante.nvim
 yonlu/omni.vim
 gitlab:yorickpeterse/nvim-pqf
 yorickpeterse/nvim-window
