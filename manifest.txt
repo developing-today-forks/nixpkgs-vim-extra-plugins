@@ -114,6 +114,7 @@ Nedra1998/nvim-mdlink
 Nexmean/caskey.nvim
 NormalNvim/NormalNvim
 NvChad/nvim-colorizer.lua
+OXY2DEV/foldtext.nvim
 Olical/nfnl
 OscarCreator/rsync.nvim
 Ostralyan/scribe.nvim
@@ -146,6 +147,7 @@ Shatur/neovim-tasks
 SidOfc/carbon.nvim
 SmiteshP/nvim-navic
 StratOS-Linux/StratVIM
+StubbornVegeta/llm.nvim
 SunnyTamang/pendulum.nvim
 SuperBo/fugit2.nvim
 Th3Whit3Wolf/onebuddy
@@ -353,6 +355,8 @@ emmanueltouzery/decisive.nvim
 epwalsh/obsidian.nvim
 esensar/nvim-dev-container
 f-person/auto-dark-mode.nvim
+farias-hecdin/CSSVarHighlight
+farias-hecdin/CSSVarViewer
 fdschmidt93/telescope-egrepify.nvim
 feline-nvim/feline.nvim
 fnune/recall.nvim
@@ -454,6 +458,7 @@ kelly-lin/ranger.nvim
 kevinhwang91/nvim-ufo
 kevinm6/kurayami.nvim
 kiddos/gemini.nvim
+killitar/obscure.nvim
 kiran94/edit-markdown-table.nvim
 kiran94/s3edit.nvim
 kkharji/sqlite.lua
@@ -693,6 +698,7 @@ rktjmp/paperplanes.nvim
 rktjmp/playtime.nvim
 rktjmp/shenzhen-solitaire.nvim
 rlane/pounce.nvim
+rlychrisg/keepcursor.nvim
 rmagatti/session-lens
 rmehri01/onenord.nvim
 rockerBOO/boo-colorscheme-nvim
