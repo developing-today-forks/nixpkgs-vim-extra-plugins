@@ -6,6 +6,7 @@
 2KAbhishek/tdo.nvim
 2KAbhishek/termim.nvim
 2nthony/vitesse.nvim
+3v0k4/exit.nvim
 4e554c4c/darkman.nvim
 9seconds/repolink.nvim
 Aaronik/GPTModels.nvim
@@ -202,6 +203,7 @@ alaviss/nim.nvim
 alec-gibson/nvim-tetris
 alexaandru/nvim-lspupdate
 alexmozaidze/palenight.nvim
+alexpasmantier/pymple.nvim
 aliou/bats.vim
 altermo/iedit.nvim
 altermo/nwm
@@ -511,6 +513,7 @@ marilari88/twoslash-queries.nvim
 matbme/JABS.nvim
 mateuszwieloch/automkdir.nvim
 mawkler/demicolon.nvim
+mawkler/refjump.nvim
 maxandron/goplements.nvim
 maxmx03/FluoroMachine.nvim
 maxmx03/fluoromachine.nvim
@@ -664,6 +667,7 @@ potamides/pantran.nvim
 prichrd/netrw.nvim
 projekt0n/github-nvim-theme
 ptdewey/darkearth-nvim
+ptdewey/pendulum-nvim
 ptdewey/yankbank-nvim
 pwntester/codeql.nvim
 quolpr/quicktest.nvim
