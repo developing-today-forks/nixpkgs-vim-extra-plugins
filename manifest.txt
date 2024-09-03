@@ -70,6 +70,7 @@ Junnplus/nvim-lsp-setup
 Jxstxs/conceal.nvim
 Kasama/nvim-custom-diagnostic-highlight
 Kicamon/markdown-table-mode.nvim
+Kurama622/llm.nvim
 L3MON4D3/LuaSnip
 LeonHeidelbach/trailblazer.nvim
 LinArcX/telescope-command-palette.nvim
@@ -138,6 +139,7 @@ Rolv-Apneseth/tfm.nvim
 RutaTang/compter.nvim
 RutaTang/quicknote.nvim
 RutaTang/spectacle.nvim
+SCJangra/table-nvim
 SUSTech-data/neopyter
 Saecki/crates.nvim
 SalOrak/whaler.nvim
