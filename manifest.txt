@@ -196,6 +196,7 @@ adelarsq/image_preview.nvim
 adelarsq/neoline.vim
 adisen99/apprentice.nvim
 adisen99/codeschool.nvim
+adoyle-h/one.nvim
 akinsho/dependency-assist.nvim
 akinsho/git-conflict.nvim
 akinsho/nvim-toggleterm.lua
@@ -672,6 +673,7 @@ ptdewey/darkearth-nvim
 ptdewey/pendulum-nvim
 ptdewey/yankbank-nvim
 pwntester/codeql.nvim
+qaptoR-nvim/chocolatier.nvim
 quolpr/quicktest.nvim
 rachartier/tiny-code-action.nvim
 rachartier/tiny-devicons-auto-colors.nvim
