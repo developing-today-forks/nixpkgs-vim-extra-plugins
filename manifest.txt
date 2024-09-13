@@ -127,6 +127,7 @@ Pocco81/HighStr.nvim
 Pocco81/auto-save.nvim::AutoSave
 Pocco81/dap-buddy.nvim
 Pocco81/high-str.nvim
+QuentinGruber/pomodoro.nvim
 QuentinGruber/timespent.nvim
 RAprogramm/nekifoch
 RRethy/nvim-treesitter-textsubjects
@@ -707,6 +708,7 @@ rktjmp/playtime.nvim
 rktjmp/shenzhen-solitaire.nvim
 rlane/pounce.nvim
 rlychrisg/keepcursor.nvim
+rlychrisg/truncateline.nvim
 rmagatti/session-lens
 rmehri01/onenord.nvim
 rockerBOO/boo-colorscheme-nvim
