@@ -247,6 +247,7 @@ backdround/improved-ft.nvim
 backdround/improved-search.nvim
 backdround/neowords.nvim
 backdround/tabscope.nvim
+bakageddy/alduin.nvim
 gitlab:bartekjaszczak/distinct-nvim
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
@@ -333,6 +334,7 @@ desdic/greyjoy.nvim
 desdic/macrothis.nvim
 desdic/marlin.nvim
 desdic/telescope-rooter.nvim
+diegoulloao/neofusion.nvim
 dinhhuy258/sfm.nvim
 dmmulroy/ts-error-translator.nvim
 dmmulroy/tsc.nvim
@@ -452,6 +454,7 @@ jubnzv/virtual-types.nvim
 judaew/ronny.nvim
 junnplus/lsp-setup.nvim
 jyscao/ventana.nvim
+k2589/lluminate.nvim
 kaiuri/nvim-juliana
 kana/vim-textobj-indent
 karshPrime/only-tmux.nvim
