@@ -240,6 +240,7 @@ atusy/treemonkey.nvim
 axkirillov/easypick.nvim
 axkirillov/hbac.nvim
 ayamir/nvimdots
+azratul/live-share.nvim
 b0o/incline.nvim
 b0o/mapx.nvim
 backdround/global-note.nvim
