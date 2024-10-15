@@ -250,6 +250,7 @@ backdround/neowords.nvim
 backdround/tabscope.nvim
 bakageddy/alduin.nvim
 gitlab:bartekjaszczak/distinct-nvim
+gitlab:bartekjaszczak/luma-nvim
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
 bennypowers/nvim-regexplainer
@@ -583,6 +584,7 @@ niuiic/divider.nvim
 niuiic/format.nvim
 niuiic/git-log.nvim
 niuiic/multiple-session.nvim
+niuiic/omega.nvim
 niuiic/part-edit.nvim
 niuiic/quickfix.nvim
 niuiic/remote.nvim
@@ -594,6 +596,7 @@ niuiic/track.nvim
 niuiic/translate.nvim
 niuiic/typst-preview.nvim
 niyabits/calvera-dark.nvim
+njayman/season.nvim
 nkakouros-original/numbers.nvim
 nkakouros-original/scrollofffraction.nvim
 nkakouros/scrollofffraction.nvim
