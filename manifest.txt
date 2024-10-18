@@ -2,9 +2,12 @@
 0styx0/abbreinder.nvim
 0xstepit/flow.nvim
 2KAbhishek/co-author.nvim
+2KAbhishek/markit.nvim
 2KAbhishek/nerdy.nvim
 2KAbhishek/tdo.nvim
 2KAbhishek/termim.nvim
+2kabhishek/octohub.nvim
+2kabhishek/utils.nvim
 2nthony/vitesse.nvim
 3v0k4/exit.nvim
 4e554c4c/darkman.nvim
@@ -45,8 +48,11 @@ Darazaki/indent-o-matic
 David-Kunz/gen.nvim
 David-Kunz/jester
 Dhanus3133/Leetbuddy.nvim
+EL-MASTOR/bufferlist.nvim
 Eandrju/cellular-automaton.nvim
 EthanJWright/vs-tasks.nvim
+EvWilson/slimux.nvim
+EvWilson/spelunk.nvim
 Everblush/everblush.nvim
 Everblush/nvim
 Exafunction/codeium.nvim
@@ -571,6 +577,7 @@ neanias/everforest-nvim
 sourcehut:nedia/auto-format.nvim
 sourcehut:nedia/auto-save.nvim
 nekonako/xresources-nvim
+neo451/feed.nvim
 neolooong/whichpy.nvim
 nfrid/due.nvim
 nfrid/markdown-togglecheck
