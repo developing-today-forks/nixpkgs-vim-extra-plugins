@@ -156,6 +156,7 @@ Shatur/neovim-session-manager
 Shatur/neovim-tasks
 SidOfc/carbon.nvim
 SmiteshP/nvim-navic
+Snikimonkd/cmp-go-pkgs
 StratOS-Linux/StratVIM
 StubbornVegeta/llm.nvim
 SunnyTamang/pendulum.nvim
@@ -317,6 +318,7 @@ crusj/bookmarks.nvim
 crusj/hierarchy-tree-go.nvim
 crusj/structrue-go.nvim
 cryptomilk/nightcity.nvim
+csessh/stopinsert.nvim
 cstsunfu/.sea.nvim
 cuducos/yaml.nvim
 cunderw/nvim
@@ -354,6 +356,7 @@ dracula/vim::dracula
 drybalka/clean.nvim
 drybalka/tree-climber.nvim
 duane9/nvim-rg
+dzfrias/arena.nvim
 ecthelionvi/NeoColumn.nvim
 ecthelionvi/NeoComposer.nvim
 edolphin-ydf/goimpl.nvim
