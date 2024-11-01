@@ -257,6 +257,7 @@ backdround/neowords.nvim
 backdround/tabscope.nvim
 bakageddy/alduin.nvim
 gitlab:bartekjaszczak/distinct-nvim
+gitlab:bartekjaszczak/finale-nvim
 gitlab:bartekjaszczak/luma-nvim
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
