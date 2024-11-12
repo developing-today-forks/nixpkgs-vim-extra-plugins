@@ -185,6 +185,7 @@ WhoIsSethDaniel/mason-tool-installer.nvim
 Willem-J-an/visidata.nvim
 XXiaoA/ns-textobject.nvim
 Xuyuanp/yanil
+YaroSpace/lua-console.nvim
 Yazeed1s/minimal.nvim
 Yazeed1s/oh-lucy.nvim
 Zeioth/compiler.nvim
@@ -411,6 +412,7 @@ h-hg/fcitx.nvim
 hackorum/VapourNvim
 hadronized/mind.nvim
 hakonharnes/img-clip.nvim
+hat0uma/csvview.nvim
 hedyhli/outline.nvim
 sourcehut:henriquehbr/ataraxis.lua
 sourcehut:henriquehbr/nvim-startup.lua
@@ -533,6 +535,7 @@ matbme/JABS.nvim
 mateuszwieloch/automkdir.nvim
 mawkler/demicolon.nvim
 mawkler/refjump.nvim
+max397574/colortils.nvim
 maxandron/goplements.nvim
 maxmx03/FluoroMachine.nvim
 maxmx03/fluoromachine.nvim
@@ -621,6 +624,7 @@ novakne/kosmikoa.nvim
 numToStr/BufOnly.nvim
 numToStr/Comment.nvim
 nvim-colortils/colortils.nvim
+nvim-flutter/flutter-tools.nvim
 nvim-focus/focus.nvim
 nvim-lua/kickstart.nvim
 nvim-neo-tree/neo-tree.nvim
@@ -791,6 +795,7 @@ sontungexpt/witch
 soulis-1256/eagle.nvim
 soulis-1256/hoverhints.nvim
 speelbarrow/spLauncher.nvim
+sschleemilch/slimline.nvim
 startup-nvim/startup.nvim
 stevanmilic/nvim-lspimport
 stevearc/conform.nvim
