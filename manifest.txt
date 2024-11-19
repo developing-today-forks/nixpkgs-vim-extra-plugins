@@ -77,6 +77,7 @@ Jxstxs/conceal.nvim
 Kasama/nvim-custom-diagnostic-highlight
 Kicamon/markdown-table-mode.nvim
 Kurama622/llm.nvim
+Kurama622/profile.nvim
 L3MON4D3/LuaSnip
 LeonHeidelbach/trailblazer.nvim
 LinArcX/telescope-command-palette.nvim
@@ -288,6 +289,7 @@ chrisgrieser/nvim-chainsaw
 chrisgrieser/nvim-dr-lsp
 chrisgrieser/nvim-early-retirement
 chrisgrieser/nvim-genghis
+chrisgrieser/nvim-justice
 chrisgrieser/nvim-kickstart-python
 chrisgrieser/nvim-lsp-endhints
 chrisgrieser/nvim-origami
@@ -375,6 +377,7 @@ emileferreira/nvim-strict
 emmanueltouzery/decisive.nvim
 epwalsh/obsidian.nvim
 esensar/nvim-dev-container
+esmuellert/nvim-eslint
 f-person/auto-dark-mode.nvim
 farias-hecdin/CSSVarHighlight
 farias-hecdin/CSSVarViewer
@@ -503,6 +506,7 @@ leafOfTree/vim-svelte-plugin
 legobeat/l7-devenv
 lewpoly/sherbet.nvim
 liangxianzhe/nap.nvim
+lima1909/resty.nvim
 linrongbin16/colorbox.nvim
 linrongbin16/fzfx.nvim
 linrongbin16/gentags.nvim
@@ -753,6 +757,7 @@ sQVe/bufignore.nvim
 sQVe/sort.nvim
 sachinsenal0x64/hot.nvim
 saifulapm/chartoggle.nvim
+saifulapm/commasemi.nvim
 saifulapm/neotree-file-nesting-config
 samharju/serene.nvim
 samharju/synthweave.nvim
