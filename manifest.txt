@@ -846,6 +846,7 @@ tomasky/bookmarks.nvim::bookmarks-nvim-2
 tomiis4/BufferTabs.nvim
 tomiis4/hypersonic.nvim
 topaxi/gh-actions.nvim
+topaxi/pipeline.nvim
 toppair/peek.nvim
 toppair/reach.nvim
 tris203/hawtkeys.nvim
