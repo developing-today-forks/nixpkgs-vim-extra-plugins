@@ -2,10 +2,13 @@
 0styx0/abbreinder.nvim
 0xstepit/flow.nvim
 2KAbhishek/co-author.nvim
+2KAbhishek/exercism.nvim
 2KAbhishek/markit.nvim
 2KAbhishek/nerdy.nvim
+2KAbhishek/octohub.nvim
 2KAbhishek/tdo.nvim
 2KAbhishek/termim.nvim
+2KAbhishek/utils.nvim
 2kabhishek/octohub.nvim
 2kabhishek/utils.nvim
 2nthony/vitesse.nvim
@@ -44,6 +47,8 @@ CopilotC-Nvim/CopilotChat.nvim
 CosmicNvim/CosmicNvim
 CosmicNvim/cosmic-ui
 Cris-lml007/NeoPlus
+Dan7h3x/neaterm.nvim
+Dan7h3x/signup.nvim
 Darazaki/indent-o-matic
 David-Kunz/gen.nvim
 David-Kunz/jester
@@ -305,6 +310,7 @@ chrsm/paramount-ng.nvim
 chuwy/ucm.nvim
 cjodo/convert.nvim
 ckolkey/ts-node-action
+claydugo/browsher.nvim
 clojure-vim/jazz.nvim
 coffebar/neovim-project
 coffebar/transfer.nvim
@@ -894,6 +900,7 @@ yetone/avante.nvim
 yonlu/omni.vim
 gitlab:yorickpeterse/nvim-pqf
 yorickpeterse/nvim-window
+you-n-g/navigate-note.nvim
 you-n-g/simplegpt.nvim
 ysmb-wtsg/in-and-out.nvim
 yutkat/confirm-quit.nvim
