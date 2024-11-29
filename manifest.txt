@@ -412,6 +412,7 @@ glacambre/firenvim
 gnikdroy/projections.nvim
 gorbit99/codewindow.nvim
 gregorias/coerce.nvim
+gregorias/coop.nvim
 gsuuon/llm.nvim
 gsuuon/model.nvim
 gsuuon/note.nvim
@@ -683,6 +684,7 @@ otavioschwanck/telescope-alternate.nvim
 otavioschwanck/tmux-awesome-manager.nvim
 oxfist/night-owl.nvim
 p00f/cphelper.nvim
+paul-louyot/toggle-quotes.nvim
 petertriho/nvim-scrollbar
 pgosar/CyberNvim
 phaazon/mind.nvim
