@@ -281,6 +281,7 @@ bluz71/vim-nightfly-colors
 booperlv/nvim-gomove
 brendalf/mix.nvim
 brenoprata10/nvim-highlight-colors
+brianaung/compl.nvim
 calind/selenized.nvim
 cappyzawa/trim.nvim
 catppuccin/nvim::catppuccin
@@ -478,6 +479,7 @@ jubnzv/mdeval.nvim
 jubnzv/virtual-types.nvim
 judaew/ronny.nvim
 junnplus/lsp-setup.nvim
+juselara1/tmutils.nvim
 jyscao/ventana.nvim
 k2589/lluminate.nvim
 kaiuri/nvim-juliana
@@ -858,6 +860,7 @@ topaxi/gh-actions.nvim
 topaxi/pipeline.nvim
 toppair/peek.nvim
 toppair/reach.nvim
+trevorhauter/gitportal.nvim
 tris203/hawtkeys.nvim
 tris203/precognition.nvim
 tristone13th/lspmark.nvim
