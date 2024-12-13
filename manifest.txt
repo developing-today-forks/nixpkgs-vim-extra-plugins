@@ -49,6 +49,7 @@ CosmicNvim/cosmic-ui
 Cris-lml007/NeoPlus
 Dan7h3x/neaterm.nvim
 Dan7h3x/signup.nvim
+DanilaMihailov/beacon.nvim
 Darazaki/indent-o-matic
 David-Kunz/gen.nvim
 David-Kunz/jester
@@ -203,6 +204,7 @@ Zeioth/makeit.nvim
 Zeioth/markmap.nvim
 ZhiyuanLck/smart-pairs
 aaronhallaert/advanced-git-search.nvim
+aaronik/Treewalker.nvim
 abecodes/tabout.nvim
 abeldekat/harpoonline
 abeldekat/lazyflex.nvim
@@ -329,6 +331,7 @@ crusj/bookmarks.nvim
 crusj/hierarchy-tree-go.nvim
 crusj/structrue-go.nvim
 cryptomilk/nightcity.nvim
+csessh/aoc.nvim
 csessh/stopinsert.nvim
 cstsunfu/.sea.nvim
 cuducos/yaml.nvim
@@ -640,6 +643,7 @@ numToStr/Comment.nvim
 nvim-colortils/colortils.nvim
 nvim-flutter/flutter-tools.nvim
 nvim-focus/focus.nvim
+nvim-java/nvim-java
 nvim-lua/kickstart.nvim
 nvim-neo-tree/neo-tree.nvim
 nvim-neorocks/luarocks-tag-release
