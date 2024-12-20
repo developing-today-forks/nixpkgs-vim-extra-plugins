@@ -815,6 +815,7 @@ sontungexpt/witch
 soulis-1256/eagle.nvim
 soulis-1256/hoverhints.nvim
 speelbarrow/spLauncher.nvim
+sphamba/smear-cursor.nvim
 sschleemilch/slimline.nvim
 startup-nvim/startup.nvim
 stevanmilic/nvim-lspimport
