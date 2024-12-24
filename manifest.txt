@@ -104,6 +104,8 @@ Mangeshrex/uwu.vim
 MarcHamamji/runner.nvim
 MeanderingProgrammer/markdown.nvim
 MeanderingProgrammer/render-markdown.nvim
+MisanthropicBit/decipher.nvim
+MisanthropicBit/winmove.nvim
 Mofiqul/adwaita.nvim
 Mofiqul/dracula.nvim
 Mofiqul/vscode.nvim
@@ -171,6 +173,7 @@ SuperBo/fugit2.nvim
 Th3Whit3Wolf/onebuddy
 Th3Whit3Wolf/space-nvim
 TheBlob42/drex.nvim
+TheBlob42/houdini.nvim
 ThePrimeagen/vim-be-good
 ThemerCorp/themer.lua
 TimUntersberger/neofs
@@ -649,6 +652,7 @@ nvim-neo-tree/neo-tree.nvim
 nvim-neorocks/luarocks-tag-release
 nvim-neorocks/rocks.nvim
 nvim-neotest/neotest
+nvim-pack/nvim-spectre
 nvim-telekasten/telekasten.nvim
 nvim-telescope/telescope-bibtex.nvim
 nvim-tree/nvim-tree.lua
@@ -925,4 +929,5 @@ ziontee113/color-picker.nvim
 ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
 zk-org/zk-nvim
+zongben/capsoff.nvim
 zootedb0t/citruszest.nvim
