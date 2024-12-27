@@ -340,6 +340,7 @@ cstsunfu/.sea.nvim
 cuducos/yaml.nvim
 cunderw/nvim
 cvigilv/esqueleto.nvim
+cxwx/lazyUrlUpdate.nvim
 daltongd/yanklock.nvim
 dam9000/kickstart-modular.nvim
 danielpieper/telescope-tmuxinator.nvim
