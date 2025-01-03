@@ -255,6 +255,7 @@ ashfinal/qfview.nvim
 askfiy/nvim
 askfiy/nvim-picgo
 askfiy/visual_studio_code
+athar-qadri/scratchpad.nvim
 atusy/treemonkey.nvim
 axkirillov/easypick.nvim
 axkirillov/hbac.nvim
@@ -451,6 +452,7 @@ imbacraft/dusk.nvim
 inkch/vim-fish::vim-fish-inkch
 is0n/fm-nvim
 is0n/jaq-nvim
+isak102/ghostty.nvim
 isak102/telescope-git-file-history.nvim
 ishan9299/modus-theme-vim
 j-morano/buffer_manager.nvim
@@ -507,6 +509,7 @@ kiran94/s3edit.nvim
 kkharji/sqlite.lua
 klen/nvim-test
 kmonad/kmonad-vim
+kobbikobb/move-lines.nvim
 koenverburg/peepsight.nvim
 konapun/vacuumline.nvim
 kr40/nvim-macros
@@ -931,4 +934,5 @@ ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
 zk-org/zk-nvim
 zongben/capsoff.nvim
+zongben/navimark.nvim
 zootedb0t/citruszest.nvim
