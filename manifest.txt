@@ -94,6 +94,7 @@ LintaoAmons/scratch.nvim
 LionC/nest.nvim
 LoricAndre/OneTerm.nvim
 LucasTavaresA/SingleComment.nvim
+LucasTavaresA/headers.nvim
 LucasTavaresA/simpleIndentGuides.nvim
 LudoPinelli/comment-box.nvim
 LukasPietzschmann/boo.nvim
