@@ -552,6 +552,7 @@ m-demare/attempt.nvim
 m-demare/hlargs.nvim
 m00qek/baleia.nvim
 m00qek/plugin-template.nvim
+m15a/nvim-srcerite
 m4xshen/autoclose.nvim
 madskjeldgaard/reaper-nvim
 malbertzard/inline-fold.nvim
