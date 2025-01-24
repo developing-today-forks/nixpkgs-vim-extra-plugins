@@ -587,6 +587,7 @@ mistweaverco/kulala.nvim
 miversen33/import.nvim
 miversen33/sunglasses.nvim
 mizlan/iswap.nvim
+mluders/comfy-line-numbers.nvim
 mnacamura/iron.nvim::iron-nvim-mnacamura
 mnacamura/nvim-srcerite
 mnacamura/vim-fennel-syntax
@@ -914,6 +915,7 @@ xiyaowong/link-visitor.nvim
 xiyaowong/nvim-cursorword
 xiyaowong/nvim-transparent
 xiyaowong/virtcolumn.nvim
+xzbdmw/colorful-menu.nvim
 yagiziskirik/AirSupport.nvim
 yanskun/gotests.nvim
 yaocccc/nvim-foldsign
