@@ -159,6 +159,7 @@ RutaTang/spectacle.nvim
 SCJangra/table-nvim
 SUSTech-data/neopyter
 Saecki/crates.nvim
+Saghen/blink.cmp
 SalOrak/whaler.nvim
 SergioRibera/cmp-dotenv
 Shaobin-Jiang/IceNvim
