@@ -178,6 +178,7 @@ TheBlob42/drex.nvim
 TheBlob42/houdini.nvim
 ThePrimeagen/vim-be-good
 ThemerCorp/themer.lua
+Thiago4532/mdmath.nvim
 TimUntersberger/neofs
 TobinPalmer/Tip.nvim
 TobinPalmer/rayso.nvim
@@ -354,6 +355,7 @@ datwaft/bubbly.nvim
 davidgranstrom/nvim-markdown-preview
 davidgranstrom/osc.nvim
 davidgranstrom/scnvim
+davidyz/vectorcode
 deathbeam/autocomplete.nvim
 deathbeam/lspecho.nvim
 debugloop/layers.nvim
@@ -368,6 +370,7 @@ desdic/marlin.nvim
 desdic/telescope-rooter.nvim
 diegoulloao/neofusion.nvim
 dinhhuy258/sfm.nvim
+dlants/magenta.nvim
 dmmulroy/ts-error-translator.nvim
 dmmulroy/tsc.nvim
 doctorfree/cheatsheet.nvim
@@ -450,6 +453,7 @@ iabdelkareem/csharp.nvim
 idanarye/nvim-buffls
 idanarye/nvim-channelot
 idanarye/nvim-moonicipal
+igorlfs/nvim-dap-view
 imbacraft/dusk.nvim
 inkch/vim-fish::vim-fish-inkch
 is0n/fm-nvim
@@ -528,6 +532,7 @@ ldelossa/vimdark
 leafOfTree/vim-svelte-plugin
 legobeat/l7-devenv
 lewpoly/sherbet.nvim
+lfilho/note2cal.nvim
 liangxianzhe/nap.nvim
 lima1909/resty.nvim
 linrongbin16/colorbox.nvim
@@ -614,6 +619,7 @@ natecraddock/workspaces.nvim
 neanias/everforest-nvim
 sourcehut:nedia/auto-format.nvim
 sourcehut:nedia/auto-save.nvim
+neko-night/nvim
 nekonako/xresources-nvim
 neo451/feed.nvim
 neolooong/whichpy.nvim
@@ -863,6 +869,7 @@ tenxsoydev/tabs-vs-spaces.nvim
 terje/simctl.nvim
 thaerkh/vim-workspace
 theKnightsOfRohan/csvlens.nvim
+theKnightsOfRohan/hexer.nvim
 themaxmarchuk/tailwindcss-colors.nvim
 themercorp/themer.lua
 theniceboy/nvim-deus
@@ -895,6 +902,7 @@ utilyre/sentiment.nvim
 vi-tality/neovitality
 vigoux/complementree.nvim
 vxpm/ferris.nvim
+vyfor/cord.nvim
 williamboman/mason-lspconfig.nvim
 williamboman/mason.nvim
 williamboman/nvim-lsp-installer
@@ -907,6 +915,7 @@ windwp/nvim-spectre
 windwp/windline.nvim
 winston0410/commented.nvim
 woosaaahh/sj.nvim
+wsdjeg/flygrep.nvim
 wurli/split.nvim
 wurli/visimatch.nvim
 xeluxee/competitest.nvim
