@@ -12,6 +12,7 @@
 2kabhishek/octohub.nvim
 2kabhishek/utils.nvim
 2nthony/vitesse.nvim
+3rd/image.nvim
 3v0k4/exit.nvim
 4e554c4c/darkman.nvim
 9seconds/repolink.nvim
@@ -201,6 +202,7 @@ Xuyuanp/yanil
 YaroSpace/lua-console.nvim
 Yazeed1s/minimal.nvim
 Yazeed1s/oh-lucy.nvim
+Yu-Leo/blame-column.nvim
 Zeioth/compiler.nvim
 Zeioth/distroupdate.nvim
 Zeioth/dooku.nvim
@@ -741,6 +743,7 @@ qaptoR-nvim/chocolatier.nvim
 quolpr/quicktest.nvim
 rachartier/tiny-code-action.nvim
 rachartier/tiny-devicons-auto-colors.nvim
+rachartier/tiny-glimmer.nvim
 rachartier/tiny-inline-diagnostic.nvim
 rafaelsq/nvim-goc.lua
 rafcamlet/tabline-framework.nvim
