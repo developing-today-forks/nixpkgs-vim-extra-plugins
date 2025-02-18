@@ -57,6 +57,7 @@ David-Kunz/jester
 Dhanus3133/Leetbuddy.nvim
 EL-MASTOR/bufferlist.nvim
 Eandrju/cellular-automaton.nvim
+Enigama/miss.nvim
 EthanJWright/vs-tasks.nvim
 EvWilson/slimux.nvim
 EvWilson/spelunk.nvim
@@ -619,6 +620,7 @@ nanotee/sqls.nvim
 nanozuki/tabby.nvim
 natecraddock/workspaces.nvim
 neanias/everforest-nvim
+neanvo/buben.nvim
 sourcehut:nedia/auto-format.nvim
 sourcehut:nedia/auto-save.nvim
 neko-night/nvim
@@ -846,6 +848,7 @@ startup-nvim/startup.nvim
 stevanmilic/nvim-lspimport
 stevearc/conform.nvim
 stevearc/gkeep.nvim
+stevearc/oil.nvim
 stevearc/overseer.nvim
 stevearc/qf_helper.nvim
 stevearc/quicker.nvim
