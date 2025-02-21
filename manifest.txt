@@ -170,6 +170,7 @@ Shatur/neovim-tasks
 SidOfc/carbon.nvim
 SmiteshP/nvim-navic
 Snikimonkd/cmp-go-pkgs
+StanAngeloff/claudius.nvim
 StratOS-Linux/StratVIM
 StubbornVegeta/llm.nvim
 SunnyTamang/pendulum.nvim
@@ -491,6 +492,7 @@ johann2357/nvim-smartbufs
 jonathandion/web-dev.nvim
 jose-elias-alvarez/null-ls.nvim
 jose-elias-alvarez/typescript.nvim
+josephburgess/nvumi
 jpmcb/nvim-llama
 jrychn/ModuleVim
 jubnzv/mdeval.nvim
