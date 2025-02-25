@@ -410,6 +410,7 @@ fdschmidt93/telescope-egrepify.nvim
 feline-nvim/feline.nvim
 fnune/recall.nvim
 frabjous/knap
+francescarpi/buffon.nvim
 fuenor/JpFormat.vim
 gaborvecsei/cryptoprice.nvim
 gaborvecsei/memento.nvim
@@ -881,6 +882,7 @@ theKnightsOfRohan/hexer.nvim
 themaxmarchuk/tailwindcss-colors.nvim
 themercorp/themer.lua
 theniceboy/nvim-deus
+thesimonho/kanagawa-paper.nvim
 tiagovla/tokyodark.nvim
 titanzero/zephyrium
 tjdevries/astronauta.nvim:edc19d30a3c51a8c3fc3f606008e5b4238821f1e
