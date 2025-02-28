@@ -630,6 +630,7 @@ neko-night/nvim
 nekonako/xresources-nvim
 neo451/feed.nvim
 neolooong/whichpy.nvim
+neur1n/noline.nvim
 nfrid/due.nvim
 nfrid/markdown-togglecheck
 nfrid/treesitter-utils
