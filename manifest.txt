@@ -205,6 +205,7 @@ YaroSpace/lua-console.nvim
 Yazeed1s/minimal.nvim
 Yazeed1s/oh-lucy.nvim
 Yu-Leo/blame-column.nvim
+Yu-Leo/cmp-go-pkgs
 Yu-Leo/gosigns.nvim
 Zeioth/compiler.nvim
 Zeioth/distroupdate.nvim
@@ -768,6 +769,7 @@ ray-x/sad.nvim
 ray-x/starry.nvim
 ray-x/web-tools.nvim
 rebelot/heirline.nvim
+redoxahmii/json-to-types.nvim
 sourcehut:reggie/licenses.nvim
 renerocksai/telekasten.nvim
 rgroli/other.nvim
