@@ -134,6 +134,7 @@ Nedra1998/nvim-mdlink
 Nexmean/caskey.nvim
 NormalNvim/NormalNvim
 NvChad/nvim-colorizer.lua
+OXY2DEV/bars.nvim
 OXY2DEV/foldtext.nvim
 Olical/nfnl
 OscarCreator/rsync.nvim
@@ -520,6 +521,11 @@ kiddos/gemini.nvim
 killitar/obscure.nvim
 kiran94/edit-markdown-table.nvim
 kiran94/s3edit.nvim
+kiyoon/Korean-IME.nvim
+kiyoon/jupynium.nvim
+kiyoon/telescope-insert-path.nvim
+kiyoon/tmux-send.nvim
+kiyoon/treesitter-indent-object.nvim
 kkharji/sqlite.lua
 klen/nvim-test
 kmonad/kmonad-vim
