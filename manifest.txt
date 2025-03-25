@@ -32,6 +32,7 @@ AlexvZyl/nordic.nvim
 AllenDang/nvim-expand-expr
 AntonVanAssche/music-controls.nvim
 AstroNvim/AstroNvim
+Beargruug/skipper.nvim
 Bekaboo/deadcolumn.nvim
 BrunoCiccarino/gardenal
 CKolkey/ts-node-action
@@ -523,6 +524,7 @@ kiran94/edit-markdown-table.nvim
 kiran94/s3edit.nvim
 kiyoon/Korean-IME.nvim
 kiyoon/jupynium.nvim
+kiyoon/python-import.nvim
 kiyoon/telescope-insert-path.nvim
 kiyoon/tmux-send.nvim
 kiyoon/treesitter-indent-object.nvim
@@ -612,6 +614,7 @@ mnacamura/iron.nvim::iron-nvim-mnacamura
 mnacamura/nvim-srcerite
 mnacamura/vim-fennel-syntax
 mnacamura/vim-r7rs-syntax
+mohseenrm/marko.nvim
 monaqa/dial.nvim
 mong8se/actually.nvim
 mong8se/buffish.nvim
@@ -949,6 +952,7 @@ xiyaowong/nvim-cursorword
 xiyaowong/nvim-transparent
 xiyaowong/virtcolumn.nvim
 xzbdmw/colorful-menu.nvim
+y3owk1n/undo-glow.nvim
 yagiziskirik/AirSupport.nvim
 yanskun/gotests.nvim
 yaocccc/nvim-foldsign
@@ -973,6 +977,7 @@ zbirenbaum/neodim
 zdcthomas/yop.nvim
 zeioth/heirline-components.nvim
 zeioth/none-ls-autoload.nvim
+zhisme/copy_with_context.nvim
 ziontee113/color-picker.nvim
 ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
