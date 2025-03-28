@@ -752,6 +752,7 @@ polirritmico/monokai-nightasty.nvim
 polirritmico/telescope-lazy-plugins.nvim
 potamides/pantran.nvim
 prichrd/netrw.nvim
+prochri/telescope-all-recent.nvim
 projekt0n/github-nvim-theme
 ptdewey/darkearth-nvim
 ptdewey/pendulum-nvim
@@ -971,6 +972,7 @@ you-n-g/navigate-note.nvim
 you-n-g/simplegpt.nvim
 ysmb-wtsg/in-and-out.nvim
 yutkat/confirm-quit.nvim
+yutkat/git-rebase-auto-diff.nvim
 zaldih/themery.nvim
 zbirenbaum/copilot-cmp
 zbirenbaum/neodim
