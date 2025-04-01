@@ -34,6 +34,8 @@ AntonVanAssche/music-controls.nvim
 AstroNvim/AstroNvim
 Beargruug/skipper.nvim
 Bekaboo/deadcolumn.nvim
+BibekBhusal0/bufstack.nvim
+BibekBhusal0/nvim-shadcn
 BrunoCiccarino/gardenal
 CKolkey/ts-node-action
 CRAG666/code_runner.nvim
