@@ -273,6 +273,7 @@ atusy/treemonkey.nvim
 axkirillov/easypick.nvim
 axkirillov/hbac.nvim
 ayamir/nvimdots
+azratul/expose-localhost.nvim
 azratul/live-share.nvim
 b0o/incline.nvim
 b0o/mapx.nvim
@@ -930,6 +931,7 @@ vi-tality/neovitality
 vigoux/complementree.nvim
 vxpm/ferris.nvim
 vyfor/cord.nvim
+vzze/cmdline.nvim
 williamboman/mason-lspconfig.nvim
 williamboman/mason.nvim
 williamboman/nvim-lsp-installer
