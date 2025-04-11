@@ -70,6 +70,7 @@ Exafunction/codeium.nvim
 FabianWirth/search.nvim
 FeiyouG/command_center.nvim
 FeiyouG/commander.nvim
+Fildo7525/pretty_hover
 FrenzyExists/aquarium-vim
 Fymyte/rasi.vim
 GCBallesteros/NotebookNavigator.nvim
@@ -451,6 +452,9 @@ hadronized/mind.nvim
 hakonharnes/img-clip.nvim
 hat0uma/csvview.nvim
 hedyhli/outline.nvim
+heilgar/bookmarks.nvim
+heilgar/nochat.nvim
+heilgar/nvim-http-client
 sourcehut:henriquehbr/ataraxis.lua
 sourcehut:henriquehbr/nvim-startup.lua
 hiberabyss/bzlops.vim
@@ -737,6 +741,7 @@ oxfist/night-owl.nvim
 p00f/cphelper.nvim
 paul-louyot/toggle-quotes.nvim
 petertriho/nvim-scrollbar
+pewpewnor/pilot.nvim
 pgosar/CyberNvim
 phaazon/mind.nvim
 phha/zenburn.nvim
