@@ -75,6 +75,7 @@ FrenzyExists/aquarium-vim
 Fymyte/rasi.vim
 GCBallesteros/NotebookNavigator.nvim
 GCBallesteros/jupytext.nvim
+GeorgesAlkhouri/nvim-aider
 GnikDroy/projections.nvim
 HakonHarnes/img-clip.nvim
 HiPhish/rainbow-delimiters.nvim
@@ -287,6 +288,7 @@ bakageddy/alduin.nvim
 gitlab:bartekjaszczak/distinct-nvim
 gitlab:bartekjaszczak/finale-nvim
 gitlab:bartekjaszczak/luma-nvim
+bassamsdata/namu.nvim
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
 bennypowers/nvim-regexplainer
@@ -387,6 +389,7 @@ dmmulroy/ts-error-translator.nvim
 dmmulroy/tsc.nvim
 doctorfree/cheatsheet.nvim
 doctorfree/nvim-lazyman
+doodleEsc/translator.nvim
 dpayne/CodeGPT.nvim
 dracula/vim
 dracula/vim::dracula
@@ -419,6 +422,7 @@ feline-nvim/feline.nvim
 fnune/recall.nvim
 frabjous/knap
 francescarpi/buffon.nvim
+fredrikaverpil/godoc.nvim
 fuenor/JpFormat.vim
 gaborvecsei/cryptoprice.nvim
 gaborvecsei/memento.nvim
@@ -763,6 +767,7 @@ prichrd/netrw.nvim
 prochri/telescope-all-recent.nvim
 projekt0n/github-nvim-theme
 ptdewey/darkearth-nvim
+ptdewey/monalisa-nvim
 ptdewey/pendulum-nvim
 ptdewey/yankbank-nvim
 pwntester/codeql.nvim
@@ -962,6 +967,7 @@ xiyaowong/nvim-cursorword
 xiyaowong/nvim-transparent
 xiyaowong/virtcolumn.nvim
 xzbdmw/colorful-menu.nvim
+y3owk1n/dotmd.nvim
 y3owk1n/undo-glow.nvim
 yagiziskirik/AirSupport.nvim
 yanskun/gotests.nvim
