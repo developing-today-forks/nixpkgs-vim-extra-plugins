@@ -141,6 +141,7 @@ NormalNvim/NormalNvim
 NvChad/nvim-colorizer.lua
 OXY2DEV/bars.nvim
 OXY2DEV/foldtext.nvim
+OXY2DEV/ui.nvim
 Olical/nfnl
 OscarCreator/rsync.nvim
 Ostralyan/scribe.nvim
@@ -185,6 +186,8 @@ Th3Whit3Wolf/onebuddy
 Th3Whit3Wolf/space-nvim
 TheBlob42/drex.nvim
 TheBlob42/houdini.nvim
+TheLazyCat00/racer-nvim
+TheLazyCat00/replace-nvim
 ThePrimeagen/vim-be-good
 ThemerCorp/themer.lua
 Thiago4532/mdmath.nvim
@@ -514,6 +517,7 @@ jrychn/ModuleVim
 jubnzv/mdeval.nvim
 jubnzv/virtual-types.nvim
 judaew/ronny.nvim
+julwrites/llm-nvim
 junnplus/lsp-setup.nvim
 juselara1/tmutils.nvim
 jyscao/ventana.nvim
@@ -862,6 +866,7 @@ slugbyte/unruly-worker.nvim
 smjonas/inc-rename.nvim
 smjonas/snippet-converter.nvim
 smzm/hydrovim
+soemre/commentless.nvim
 someone-stole-my-name/yaml-companion.nvim
 sonjiku/yawnc.nvim
 sontungexpt/better-diagnostic-virtual-text
@@ -912,6 +917,7 @@ themercorp/themer.lua
 theniceboy/nvim-deus
 thesimonho/kanagawa-paper.nvim
 tiagovla/tokyodark.nvim
+timseriakov/spamguard.nvim
 titanzero/zephyrium
 tjdevries/astronauta.nvim:edc19d30a3c51a8c3fc3f606008e5b4238821f1e
 tjdevries/express_line.nvim
@@ -968,6 +974,7 @@ xiyaowong/nvim-transparent
 xiyaowong/virtcolumn.nvim
 xzbdmw/colorful-menu.nvim
 y3owk1n/dotmd.nvim
+y3owk1n/time-machine.nvim
 y3owk1n/undo-glow.nvim
 yagiziskirik/AirSupport.nvim
 yanskun/gotests.nvim
