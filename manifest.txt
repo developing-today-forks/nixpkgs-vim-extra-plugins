@@ -32,6 +32,7 @@ AlexvZyl/nordic.nvim
 AllenDang/nvim-expand-expr
 AntonVanAssche/music-controls.nvim
 AstroNvim/AstroNvim
+Axot017/multiterm.nvim
 Beargruug/skipper.nvim
 Bekaboo/deadcolumn.nvim
 BibekBhusal0/bufstack.nvim
@@ -188,6 +189,7 @@ TheBlob42/drex.nvim
 TheBlob42/houdini.nvim
 TheLazyCat00/racer-nvim
 TheLazyCat00/replace-nvim
+TheLazyCat00/simple-format
 ThePrimeagen/vim-be-good
 ThemerCorp/themer.lua
 Thiago4532/mdmath.nvim
@@ -274,6 +276,7 @@ askfiy/nvim
 askfiy/nvim-picgo
 askfiy/visual_studio_code
 athar-qadri/scratchpad.nvim
+athar-qadri/weather.nvim
 atusy/treemonkey.nvim
 axkirillov/easypick.nvim
 axkirillov/hbac.nvim
@@ -304,6 +307,7 @@ bgaillard/readonly.nvim
 bkegley/gloombuddy
 bluz71/vim-moonfly-colors
 bluz71/vim-nightfly-colors
+bngarren/checkmate.nvim
 booperlv/nvim-gomove
 brendalf/mix.nvim
 brenoprata10/nvim-highlight-colors
@@ -362,12 +366,14 @@ cuducos/yaml.nvim
 cunderw/nvim
 cvigilv/esqueleto.nvim
 cxwx/lazyUrlUpdate.nvim
+da-moon/telescope-toggleterm.nvim
 daltongd/yanklock.nvim
 dam9000/kickstart-modular.nvim
 danielpieper/telescope-tmuxinator.nvim
 danymat/neogen
 dasupradyumna/launch.nvim
 dasupradyumna/midnight.nvim
+datsfilipe/vesper.nvim
 datwaft/bubbly.nvim
 davidgranstrom/nvim-markdown-preview
 davidgranstrom/osc.nvim
@@ -507,6 +513,7 @@ jim-at-jibba/ariake.nvim
 jim-at-jibba/micropython.nvim
 jim-fx/sudoku.nvim
 jinzhongjia/LspUI.nvim
+jinzhongjia/zig-lamp
 johann2357/nvim-smartbufs
 jonathandion/web-dev.nvim
 jose-elias-alvarez/null-ls.nvim
@@ -692,6 +699,7 @@ nosduco/remote-sshfs.nvim
 notomo/cmdbuf.nvim
 notomo/gesture.nvim
 novakne/kosmikoa.nvim
+ntk148v/slack.nvim
 numToStr/BufOnly.nvim
 numToStr/Comment.nvim
 nvim-colortils/colortils.nvim
@@ -747,6 +755,7 @@ otavioschwanck/tmux-awesome-manager.nvim
 ovk/endec.nvim
 oxfist/night-owl.nvim
 p00f/cphelper.nvim
+pandasoli/nekovim
 paul-louyot/toggle-quotes.nvim
 petertriho/nvim-scrollbar
 pewpewnor/pilot.nvim
