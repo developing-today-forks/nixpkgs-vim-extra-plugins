@@ -44,9 +44,11 @@ CWood-sdf/banana.nvim
 CWood-sdf/pineapple
 CWood-sdf/spaceport.nvim
 CamdenClark/flyboy
+Carcuis/dap-breakpoints.nvim
 Chaitanyabsprip/present.nvim
 ChuufMaster/buffer-vacuum
 ChuufMaster/markdown-toc
+Cih2001/pikchr.nvim
 Civitasv/cmake-tools.nvim
 CopilotC-Nvim/CopilotChat.nvim
 CosmicNvim/CosmicNvim
@@ -79,6 +81,7 @@ GCBallesteros/jupytext.nvim
 GeorgesAlkhouri/nvim-aider
 GnikDroy/projections.nvim
 HakonHarnes/img-clip.nvim
+HawkinsT/pathfinder.nvim
 HiPhish/rainbow-delimiters.nvim
 HoNamDuong/hybrid.nvim
 IlyasYOY/obs.nvim
@@ -90,6 +93,7 @@ Junnplus/nvim-lsp-setup
 Jxstxs/conceal.nvim
 Kasama/nvim-custom-diagnostic-highlight
 Kicamon/markdown-table-mode.nvim
+Kohei-Wada/yadm-git.nvim
 Kurama622/llm.nvim
 Kurama622/profile.nvim
 L3MON4D3/LuaSnip
@@ -147,6 +151,7 @@ Olical/nfnl
 OscarCreator/rsync.nvim
 Ostralyan/scribe.nvim
 PHSix/nvim-hybrid
+Penaz91/MiniDYM
 Pocco81/AutoSave.nvim
 Pocco81/DAPInstall.nvim
 Pocco81/HighStr.nvim
@@ -190,6 +195,7 @@ TheBlob42/houdini.nvim
 TheLazyCat00/racer-nvim
 TheLazyCat00/replace-nvim
 TheLazyCat00/simple-format
+TheLeoP/powershell.nvim
 ThePrimeagen/vim-be-good
 ThemerCorp/themer.lua
 Thiago4532/mdmath.nvim
@@ -266,6 +272,7 @@ anuvyklack/hydra.nvim
 anuvyklack/keymap-amend.nvim
 anuvyklack/pretty-fold.nvim
 anuvyklack/windows.nvim
+apyra/nvim-unity
 ariel-frischer/bmessages.nvim
 arminveres/md-pdf.nvim
 artart222/CodeArt
@@ -277,10 +284,12 @@ askfiy/nvim-picgo
 askfiy/visual_studio_code
 athar-qadri/scratchpad.nvim
 athar-qadri/weather.nvim
+attilarepka/header.nvim
 atusy/treemonkey.nvim
 axkirillov/easypick.nvim
 axkirillov/hbac.nvim
 ayamir/nvimdots
+azorng/goose.nvim
 azratul/expose-localhost.nvim
 azratul/live-share.nvim
 b0o/incline.nvim
@@ -300,11 +309,13 @@ beauwilliams/statusline.lua
 bennypowers/nvim-regexplainer
 bennypowers/splitjoin.nvim
 bennypowers/svgo.nvim
+benoror/gpg.nvim
 bfredl/nvim-ipy
 bfredl/nvim-luadev
 bfredl/nvim-miniyank
 bgaillard/readonly.nvim
 bkegley/gloombuddy
+blob42/codegpt-ng.nvim
 bluz71/vim-moonfly-colors
 bluz71/vim-nightfly-colors
 bngarren/checkmate.nvim
@@ -373,6 +384,7 @@ danielpieper/telescope-tmuxinator.nvim
 danymat/neogen
 dasupradyumna/launch.nvim
 dasupradyumna/midnight.nvim
+datsfilipe/min-theme.nvim
 datsfilipe/vesper.nvim
 datwaft/bubbly.nvim
 davidgranstrom/nvim-markdown-preview
@@ -449,6 +461,7 @@ ggandor/leap-spooky.nvim
 ggandor/leap.nvim
 gh-liu/fold_line.nvim
 ghillb/cybu.nvim
+github-main-user/lytmode.nvim
 glacambre/firenvim
 gnikdroy/projections.nvim
 gorbit99/codewindow.nvim
@@ -626,11 +639,13 @@ mikesmithgh/kitty-scrollback.nvim
 milanglacier/minuet-ai.nvim
 milanglacier/yarepl.nvim
 milisims/nvim-luaref
+millerjason/neovimacs.nvim
 mistricky/codesnap.nvim
 mistweaverco/kulala.nvim
 miversen33/import.nvim
 miversen33/sunglasses.nvim
 mizlan/iswap.nvim
+mkajsjo/windowcolumns.nvim
 mluders/comfy-line-numbers.nvim
 mnacamura/iron.nvim::iron-nvim-mnacamura
 mnacamura/nvim-srcerite
@@ -643,6 +658,7 @@ mong8se/buffish.nvim
 monkoose/matchparen.nvim
 moyiz/command-and-cursor.nvim
 moyiz/git-dev.nvim
+mozanunal/sllm.nvim
 mpas/marp-nvim
 mrcjkb/haskell-snippets.nvim
 mrcjkb/haskell-tools.nvim
@@ -826,6 +842,8 @@ rmehri01/onenord.nvim
 rockerBOO/boo-colorscheme-nvim
 rockyzhang24/arctic.nvim
 rodrigore/coc-tailwind-intellisense
+romus204/go-tagger.nvim
+romus204/referencer.nvim
 roobert/action-hints.nvim
 roobert/activate.nvim
 roobert/bufferline-cycle-windowless.nvim
@@ -853,6 +871,7 @@ samodostal/image.nvim
 savq/melange
 savq/paq-nvim
 scottmckendry/cyberdream.nvim
+seandewar/actually-doom.nvim
 seandewar/killersheep.nvim
 seandewar/nvimesweeper
 sekke276/dark_flat.nvim
@@ -898,6 +917,7 @@ stevearc/overseer.nvim
 stevearc/qf_helper.nvim
 stevearc/quicker.nvim
 subnut/nvim-ghost.nvim
+sukineco/neoproj
 svermeulen/nvim-lusc
 svermeulen/text-to-colorscheme
 svermeulen/vim-yoink
@@ -926,6 +946,7 @@ themercorp/themer.lua
 theniceboy/nvim-deus
 thesimonho/kanagawa-paper.nvim
 tiagovla/tokyodark.nvim
+timantipov/md-table-tidy.nvim
 timseriakov/spamguard.nvim
 titanzero/zephyrium
 tjdevries/astronauta.nvim:edc19d30a3c51a8c3fc3f606008e5b4238821f1e
@@ -991,6 +1012,7 @@ yaocccc/nvim-foldsign
 yaocccc/nvim-hl-mdcodeblock.lua
 yaocccc/nvim-hlchunk
 yaocccc/nvim-lines.lua
+yarospace/dev-tools.nvim
 yashguptaz/calvera-dark.nvim
 yazeed1s/minimal.nvim
 yazeed1s/oh-lucy.nvim
@@ -1015,6 +1037,7 @@ ziontee113/color-picker.nvim
 ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
 zk-org/zk-nvim
+zkucekovic/tdd.nvim
 zongben/capsoff.nvim
 zongben/navimark.nvim
 zongben/proot.nvim
