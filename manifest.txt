@@ -975,6 +975,7 @@ utilyre/barbecue.nvim
 utilyre/sentiment.nvim
 vi-tality/neovitality
 vigoux/complementree.nvim
+vodchella/hodur.nvim
 vxpm/ferris.nvim
 vyfor/cord.nvim
 vzze/cmdline.nvim
