@@ -187,6 +187,7 @@ StanAngeloff/claudius.nvim
 StratOS-Linux/StratVIM
 StubbornVegeta/llm.nvim
 SunnyTamang/pendulum.nvim
+SunnyTamang/select-undo.nvim
 SuperBo/fugit2.nvim
 Th3Whit3Wolf/onebuddy
 Th3Whit3Wolf/space-nvim
@@ -685,6 +686,7 @@ nfrid/markdown-togglecheck
 nfrid/treesitter-utils
 nguyenvukhang/nvim-toggler
 nikvdp/neomux
+nishu-murmu/ThemeSwitch.nvim
 niuiic/code-shot.nvim
 niuiic/cp-image.nvim
 niuiic/dap-utils.nvim
