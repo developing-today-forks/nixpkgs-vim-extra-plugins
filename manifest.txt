@@ -150,6 +150,7 @@ OXY2DEV/ui.nvim
 Olical/nfnl
 OscarCreator/rsync.nvim
 Ostralyan/scribe.nvim
+Owen-Dechow/nvim_json_graph_view
 PHSix/nvim-hybrid
 Penaz91/MiniDYM
 Pocco81/AutoSave.nvim
@@ -181,11 +182,13 @@ Shaobin-Jiang/IceNvim
 Shatur/neovim-session-manager
 Shatur/neovim-tasks
 SidOfc/carbon.nvim
+Silletr/LazyDevHelper
 SmiteshP/nvim-navic
 Snikimonkd/cmp-go-pkgs
 StanAngeloff/claudius.nvim
 StratOS-Linux/StratVIM
 StubbornVegeta/llm.nvim
+SunnyTamang/neodoc.nvim
 SunnyTamang/pendulum.nvim
 SunnyTamang/select-undo.nvim
 SuperBo/fugit2.nvim
@@ -215,6 +218,7 @@ Wansmer/symbol-usage.nvim
 Wansmer/treesj
 Weissle/easy-action
 Weissle/persistent-breakpoints.nvim
+Who5673/who5673-nasm
 WhoIsSethDaniel/mason-tool-installer.nvim
 Willem-J-an/visidata.nvim
 XXiaoA/ns-textobject.nvim
@@ -323,12 +327,14 @@ bngarren/checkmate.nvim
 booperlv/nvim-gomove
 brendalf/mix.nvim
 brenoprata10/nvim-highlight-colors
+brenton-leighton/multiple-cursors.nvim
 brianaung/compl.nvim
 calind/selenized.nvim
 cappyzawa/trim.nvim
 catppuccin/nvim::catppuccin
 cbochs/grapple.nvim
 cbochs/portal.nvim
+chatvim/chatvim.nvim
 chipsenkbeil/distant.nvim
 chiyadev/dep
 chomosuke/typst-preview.nvim
@@ -419,6 +425,7 @@ drybalka/clean.nvim
 drybalka/tree-climber.nvim
 duane9/nvim-rg
 dzfrias/arena.nvim
+echaya/neowiki.nvim
 ecthelionvi/NeoColumn.nvim
 ecthelionvi/NeoComposer.nvim
 edolphin-ydf/goimpl.nvim
@@ -477,6 +484,7 @@ h-hg/fcitx.nvim
 hackorum/VapourNvim
 hadronized/mind.nvim
 hakonharnes/img-clip.nvim
+harrisoncramer/GitLab.nvim
 hat0uma/csvview.nvim
 hedyhli/outline.nvim
 heilgar/bookmarks.nvim
@@ -746,6 +754,7 @@ nvimdev/zephyr-nvim
 nvimtools/hydra.nvim
 nvimtools/none-ls.nvim
 nvoid-lua/nvoid
+nvzone/minty
 nxvu699134/vn-night.nvim
 nyngwang/NeoNoName.lua
 nyngwang/NeoRoot.lua
@@ -784,6 +793,7 @@ philosofonusus/ecolog.nvim
 pianocomposer321/consolation.nvim
 pianocomposer321/officer.nvim
 pianocomposer321/yabs.nvim
+piersolenski/import.nvim
 piersolenski/telescope-import.nvim
 piersolenski/wtf.nvim
 pluffie/neoproj
@@ -900,10 +910,12 @@ soemre/commentless.nvim
 someone-stole-my-name/yaml-companion.nvim
 sonjiku/yawnc.nvim
 sontungexpt/better-diagnostic-virtual-text
+sontungexpt/bim.nvim
 sontungexpt/stcursorword
 sontungexpt/stinvim
 sontungexpt/sttusline
 sontungexpt/url-open
+sontungexpt/vietnamese.nvim
 sontungexpt/witch
 soulis-1256/eagle.nvim
 soulis-1256/hoverhints.nvim
@@ -948,6 +960,7 @@ themercorp/themer.lua
 theniceboy/nvim-deus
 thesimonho/kanagawa-paper.nvim
 tiagovla/tokyodark.nvim
+tigion/swap.nvim
 timantipov/md-table-tidy.nvim
 timseriakov/spamguard.nvim
 titanzero/zephyrium
