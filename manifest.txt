@@ -507,6 +507,7 @@ idanarye/nvim-moonicipal
 igorlfs/nvim-dap-view
 imbacraft/dusk.nvim
 inkch/vim-fish::vim-fish-inkch
+iquzart/toggleword.nvim
 is0n/fm-nvim
 is0n/jaq-nvim
 isak102/ghostty.nvim
@@ -536,6 +537,7 @@ jim-at-jibba/micropython.nvim
 jim-fx/sudoku.nvim
 jinzhongjia/LspUI.nvim
 jinzhongjia/zig-lamp
+jkeresman01/tmux-switch.nvim
 johann2357/nvim-smartbufs
 jonathandion/web-dev.nvim
 jose-elias-alvarez/null-ls.nvim
@@ -665,6 +667,7 @@ monaqa/dial.nvim
 mong8se/actually.nvim
 mong8se/buffish.nvim
 monkoose/matchparen.nvim
+gitlab:motaz-shokry/gruvbox.nvim
 moyiz/command-and-cursor.nvim
 moyiz/git-dev.nvim
 mozanunal/sllm.nvim
@@ -994,6 +997,7 @@ vodchella/hodur.nvim
 vxpm/ferris.nvim
 vyfor/cord.nvim
 vzze/cmdline.nvim
+waiting-for-dev/ergoterm.nvim
 williamboman/mason-lspconfig.nvim
 williamboman/mason.nvim
 williamboman/nvim-lsp-installer
@@ -1022,6 +1026,7 @@ xzbdmw/colorful-menu.nvim
 y3owk1n/dotmd.nvim
 y3owk1n/time-machine.nvim
 y3owk1n/undo-glow.nvim
+y3owk1n/warp.nvim
 yagiziskirik/AirSupport.nvim
 yanskun/gotests.nvim
 yaocccc/nvim-foldsign
