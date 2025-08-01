@@ -221,6 +221,7 @@ Weissle/persistent-breakpoints.nvim
 Who5673/who5673-nasm
 WhoIsSethDaniel/mason-tool-installer.nvim
 Willem-J-an/visidata.nvim
+X3eRo0/dired.nvim
 XXiaoA/ns-textobject.nvim
 Xuyuanp/yanil
 YaroSpace/lua-console.nvim
@@ -506,6 +507,7 @@ idanarye/nvim-channelot
 idanarye/nvim-moonicipal
 igorlfs/nvim-dap-view
 imbacraft/dusk.nvim
+inhesrom/remote-ssh.nvim
 inkch/vim-fish::vim-fish-inkch
 iquzart/toggleword.nvim
 is0n/fm-nvim
@@ -793,6 +795,7 @@ pgosar/CyberNvim
 phaazon/mind.nvim
 phha/zenburn.nvim
 philosofonusus/ecolog.nvim
+phrmendes/todotxt.nvim
 pianocomposer321/consolation.nvim
 pianocomposer321/officer.nvim
 pianocomposer321/yabs.nvim
