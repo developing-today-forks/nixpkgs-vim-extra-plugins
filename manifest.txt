@@ -330,6 +330,7 @@ brendalf/mix.nvim
 brenoprata10/nvim-highlight-colors
 brenton-leighton/multiple-cursors.nvim
 brianaung/compl.nvim
+brianhuster/live-preview.nvim
 calind/selenized.nvim
 cappyzawa/trim.nvim
 catppuccin/nvim::catppuccin
