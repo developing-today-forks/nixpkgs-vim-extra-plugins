@@ -449,6 +449,7 @@ f-person/auto-dark-mode.nvim
 farias-hecdin/CSSVarHighlight
 farias-hecdin/CSSVarViewer
 fdschmidt93/telescope-egrepify.nvim
+fei6409/log-highlight.nvim
 feline-nvim/feline.nvim
 fnune/recall.nvim
 frabjous/knap
@@ -542,6 +543,7 @@ jinzhongjia/LspUI.nvim
 jinzhongjia/zig-lamp
 jkeresman01/tmux-switch.nvim
 johann2357/nvim-smartbufs
+johannww/tts.nvim
 jonathandion/web-dev.nvim
 jose-elias-alvarez/null-ls.nvim
 jose-elias-alvarez/typescript.nvim
@@ -992,6 +994,7 @@ tveskag/nvim-blame-line
 udayvir-singh/hibiscus.nvim
 udayvir-singh/tangerine.nvim
 uga-rosa/ccc.nvim
+uhs-robert/sshfs.nvim
 uncleTen276/dark_flat.nvim
 utilyre/barbecue.nvim
 utilyre/sentiment.nvim
