@@ -112,6 +112,7 @@ LudoPinelli/comment-box.nvim
 LukasPietzschmann/boo.nvim
 LukasPietzschmann/telescope-tabs
 LunarVim/LunarVim
+LuxVim/nvim-luxmotion
 MagicDuck/grug-far.nvim
 Mangeshrex/uwu.vim
 MarcHamamji/runner.nvim
@@ -365,6 +366,7 @@ claydugo/browsher.nvim
 clojure-vim/jazz.nvim
 coffebar/neovim-project
 coffebar/transfer.nvim
+comatory/gh-co.nvim
 comfysage/evergarden
 cpea2506/one_monokai.nvim
 cpea2506/relative-toggle.nvim
@@ -509,6 +511,7 @@ idanarye/nvim-channelot
 idanarye/nvim-moonicipal
 igorlfs/nvim-dap-view
 imbacraft/dusk.nvim
+ingur/floatty.nvim
 inhesrom/remote-ssh.nvim
 inkch/vim-fish::vim-fish-inkch
 iquzart/toggleword.nvim
