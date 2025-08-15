@@ -119,6 +119,7 @@ MarcHamamji/runner.nvim
 MeanderingProgrammer/markdown.nvim
 MeanderingProgrammer/render-markdown.nvim
 MisanthropicBit/decipher.nvim
+MisanthropicBit/neotest-busted
 MisanthropicBit/winmove.nvim
 Mofiqul/adwaita.nvim
 Mofiqul/dracula.nvim
@@ -419,6 +420,7 @@ dinhhuy258/sfm.nvim
 dlants/magenta.nvim
 dmmulroy/ts-error-translator.nvim
 dmmulroy/tsc.nvim
+dmtrKovalenko/fff.nvim
 doctorfree/cheatsheet.nvim
 doctorfree/nvim-lazyman
 doodleEsc/translator.nvim
