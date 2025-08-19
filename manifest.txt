@@ -292,6 +292,7 @@ askfiy/nvim-picgo
 askfiy/visual_studio_code
 athar-qadri/scratchpad.nvim
 athar-qadri/weather.nvim
+atomicptr/defold.nvim
 attilarepka/header.nvim
 atusy/treemonkey.nvim
 axkirillov/easypick.nvim
@@ -513,6 +514,7 @@ idanarye/nvim-channelot
 idanarye/nvim-moonicipal
 igorlfs/nvim-dap-view
 imbacraft/dusk.nvim
+imranZERO/multiterm.nvim
 ingur/floatty.nvim
 inhesrom/remote-ssh.nvim
 inkch/vim-fish::vim-fish-inkch
