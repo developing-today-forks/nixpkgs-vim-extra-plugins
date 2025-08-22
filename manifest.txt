@@ -113,6 +113,7 @@ LukasPietzschmann/boo.nvim
 LukasPietzschmann/telescope-tabs
 LunarVim/LunarVim
 LuxVim/nvim-luxmotion
+LuxVim/nvim-luxterm
 MagicDuck/grug-far.nvim
 Mangeshrex/uwu.vim
 MarcHamamji/runner.nvim
@@ -169,6 +170,7 @@ RishabhRD/gruvy
 RishabhRD/lspactions
 RishabhRD/lspactions:nvim-0.6-compatible:lspactions-nvim06-compatible
 RishabhRD/nvim-rdark
+Rits1272/riff.nvim
 Robitx/gp.nvim
 Rolv-Apneseth/tfm.nvim
 RutaTang/compter.nvim
@@ -529,6 +531,7 @@ jakewvincent/mkdnflow.nvim
 jakewvincent/texmagic.nvim
 jameshiew/nvim-magic
 jamestthompson3/nvim-remote-containers
+jameswolensky/marker-groups.nvim
 jaytyrrell13/static.nvim
 jbyuki/carrot.nvim
 jbyuki/instant.nvim
@@ -647,6 +650,7 @@ max397574/colortils.nvim
 maxandron/goplements.nvim
 maxmx03/FluoroMachine.nvim
 maxmx03/fluoromachine.nvim
+mcauley-penney/techbase.nvim
 mcauley-penney/tidy.nvim
 mcauley-penney/visual-whitespace.nvim
 mcchrish/zenbones.nvim
