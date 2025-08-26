@@ -154,6 +154,7 @@ Olical/nfnl
 OscarCreator/rsync.nvim
 Ostralyan/scribe.nvim
 Owen-Dechow/nvim_json_graph_view
+Owen-Dechow/videre.nvim
 PHSix/nvim-hybrid
 Penaz91/MiniDYM
 Pocco81/AutoSave.nvim
@@ -511,6 +512,7 @@ hkupty/nvimux
 houtsnip/vim-emacscommandline
 hylang/vim-hy
 iabdelkareem/csharp.nvim
+iamt4nk/smm.nvim
 idanarye/nvim-buffls
 idanarye/nvim-channelot
 idanarye/nvim-moonicipal
@@ -813,6 +815,7 @@ phrmendes/todotxt.nvim
 pianocomposer321/consolation.nvim
 pianocomposer321/officer.nvim
 pianocomposer321/yabs.nvim
+piersolenski/brewfile.nvim
 piersolenski/import.nvim
 piersolenski/telescope-import.nvim
 piersolenski/wtf.nvim
