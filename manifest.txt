@@ -261,6 +261,7 @@ al1-ce/just.nvim
 alanfortlink/blackjack.nvim
 alaviss/nim.nvim
 alec-gibson/nvim-tetris
+alex-popov-tech/store.nvim
 alexaandru/nvim-lspupdate
 alexmozaidze/palenight.nvim
 alexpasmantier/pymple.nvim
@@ -754,6 +755,7 @@ nvim-flutter/flutter-tools.nvim
 nvim-focus/focus.nvim
 nvim-java/nvim-java
 nvim-lua/kickstart.nvim
+nvim-mini/mini.nvim
 nvim-neo-tree/neo-tree.nvim
 nvim-neorocks/luarocks-tag-release
 nvim-neorocks/rocks.nvim
@@ -905,6 +907,7 @@ samjwill/nvim-unception
 samodostal/image.nvim
 savq/melange
 savq/paq-nvim
+saxon1964/neovim-tips
 scottmckendry/cyberdream.nvim
 seandewar/actually-doom.nvim
 seandewar/killersheep.nvim
