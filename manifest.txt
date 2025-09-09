@@ -496,6 +496,7 @@ h-hg/fcitx.nvim
 hackorum/VapourNvim
 hadronized/mind.nvim
 hakonharnes/img-clip.nvim
+happyeric77/joplin.nvim
 harrisoncramer/GitLab.nvim
 hat0uma/csvview.nvim
 hedyhli/outline.nvim
