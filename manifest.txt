@@ -1049,6 +1049,7 @@ xiyaowong/nvim-cursorword
 xiyaowong/nvim-transparent
 xiyaowong/virtcolumn.nvim
 xzbdmw/colorful-menu.nvim
+y3owk1n/base16-pro-max.nvim
 y3owk1n/dotmd.nvim
 y3owk1n/time-machine.nvim
 y3owk1n/undo-glow.nvim
