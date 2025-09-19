@@ -61,6 +61,7 @@ Darazaki/indent-o-matic
 David-Kunz/gen.nvim
 David-Kunz/jester
 Dhanus3133/Leetbuddy.nvim
+DrKJeff16/wezterm-types
 EL-MASTOR/bufferlist.nvim
 Eandrju/cellular-automaton.nvim
 Enigama/miss.nvim
@@ -190,6 +191,7 @@ SidOfc/carbon.nvim
 Silletr/LazyDevHelper
 SmiteshP/nvim-navic
 Snikimonkd/cmp-go-pkgs
+StackInTheWild/headhunter.nvim
 StanAngeloff/claudius.nvim
 StratOS-Linux/StratVIM
 StubbornVegeta/llm.nvim
@@ -852,6 +854,7 @@ ramojus/mellifluous.nvim
 ranjithshegde/ccls.nvim
 rasulomaroff/reactive.nvim
 rasulomaroff/telepath.nvim
+ravsii/timers.nvim
 rawnly/gist.nvim
 ray-x/go.nvim
 ray-x/guihua.lua
