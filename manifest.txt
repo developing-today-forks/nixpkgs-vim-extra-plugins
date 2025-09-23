@@ -65,6 +65,7 @@ DrKJeff16/wezterm-types
 EL-MASTOR/bufferlist.nvim
 Eandrju/cellular-automaton.nvim
 Enigama/miss.nvim
+Erl-koenig/theme-hub.nvim
 EthanJWright/vs-tasks.nvim
 EvWilson/slimux.nvim
 EvWilson/spelunk.nvim
