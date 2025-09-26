@@ -808,6 +808,7 @@ otavioschwanck/telescope-alternate.nvim
 otavioschwanck/tmux-awesome-manager.nvim
 ovk/endec.nvim
 oxfist/night-owl.nvim
+p00f/clangd_extensions.nvim
 p00f/cphelper.nvim
 pandasoli/nekovim
 paul-louyot/toggle-quotes.nvim
