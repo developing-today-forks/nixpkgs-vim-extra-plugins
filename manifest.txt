@@ -12,6 +12,7 @@
 2kabhishek/octohub.nvim
 2kabhishek/utils.nvim
 2nthony/vitesse.nvim
+3ZsForInsomnia/pacer.nvim
 3rd/image.nvim
 3v0k4/exit.nvim
 4e554c4c/darkman.nvim
@@ -463,6 +464,7 @@ farias-hecdin/CSSVarViewer
 fdschmidt93/telescope-egrepify.nvim
 fei6409/log-highlight.nvim
 feline-nvim/feline.nvim
+flashcodes-themayankjha/fkthemes.nvim
 fnune/recall.nvim
 frabjous/knap
 francescarpi/buffon.nvim
@@ -502,6 +504,7 @@ hakonharnes/img-clip.nvim
 happyeric77/joplin.nvim
 harrisoncramer/GitLab.nvim
 hat0uma/csvview.nvim
+hat0uma/prelive.nvim
 hedyhli/outline.nvim
 heilgar/bookmarks.nvim
 heilgar/nochat.nvim
@@ -1017,6 +1020,7 @@ tveskag/nvim-blame-line
 udayvir-singh/hibiscus.nvim
 udayvir-singh/tangerine.nvim
 uga-rosa/ccc.nvim
+uhs-robert/oasis.nvim
 uhs-robert/sshfs.nvim
 uncleTen276/dark_flat.nvim
 utilyre/barbecue.nvim
