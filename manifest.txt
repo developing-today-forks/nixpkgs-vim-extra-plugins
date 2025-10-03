@@ -17,6 +17,7 @@
 3v0k4/exit.nvim
 4e554c4c/darkman.nvim
 9seconds/repolink.nvim
+A7Lavinraj/fyler.nvim
 Aaronik/GPTModels.nvim
 Abstract-IDE/Abstract
 Abstract-IDE/Abstract-cs
@@ -504,6 +505,7 @@ hakonharnes/img-clip.nvim
 happyeric77/joplin.nvim
 harrisoncramer/GitLab.nvim
 hat0uma/csvview.nvim
+hat0uma/doxygen-previewer.nvim
 hat0uma/prelive.nvim
 hedyhli/outline.nvim
 heilgar/bookmarks.nvim
@@ -1046,8 +1048,10 @@ windwp/windline.nvim
 winston0410/commented.nvim
 woosaaahh/sj.nvim
 wsdjeg/flygrep.nvim
+wsdjeg/format.nvim
 wsdjeg/nvim-plug
 wsdjeg/rooter.nvim
+wsdjeg/satellite.nvim
 wurli/split.nvim
 wurli/visimatch.nvim
 xeluxee/competitest.nvim
