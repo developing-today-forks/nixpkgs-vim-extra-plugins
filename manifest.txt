@@ -12,7 +12,11 @@
 2kabhishek/octohub.nvim
 2kabhishek/utils.nvim
 2nthony/vitesse.nvim
+3ZsForInsomnia/code-companion-picker
 3ZsForInsomnia/pacer.nvim
+3ZsForInsomnia/revman.nvim
+3ZsForInsomnia/token-count.nvim
+3ZsForInsomnia/vs-code-companion
 3rd/image.nvim
 3v0k4/exit.nvim
 4e554c4c/darkman.nvim
@@ -275,6 +279,7 @@ altermo/iedit.nvim
 altermo/nwm
 altermo/nxwm
 altermo/ultimate-autopair.nvim
+alyxshang/nuwa.nvim
 amirrezaask/fuzzy.nvim
 amrbashir/nvim-docs-view
 andersevenrud/nvim_context_vt
@@ -805,6 +810,7 @@ olexsmir/gopher.nvim
 olimorris/codecompanion.nvim
 olimorris/persisted.nvim
 olivercederborg/poimandres.nvim
+onlyati/quadlet-lsp.nvim
 onsails/lspkind.nvim
 ostralyan/scribe.nvim
 otavioschwanck/arrow.nvim
@@ -954,6 +960,7 @@ sontungexpt/sttusline
 sontungexpt/url-open
 sontungexpt/vietnamese.nvim
 sontungexpt/witch
+sontungexpt/witch-line
 soulis-1256/eagle.nvim
 soulis-1256/hoverhints.nvim
 speelbarrow/spLauncher.nvim
@@ -1052,6 +1059,7 @@ wsdjeg/format.nvim
 wsdjeg/nvim-plug
 wsdjeg/rooter.nvim
 wsdjeg/satellite.nvim
+wurli/cobalt.nvim
 wurli/split.nvim
 wurli/visimatch.nvim
 xeluxee/competitest.nvim
