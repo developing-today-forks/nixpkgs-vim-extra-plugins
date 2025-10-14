@@ -82,6 +82,7 @@ FabianWirth/search.nvim
 FeiyouG/command_center.nvim
 FeiyouG/commander.nvim
 Fildo7525/pretty_hover
+Flemma-Dev/flemma.nvim
 FrenzyExists/aquarium-vim
 Fymyte/rasi.vim
 GCBallesteros/NotebookNavigator.nvim
@@ -805,6 +806,7 @@ ofirgall/ofirkai.nvim
 ofirgall/open.nvim
 ojroques/nvim-hardline
 ojroques/nvim-lspfuzzy
+ok97465/ipybridge.nvim
 okuuva/auto-save.nvim
 olexsmir/gopher.nvim
 olimorris/codecompanion.nvim
@@ -1086,6 +1088,7 @@ yashguptaz/calvera-dark.nvim
 yazeed1s/minimal.nvim
 yazeed1s/oh-lucy.nvim
 ycdzj/win-mover.nvim
+yelog/i18n.nvim
 yetone/avante.nvim
 yonlu/omni.vim
 gitlab:yorickpeterse/nvim-pqf
