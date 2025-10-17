@@ -19,6 +19,7 @@
 3ZsForInsomnia/vs-code-companion
 3rd/image.nvim
 3v0k4/exit.nvim
+404pilo/aicommits.nvim
 4e554c4c/darkman.nvim
 9seconds/repolink.nvim
 A7Lavinraj/fyler.nvim
@@ -105,6 +106,7 @@ Kicamon/markdown-table-mode.nvim
 Kohei-Wada/yadm-git.nvim
 Kurama622/llm.nvim
 Kurama622/profile.nvim
+Kurren123/mssql.nvim
 L3MON4D3/LuaSnip
 LeonHeidelbach/trailblazer.nvim
 LinArcX/telescope-command-palette.nvim
@@ -295,6 +297,7 @@ anuvyklack/hydra.nvim
 anuvyklack/keymap-amend.nvim
 anuvyklack/pretty-fold.nvim
 anuvyklack/windows.nvim
+apdot/doodle
 apyra/nvim-unity
 ariel-frischer/bmessages.nvim
 arminveres/md-pdf.nvim
@@ -471,6 +474,7 @@ farias-hecdin/CSSVarViewer
 fdschmidt93/telescope-egrepify.nvim
 fei6409/log-highlight.nvim
 feline-nvim/feline.nvim
+flashcodes-themayankjha/Fknotes.nvim
 flashcodes-themayankjha/fkthemes.nvim
 fnune/recall.nvim
 frabjous/knap
@@ -610,6 +614,7 @@ kiyoon/treesitter-indent-object.nvim
 kkharji/sqlite.lua
 klen/nvim-test
 kmonad/kmonad-vim
+kndndrj/nvim-dbee
 kobbikobb/move-lines.nvim
 koenverburg/peepsight.nvim
 konapun/vacuumline.nvim
@@ -663,6 +668,7 @@ matbme/JABS.nvim
 mateuszwieloch/automkdir.nvim
 mawkler/demicolon.nvim
 mawkler/hml.nvim
+mawkler/jsx-element.nvim
 mawkler/refjump.nvim
 max397574/colortils.nvim
 maxandron/goplements.nvim
@@ -770,6 +776,7 @@ nvim-flutter/flutter-tools.nvim
 nvim-focus/focus.nvim
 nvim-java/nvim-java
 nvim-lua/kickstart.nvim
+nvim-mini/MiniMax
 nvim-mini/mini.nvim
 nvim-neo-tree/neo-tree.nvim
 nvim-neorocks/luarocks-tag-release
@@ -969,6 +976,7 @@ speelbarrow/spLauncher.nvim
 sphamba/smear-cursor.nvim
 sschleemilch/slimline.nvim
 startup-nvim/startup.nvim
+stephansama/fzf-nerdfont.nvim
 stevanmilic/nvim-lspimport
 stevearc/conform.nvim
 stevearc/gkeep.nvim
@@ -994,6 +1002,7 @@ tamton-aquib/staline.nvim
 tanloong/interlaced.nvim
 tanvirtin/monokai.nvim
 tanvirtin/vgit.nvim
+tashikomaaa/neomongo.nvim
 tenxsoydev/karen-yank.nvim
 tenxsoydev/nx.nvim
 tenxsoydev/tabs-vs-spaces.nvim
@@ -1059,6 +1068,7 @@ woosaaahh/sj.nvim
 wsdjeg/flygrep.nvim
 wsdjeg/format.nvim
 wsdjeg/nvim-plug
+wsdjeg/picker.nvim
 wsdjeg/rooter.nvim
 wsdjeg/satellite.nvim
 wurli/cobalt.nvim
@@ -1096,6 +1106,7 @@ yorickpeterse/nvim-window
 you-n-g/navigate-note.nvim
 you-n-g/simplegpt.nvim
 ysmb-wtsg/in-and-out.nvim
+yus-works/csc.nvim
 yutkat/confirm-quit.nvim
 yutkat/git-rebase-auto-diff.nvim
 zaldih/themery.nvim
@@ -1111,6 +1122,7 @@ ziontee113/syntax-tree-surfer
 zk-org/zk-nvim
 zkucekovic/tdd.nvim
 zongben/capsoff.nvim
+zongben/dbout.nvim
 zongben/navimark.nvim
 zongben/proot.nvim
 zootedb0t/citruszest.nvim
