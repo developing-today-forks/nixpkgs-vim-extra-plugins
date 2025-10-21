@@ -160,6 +160,7 @@ NormalNvim/NormalNvim
 NvChad/nvim-colorizer.lua
 OXY2DEV/bars.nvim
 OXY2DEV/foldtext.nvim
+OXY2DEV/markdoc.nvim
 OXY2DEV/ui.nvim
 Olical/nfnl
 OscarCreator/rsync.nvim
@@ -266,6 +267,7 @@ adelarsq/neoline.vim
 adisen99/apprentice.nvim
 adisen99/codeschool.nvim
 adoyle-h/one.nvim
+aileot/nvim-thyme
 akinsho/dependency-assist.nvim
 akinsho/git-conflict.nvim
 akinsho/nvim-toggleterm.lua
@@ -383,6 +385,7 @@ chuwy/ucm.nvim
 cjodo/convert.nvim
 ckolkey/ts-node-action
 claydugo/browsher.nvim
+cljoly/telescope-repo.nvim
 clojure-vim/jazz.nvim
 coffebar/neovim-project
 coffebar/transfer.nvim
@@ -619,6 +622,7 @@ kobbikobb/move-lines.nvim
 koenverburg/peepsight.nvim
 konapun/vacuumline.nvim
 kr40/nvim-macros
+kuri-sun/yoda.nvim
 kvrohit/mellow.nvim
 kvrohit/rasmus.nvim
 kyazdani42/blue-moon
@@ -630,6 +634,7 @@ ldelossa/gh.nvim
 ldelossa/nvim-ide
 ldelossa/vimdark
 leafOfTree/vim-svelte-plugin
+leblocks/hopcsharp.nvim
 legobeat/l7-devenv
 lewpoly/sherbet.nvim
 lfilho/note2cal.nvim
@@ -646,6 +651,7 @@ linty-org/readline.nvim
 lmburns/kimbox
 loganswartz/polychrome.nvim
 loganswartz/sunburn.nvim
+logicmagix/tide42
 lopi-py/luau-lsp.nvim
 lourenci/github-colors
 luckasRanarison/clear-action.nvim
