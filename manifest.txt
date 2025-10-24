@@ -102,6 +102,7 @@ JoosepAlviste/nvim-ts-context-commentstring
 Junnplus/nvim-lsp-setup
 Jxstxs/conceal.nvim
 Kasama/nvim-custom-diagnostic-highlight
+Kenzo-Wada/boundary.nvim
 Kicamon/markdown-table-mode.nvim
 Kohei-Wada/yadm-git.nvim
 Kurama622/llm.nvim
@@ -245,6 +246,7 @@ Xuyuanp/yanil
 YaroSpace/lua-console.nvim
 Yazeed1s/minimal.nvim
 Yazeed1s/oh-lucy.nvim
+YousefHadder/markdown-plus.nvim
 Yu-Leo/blame-column.nvim
 Yu-Leo/cmp-go-pkgs
 Yu-Leo/gosigns.nvim
@@ -267,6 +269,7 @@ adelarsq/neoline.vim
 adisen99/apprentice.nvim
 adisen99/codeschool.nvim
 adoyle-h/one.nvim
+ahkohd/buffer-sticks.nvim
 aileot/nvim-thyme
 akinsho/dependency-assist.nvim
 akinsho/git-conflict.nvim
