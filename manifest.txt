@@ -44,6 +44,7 @@ Beargruug/skipper.nvim
 Bekaboo/deadcolumn.nvim
 BibekBhusal0/bufstack.nvim
 BibekBhusal0/nvim-shadcn
+BirdeeHub/lze
 BrunoCiccarino/gardenal
 CKolkey/ts-node-action
 CRAG666/code_runner.nvim
@@ -194,6 +195,7 @@ SCJangra/table-nvim
 SUSTech-data/neopyter
 Saecki/crates.nvim
 Saghen/blink.cmp
+Saghen/filler-begone.nvim
 SalOrak/whaler.nvim
 SergioRibera/cmp-dotenv
 Shaobin-Jiang/IceNvim
@@ -362,6 +364,7 @@ cappyzawa/trim.nvim
 catppuccin/nvim::catppuccin
 cbochs/grapple.nvim
 cbochs/portal.nvim
+cd-4/git-needy.nvim
 chatvim/chatvim.nvim
 chipsenkbeil/distant.nvim
 chiyadev/dep
@@ -382,6 +385,7 @@ chrisgrieser/nvim-rulebook
 chrisgrieser/nvim-scissors
 chrisgrieser/nvim-tinygit
 chrisgrieser/nvim-various-textobjs
+chrisgve/databox.nvim
 chrsm/impulse.nvim
 chrsm/paramount-ng.nvim
 chuwy/ucm.nvim
@@ -662,6 +666,7 @@ luckasRanarison/nvim-devdocs
 luckasRanarison/tailwind-tools.nvim
 luisiacc/gruvbox-baby
 lukas-reineke/lsp-format.nvim
+lumen-oss/lz.n
 luukvbaal/nnn.nvim
 m-demare/attempt.nvim
 m-demare/hlargs.nvim
@@ -673,6 +678,7 @@ madskjeldgaard/reaper-nvim
 malbertzard/inline-fold.nvim
 mangelozzi/rgflow.nvim
 marilari88/twoslash-queries.nvim
+markgandolfo/dartboard.nvim
 matbme/JABS.nvim
 mateuszwieloch/automkdir.nvim
 mawkler/demicolon.nvim
@@ -856,6 +862,7 @@ piersolenski/import.nvim
 piersolenski/telescope-import.nvim
 piersolenski/wtf.nvim
 pluffie/neoproj
+pmouraguedes/neodarcula.nvim
 pocco81/auto-save.nvim
 pocco81/dap-buddy.nvim
 pocco81/high-str.nvim
@@ -885,6 +892,7 @@ ramojus/mellifluous.nvim
 ranjithshegde/ccls.nvim
 rasulomaroff/reactive.nvim
 rasulomaroff/telepath.nvim
+ravsii/nvim-dap-envfile
 ravsii/timers.nvim
 rawnly/gist.nvim
 ray-x/go.nvim
@@ -1080,6 +1088,7 @@ wsdjeg/nvim-plug
 wsdjeg/picker.nvim
 wsdjeg/rooter.nvim
 wsdjeg/satellite.nvim
+wsdjeg/scrollbar.nvim
 wurli/cobalt.nvim
 wurli/split.nvim
 wurli/visimatch.nvim
