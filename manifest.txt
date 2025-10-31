@@ -243,6 +243,7 @@ Who5673/who5673-nasm
 WhoIsSethDaniel/mason-tool-installer.nvim
 Willem-J-an/visidata.nvim
 X3eRo0/dired.nvim
+XXiaoA/atone.nvim
 XXiaoA/ns-textobject.nvim
 Xuyuanp/yanil
 YaroSpace/lua-console.nvim
@@ -359,6 +360,8 @@ brenoprata10/nvim-highlight-colors
 brenton-leighton/multiple-cursors.nvim
 brianaung/compl.nvim
 brianhuster/live-preview.nvim
+bydlw98/blink-cmp-env
+bydlw98/blink-cmp-sshconfig
 calind/selenized.nvim
 cappyzawa/trim.nvim
 catppuccin/nvim::catppuccin
@@ -698,6 +701,7 @@ mellow-theme/mellow.nvim
 mfussenegger/nvim-treehopper
 mfussenegger/nvim-ts-hint-textobject
 mg979/tabline.nvim
+mgalliou/blink-cmp-tmux
 michaelb/sniprun
 miikanissi/modus-themes.nvim
 mikesmithgh/git-prompt-string-lualine.nvim
@@ -1084,6 +1088,7 @@ winston0410/commented.nvim
 woosaaahh/sj.nvim
 wsdjeg/flygrep.nvim
 wsdjeg/format.nvim
+wsdjeg/git.nvim
 wsdjeg/nvim-plug
 wsdjeg/picker.nvim
 wsdjeg/rooter.nvim
