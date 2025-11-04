@@ -130,6 +130,7 @@ LuxVim/nvim-luxterm
 MagicDuck/grug-far.nvim
 Mangeshrex/uwu.vim
 MarcHamamji/runner.nvim
+Mauritz8/gitstatus.nvim
 MeanderingProgrammer/markdown.nvim
 MeanderingProgrammer/render-markdown.nvim
 MisanthropicBit/decipher.nvim
@@ -819,6 +820,7 @@ nvimtools/hydra.nvim
 nvimtools/none-ls.nvim
 nvoid-lua/nvoid
 nvzone/minty
+nxhung2304/lastplace.nvim
 nxvu699134/vn-night.nvim
 nyngwang/NeoNoName.lua
 nyngwang/NeoRoot.lua
@@ -863,6 +865,7 @@ pianocomposer321/officer.nvim
 pianocomposer321/yabs.nvim
 piersolenski/brewfile.nvim
 piersolenski/import.nvim
+piersolenski/plugin-addict.nvim
 piersolenski/telescope-import.nvim
 piersolenski/wtf.nvim
 pluffie/neoproj
@@ -947,6 +950,7 @@ sachinsenal0x64/hot.nvim
 saifulapm/chartoggle.nvim
 saifulapm/commasemi.nvim
 saifulapm/neotree-file-nesting-config
+salorak/libtmux.nvim
 samharju/serene.nvim
 samharju/synthweave.nvim
 samharju/yeet.nvim
