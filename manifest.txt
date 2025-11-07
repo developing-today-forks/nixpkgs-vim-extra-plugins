@@ -204,6 +204,7 @@ Shatur/neovim-session-manager
 Shatur/neovim-tasks
 SidOfc/carbon.nvim
 Silletr/LazyDevHelper
+Silletr/LazyDeveloperHelper
 SmiteshP/nvim-navic
 Snikimonkd/cmp-go-pkgs
 StackInTheWild/headhunter.nvim
@@ -595,6 +596,7 @@ jose-elias-alvarez/null-ls.nvim
 jose-elias-alvarez/typescript.nvim
 josephburgess/nvumi
 jpmcb/nvim-llama
+jpwol/thorn.nvim
 jrychn/ModuleVim
 jubnzv/mdeval.nvim
 jubnzv/virtual-types.nvim
@@ -1093,6 +1095,7 @@ woosaaahh/sj.nvim
 wsdjeg/flygrep.nvim
 wsdjeg/format.nvim
 wsdjeg/git.nvim
+wsdjeg/mru.nvim
 wsdjeg/nvim-plug
 wsdjeg/picker.nvim
 wsdjeg/rooter.nvim
@@ -1127,6 +1130,7 @@ yazeed1s/oh-lucy.nvim
 ycdzj/win-mover.nvim
 yelog/i18n.nvim
 yetone/avante.nvim
+ymich9963/mdnotes.nvim
 yonlu/omni.vim
 gitlab:yorickpeterse/nvim-pqf
 yorickpeterse/nvim-window
