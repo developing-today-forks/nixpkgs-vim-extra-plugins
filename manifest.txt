@@ -268,6 +268,7 @@ aaronik/Treewalker.nvim
 abecodes/tabout.nvim
 abeldekat/harpoonline
 abeldekat/lazyflex.nvim
+abidibo/nvim-httpyac
 ada0l/obsidian
 adelarsq/image_preview.nvim
 adelarsq/neoline.vim
@@ -343,6 +344,7 @@ gitlab:bartekjaszczak/luma-nvim
 bassamsdata/namu.nvim
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
+bennorichters/taal.nvim
 bennypowers/nvim-regexplainer
 bennypowers/splitjoin.nvim
 bennypowers/svgo.nvim
@@ -512,6 +514,7 @@ ggandor/leap-spooky.nvim
 ggandor/leap.nvim
 gh-liu/fold_line.nvim
 ghillb/cybu.nvim
+gisketch/triforce.nvim
 github-main-user/lytmode.nvim
 glacambre/firenvim
 gnikdroy/projections.nvim
@@ -949,6 +952,10 @@ s1n7ax/nvim-terminal
 sQVe/bufignore.nvim
 sQVe/sort.nvim
 sachinsenal0x64/hot.nvim
+saghen/blink.cmp
+saghen/blink.compat
+saghen/blink.indent
+saghen/filler-begone.nvim
 saifulapm/chartoggle.nvim
 saifulapm/commasemi.nvim
 saifulapm/neotree-file-nesting-config
@@ -1063,6 +1070,7 @@ trevorhauter/gitportal.nvim
 tris203/hawtkeys.nvim
 tris203/precognition.nvim
 tristone13th/lspmark.nvim
+tttol/md-outline.nvim
 tveskag/nvim-blame-line
 udayvir-singh/hibiscus.nvim
 udayvir-singh/tangerine.nvim
