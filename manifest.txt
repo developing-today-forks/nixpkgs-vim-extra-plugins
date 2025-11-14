@@ -133,6 +133,7 @@ MarcHamamji/runner.nvim
 Mauritz8/gitstatus.nvim
 MeanderingProgrammer/markdown.nvim
 MeanderingProgrammer/render-markdown.nvim
+MeanderingProgrammer/treesitter-modules.nvim
 MisanthropicBit/decipher.nvim
 MisanthropicBit/neotest-busted
 MisanthropicBit/winmove.nvim
@@ -521,6 +522,7 @@ gnikdroy/projections.nvim
 gorbit99/codewindow.nvim
 gregorias/coerce.nvim
 gregorias/coop.nvim
+gruvw/strudel.nvim
 gsuuon/llm.nvim
 gsuuon/model.nvim
 gsuuon/note.nvim
@@ -892,6 +894,7 @@ ptdewey/yankbank-nvim
 pwntester/codeql.nvim
 qaptoR-nvim/chocolatier.nvim
 quolpr/quicktest.nvim
+qwavies/smart-backspace.nvim
 rachartier/tiny-code-action.nvim
 rachartier/tiny-devicons-auto-colors.nvim
 rachartier/tiny-glimmer.nvim
