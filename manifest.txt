@@ -752,6 +752,7 @@ nanozuki/tabby.nvim
 natecraddock/workspaces.nvim
 neanias/everforest-nvim
 neanvo/buben.nvim
+necrom4/convy.nvim
 sourcehut:nedia/auto-format.nvim
 sourcehut:nedia/auto-save.nvim
 neko-night/nvim
@@ -1103,6 +1104,7 @@ windwp/nvim-spectre
 windwp/windline.nvim
 winston0410/commented.nvim
 woosaaahh/sj.nvim
+wsdjeg/ctags.nvim
 wsdjeg/flygrep.nvim
 wsdjeg/format.nvim
 wsdjeg/git.nvim
