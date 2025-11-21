@@ -93,12 +93,14 @@ GeorgesAlkhouri/nvim-aider
 GnikDroy/projections.nvim
 HakonHarnes/img-clip.nvim
 HawkinsT/pathfinder.nvim
+Hdoc1509/gh-actions.nvim
 HiPhish/rainbow-delimiters.nvim
 HoNamDuong/hybrid.nvim
 IlyasYOY/obs.nvim
 IndianBoy42/tree-sitter-just
 Iron-E/nvim-cartographer
 JMarkin/gentags.lua
+JesperLundberg/projektgunnar
 JoosepAlviste/nvim-ts-context-commentstring
 Junnplus/nvim-lsp-setup
 Jxstxs/conceal.nvim
@@ -220,6 +222,7 @@ Th3Whit3Wolf/onebuddy
 Th3Whit3Wolf/space-nvim
 TheBlob42/drex.nvim
 TheBlob42/houdini.nvim
+TheItcor/MoaiVim
 TheLazyCat00/racer-nvim
 TheLazyCat00/replace-nvim
 TheLazyCat00/simple-format
@@ -288,6 +291,7 @@ alec-gibson/nvim-tetris
 alex-popov-tech/store.nvim
 alexaandru/nvim-lspupdate
 alexmozaidze/palenight.nvim
+alexmozaidze/tree-comment.nvim
 alexpasmantier/pymple.nvim
 aliou/bats.vim
 altermo/iedit.nvim
