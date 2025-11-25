@@ -490,6 +490,7 @@ emmanueltouzery/decisive.nvim
 epwalsh/obsidian.nvim
 esensar/nvim-dev-container
 esmuellert/nvim-eslint
+esmuellert/vscode-diff.nvim
 f-person/auto-dark-mode.nvim
 farias-hecdin/CSSVarHighlight
 farias-hecdin/CSSVarViewer
