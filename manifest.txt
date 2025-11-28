@@ -573,6 +573,7 @@ is0n/jaq-nvim
 isak102/ghostty.nvim
 isak102/telescope-git-file-history.nvim
 ishan9299/modus-theme-vim
+itsfernn/auto-gnome-theme.nvim
 j-morano/buffer_manager.nvim
 jakewvincent/mkdnflow.nvim
 jakewvincent/texmagic.nvim
@@ -709,6 +710,7 @@ mcauley-penney/techbase.nvim
 mcauley-penney/tidy.nvim
 mcauley-penney/visual-whitespace.nvim
 mcchrish/zenbones.nvim
+melMass/echo.nvim
 melkster/modicator.nvim
 mellow-theme/mellow.nvim
 mfussenegger/nvim-treehopper
@@ -879,6 +881,7 @@ pianocomposer321/yabs.nvim
 piersolenski/brewfile.nvim
 piersolenski/import.nvim
 piersolenski/plugin-addict.nvim
+piersolenski/skifree.nvim
 piersolenski/telescope-import.nvim
 piersolenski/wtf.nvim
 pluffie/neoproj
@@ -1109,6 +1112,7 @@ windwp/nvim-spectre
 windwp/windline.nvim
 winston0410/commented.nvim
 woosaaahh/sj.nvim
+wsdjeg/cpicker.nvim
 wsdjeg/ctags.nvim
 wsdjeg/flygrep.nvim
 wsdjeg/format.nvim
