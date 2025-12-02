@@ -169,6 +169,7 @@ OXY2DEV/foldtext.nvim
 OXY2DEV/markdoc.nvim
 OXY2DEV/ui.nvim
 Olical/nfnl
+OriginCoderPulse/synapse.nvim
 OscarCreator/rsync.nvim
 Ostralyan/scribe.nvim
 Owen-Dechow/nvim_json_graph_view
@@ -868,6 +869,7 @@ p00f/clangd_extensions.nvim
 p00f/cphelper.nvim
 pandasoli/nekovim
 paul-louyot/toggle-quotes.nvim
+pebeto/dookie.nvim
 petertriho/nvim-scrollbar
 pewpewnor/pilot.nvim
 pgosar/CyberNvim
@@ -1099,6 +1101,7 @@ vxpm/ferris.nvim
 vyfor/cord.nvim
 vzze/cmdline.nvim
 waiting-for-dev/ergoterm.nvim
+walkersumida/deepl.nvim
 walkersumida/fusen.nvim
 williamboman/mason-lspconfig.nvim
 williamboman/mason.nvim
