@@ -647,6 +647,7 @@ kobbikobb/move-lines.nvim
 koenverburg/peepsight.nvim
 konapun/vacuumline.nvim
 kr40/nvim-macros
+krissen/blink-cmp-bibtex
 kuri-sun/yoda.nvim
 kvrohit/mellow.nvim
 kvrohit/rasmus.nvim
@@ -948,6 +949,7 @@ rmehri01/onenord.nvim
 rockerBOO/boo-colorscheme-nvim
 rockyzhang24/arctic.nvim
 rodrigore/coc-tailwind-intellisense
+rodrigoscc/nurl.nvim
 romus204/go-tagger.nvim
 romus204/referencer.nvim
 roobert/action-hints.nvim
