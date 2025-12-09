@@ -274,6 +274,7 @@ abecodes/tabout.nvim
 abeldekat/harpoonline
 abeldekat/lazyflex.nvim
 abidibo/nvim-httpyac
+acidsugarx/babel.nvim
 ada0l/obsidian
 adelarsq/image_preview.nvim
 adelarsq/neoline.vim
