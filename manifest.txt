@@ -481,6 +481,7 @@ edolphin-ydf/goimpl.nvim
 ekickx/clipboard-image.nvim
 elentok/format-on-save.nvim
 elihunter173/dirbuf.nvim
+sourcehut:elisoli/nekovim
 ellisonleao/carbon-now.nvim
 ellisonleao/dotenv.nvim
 ellisonleao/glow.nvim
