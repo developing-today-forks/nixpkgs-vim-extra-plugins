@@ -101,6 +101,7 @@ IndianBoy42/tree-sitter-just
 Iron-E/nvim-cartographer
 JMarkin/gentags.lua
 JesperLundberg/projektgunnar
+JesperLundberg/projektgunnar.nvim
 JoosepAlviste/nvim-ts-context-commentstring
 Junnplus/nvim-lsp-setup
 Jxstxs/conceal.nvim
@@ -506,6 +507,7 @@ fnune/recall.nvim
 frabjous/knap
 francescarpi/buffon.nvim
 fredrikaverpil/godoc.nvim
+fschaal/azfunc.nvim
 fuenor/JpFormat.vim
 gaborvecsei/cryptoprice.nvim
 gaborvecsei/memento.nvim
@@ -664,6 +666,7 @@ ldelossa/vimdark
 leafOfTree/vim-svelte-plugin
 leblocks/hopcsharp.nvim
 legobeat/l7-devenv
+leo-alvarenga/quoth.nvim
 lewpoly/sherbet.nvim
 lfilho/note2cal.nvim
 liangxianzhe/nap.nvim
@@ -761,8 +764,10 @@ nanotee/nvim-lsp-basics
 nanotee/sqls.nvim
 nanozuki/tabby.nvim
 natecraddock/workspaces.nvim
+nbeversl/urtext_neovim
 neanias/everforest-nvim
 neanvo/buben.nvim
+necrom4/calcium.nvim
 necrom4/convy.nvim
 sourcehut:nedia/auto-format.nvim
 sourcehut:nedia/auto-save.nvim
