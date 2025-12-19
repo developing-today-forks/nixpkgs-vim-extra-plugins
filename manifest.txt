@@ -757,6 +757,7 @@ mrcjkb/haskell-snippets.nvim
 mrcjkb/haskell-tools.nvim
 mrcjkb/kickstart-nix.nvim
 mrcjkb/rustaceanvim
+mrjones2014/codesettings.nvim
 mrjones2014/legendary.nvim
 mrloop/telescope-git-branch.nvim
 nanotee/luv-vimdocs
@@ -1124,6 +1125,7 @@ windwp/nvim-spectre
 windwp/windline.nvim
 winston0410/commented.nvim
 woosaaahh/sj.nvim
+wsdjeg/code-runner.nvim
 wsdjeg/cpicker.nvim
 wsdjeg/ctags.nvim
 wsdjeg/flygrep.nvim
