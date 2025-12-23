@@ -284,6 +284,7 @@ adisen99/codeschool.nvim
 adoyle-h/one.nvim
 ahkohd/buffer-sticks.nvim
 aileot/nvim-thyme
+ajatdarojat45/commitmate.nvim
 akinsho/dependency-assist.nvim
 akinsho/git-conflict.nvim
 akinsho/nvim-toggleterm.lua
@@ -376,6 +377,7 @@ bydlw98/blink-cmp-env
 bydlw98/blink-cmp-sshconfig
 calind/selenized.nvim
 cappyzawa/trim.nvim
+carlos-algms/agentic.nvim
 catppuccin/nvim::catppuccin
 cbochs/grapple.nvim
 cbochs/portal.nvim
@@ -460,6 +462,7 @@ desdic/macrothis.nvim
 desdic/marlin.nvim
 desdic/telescope-rooter.nvim
 diegoulloao/neofusion.nvim
+dimtion/guttermarks.nvim
 dinhhuy258/sfm.nvim
 dlants/magenta.nvim
 dmmulroy/ts-error-translator.nvim
@@ -1193,3 +1196,4 @@ zongben/dbout.nvim
 zongben/navimark.nvim
 zongben/proot.nvim
 zootedb0t/citruszest.nvim
+zuqini/zpack.nvim
