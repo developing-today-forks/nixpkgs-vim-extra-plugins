@@ -498,6 +498,7 @@ epwalsh/obsidian.nvim
 esensar/nvim-dev-container
 esmuellert/nvim-eslint
 esmuellert/vscode-diff.nvim
+everviolet/nvim
 f-person/auto-dark-mode.nvim
 farias-hecdin/CSSVarHighlight
 farias-hecdin/CSSVarViewer
@@ -655,6 +656,7 @@ koenverburg/peepsight.nvim
 konapun/vacuumline.nvim
 kr40/nvim-macros
 krissen/blink-cmp-bibtex
+kuri-sun/comment-graph.nvim
 kuri-sun/yoda.nvim
 kvrohit/mellow.nvim
 kvrohit/rasmus.nvim
@@ -670,6 +672,7 @@ leafOfTree/vim-svelte-plugin
 leblocks/hopcsharp.nvim
 legobeat/l7-devenv
 leo-alvarenga/quoth.nvim
+letieu/jira.nvim
 lewpoly/sherbet.nvim
 lfilho/note2cal.nvim
 liangxianzhe/nap.nvim
@@ -693,7 +696,9 @@ luckasRanarison/nvim-devdocs
 luckasRanarison/tailwind-tools.nvim
 luisiacc/gruvbox-baby
 lukas-reineke/lsp-format.nvim
+lumen-oss/luarocks-tag-release
 lumen-oss/lz.n
+lumen-oss/rocks.nvim
 luukvbaal/nnn.nvim
 m-demare/attempt.nvim
 m-demare/hlargs.nvim
@@ -1128,6 +1133,7 @@ windwp/nvim-spectre
 windwp/windline.nvim
 winston0410/commented.nvim
 woosaaahh/sj.nvim
+wsdjeg/bufdel.nvim
 wsdjeg/code-runner.nvim
 wsdjeg/cpicker.nvim
 wsdjeg/ctags.nvim
