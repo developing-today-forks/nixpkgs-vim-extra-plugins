@@ -1050,6 +1050,7 @@ stevearc/oil.nvim
 stevearc/overseer.nvim
 stevearc/qf_helper.nvim
 stevearc/quicker.nvim
+stikypiston/cheaty.nvim
 subnut/nvim-ghost.nvim
 sukineco/neoproj
 svermeulen/nvim-lusc
