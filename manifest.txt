@@ -477,6 +477,7 @@ dracula/vim::dracula
 drybalka/clean.nvim
 drybalka/tree-climber.nvim
 duane9/nvim-rg
+dybdeskarphet/gruvbox-minimal.nvim
 dzfrias/arena.nvim
 echaya/neowiki.nvim
 ecthelionvi/NeoColumn.nvim
@@ -791,6 +792,7 @@ nfrid/treesitter-utils
 nguyenvukhang/nvim-toggler
 nikvdp/neomux
 nishu-murmu/ThemeSwitch.nvim
+nishu-murmu/cursor-inline
 niuiic/code-shot.nvim
 niuiic/cp-image.nvim
 niuiic/dap-utils.nvim
@@ -1051,6 +1053,7 @@ stevearc/overseer.nvim
 stevearc/qf_helper.nvim
 stevearc/quicker.nvim
 stikypiston/cheaty.nvim
+stikypiston/studytools.nvim
 subnut/nvim-ghost.nvim
 sukineco/neoproj
 svermeulen/nvim-lusc
