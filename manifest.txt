@@ -954,6 +954,7 @@ rgroli/other.nvim
 rhysd/vim-gfm-syntax
 ribru17/bamboo.nvim
 richardbizik/nvim-toc
+ricmonmol/nvim-music-player
 rktjmp/highlight-current-n.nvim
 rktjmp/pact.nvim
 rktjmp/paperplanes.nvim
@@ -1054,6 +1055,7 @@ stevearc/qf_helper.nvim
 stevearc/quicker.nvim
 stikypiston/cheaty.nvim
 stikypiston/studytools.nvim
+subev/sibling-jump.nvim
 subnut/nvim-ghost.nvim
 sukineco/neoproj
 svermeulen/nvim-lusc
