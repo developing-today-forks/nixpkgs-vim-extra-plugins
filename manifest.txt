@@ -73,6 +73,7 @@ DrKJeff16/wezterm-types
 EL-MASTOR/bufferlist.nvim
 Eandrju/cellular-automaton.nvim
 Enigama/miss.nvim
+Enigama/remarks.nvim
 Erl-koenig/theme-hub.nvim
 EthanJWright/vs-tasks.nvim
 EvWilson/slimux.nvim
@@ -203,6 +204,7 @@ Saecki/crates.nvim
 Saghen/blink.cmp
 Saghen/filler-begone.nvim
 SalOrak/whaler.nvim
+Salanoid/gitlogdiff.nvim
 SergioRibera/cmp-dotenv
 Shaobin-Jiang/IceNvim
 Shatur/neovim-session-manager
@@ -271,6 +273,7 @@ Zeioth/markmap.nvim
 ZhiyuanLck/smart-pairs
 aaronhallaert/advanced-git-search.nvim
 aaronik/Treewalker.nvim
+abdellatif-temsamani/adev.nvim
 abecodes/tabout.nvim
 abeldekat/harpoonline
 abeldekat/lazyflex.nvim
@@ -415,6 +418,10 @@ coffebar/neovim-project
 coffebar/transfer.nvim
 comatory/gh-co.nvim
 comfysage/evergarden
+cosmicbuffalo/eyeliner.nvim
+cosmicbuffalo/gem_install.nvim
+cosmicbuffalo/root_swapper.nvim
+cosmicbuffalo/super_lazy.nvim
 cpea2506/one_monokai.nvim
 cpea2506/relative-toggle.nvim
 creativenull/diagnosticls-configs-nvim
@@ -1009,6 +1016,7 @@ seandewar/killersheep.nvim
 seandewar/nvimesweeper
 sekke276/dark_flat.nvim
 serenevoid/kiwi.nvim
+serhez/teide.nvim
 sgur/vim-textobj-parameter
 shaeinst/roshnivim
 shaeinst/roshnivim-cs
