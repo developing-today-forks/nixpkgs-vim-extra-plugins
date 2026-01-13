@@ -764,11 +764,13 @@ monaqa/dial.nvim
 mong8se/actually.nvim
 mong8se/buffish.nvim
 monkoose/matchparen.nvim
+mosheavni/yaml-companion.nvim
 gitlab:motaz-shokry/gruvbox.nvim
 moyiz/command-and-cursor.nvim
 moyiz/git-dev.nvim
 mozanunal/sllm.nvim
 mpas/marp-nvim
+mr-u0b0dy/crazy-coverage.nvim
 mrcjkb/haskell-snippets.nvim
 mrcjkb/haskell-tools.nvim
 mrcjkb/kickstart-nix.nvim
@@ -1062,6 +1064,7 @@ stevearc/overseer.nvim
 stevearc/qf_helper.nvim
 stevearc/quicker.nvim
 stikypiston/cheaty.nvim
+stikypiston/smudge.nvim
 stikypiston/studytools.nvim
 subev/sibling-jump.nvim
 subnut/nvim-ghost.nvim
