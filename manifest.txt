@@ -44,6 +44,7 @@ Beargruug/skipper.nvim
 Bekaboo/deadcolumn.nvim
 BibekBhusal0/bufstack.nvim
 BibekBhusal0/nvim-shadcn
+BibekBhusal0/tree-hierarchy.nvim
 BirdeeHub/lze
 BrunoCiccarino/gardenal
 CKolkey/ts-node-action
@@ -70,6 +71,7 @@ David-Kunz/gen.nvim
 David-Kunz/jester
 Dhanus3133/Leetbuddy.nvim
 DrKJeff16/wezterm-types
+DrKJeff16/which-colorscheme.nvim
 EL-MASTOR/bufferlist.nvim
 Eandrju/cellular-automaton.nvim
 Enigama/miss.nvim
@@ -533,6 +535,7 @@ gbprod/yanky.nvim
 gen740/SmoothCursor.nvim
 gennaro-tedesco/nvim-commaround
 gennaro-tedesco/nvim-possession
+georgeharker/comment-tasks.nvim
 ggandor/leap-spooky.nvim
 ggandor/leap.nvim
 gh-liu/fold_line.nvim
