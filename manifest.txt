@@ -34,6 +34,7 @@ AckslD/nvim-gfold.lua
 AckslD/nvim-revJ.lua
 AckslD/nvim-trevJ.lua
 AckslD/swenv.nvim
+Akmadan23/local-session.nvim
 AlejandroSuero/freeze-code.nvim
 AlexvZyl/nordic.nvim
 AllenDang/nvim-expand-expr
@@ -207,6 +208,7 @@ Saghen/blink.cmp
 Saghen/filler-begone.nvim
 SalOrak/whaler.nvim
 Salanoid/gitlogdiff.nvim
+Sengoku11/commitpad.nvim
 SergioRibera/cmp-dotenv
 Shaobin-Jiang/IceNvim
 Shatur/neovim-session-manager
@@ -594,6 +596,7 @@ isak102/ghostty.nvim
 isak102/telescope-git-file-history.nvim
 ishan9299/modus-theme-vim
 itsfernn/auto-gnome-theme.nvim
+iwe-org/iwe.nvim
 j-morano/buffer_manager.nvim
 jakewvincent/mkdnflow.nvim
 jakewvincent/texmagic.nvim
@@ -628,6 +631,7 @@ jose-elias-alvarez/typescript.nvim
 josephburgess/nvumi
 jpmcb/nvim-llama
 jpwol/thorn.nvim
+jrop/morph.nvim
 jrychn/ModuleVim
 jubnzv/mdeval.nvim
 jubnzv/virtual-types.nvim
@@ -797,6 +801,7 @@ neko-night/nvim
 nekonako/xresources-nvim
 neo451/feed.nvim
 neolooong/whichpy.nvim
+netmute/foldsigns.nvim
 neur1n/noline.nvim
 nfrid/due.nvim
 nfrid/markdown-togglecheck
@@ -1007,6 +1012,7 @@ saifulapm/chartoggle.nvim
 saifulapm/commasemi.nvim
 saifulapm/neotree-file-nesting-config
 salorak/libtmux.nvim
+samesense/savitsky.nvim
 samharju/serene.nvim
 samharju/synthweave.nvim
 samharju/yeet.nvim
