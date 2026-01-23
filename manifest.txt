@@ -220,6 +220,7 @@ SmiteshP/nvim-navic
 Snikimonkd/cmp-go-pkgs
 StackInTheWild/headhunter.nvim
 StanAngeloff/claudius.nvim
+StefanBartl/color_my_ascii.nvim
 StratOS-Linux/StratVIM
 StubbornVegeta/llm.nvim
 SunnyTamang/neodoc.nvim
@@ -1095,6 +1096,7 @@ tanloong/interlaced.nvim
 tanvirtin/monokai.nvim
 tanvirtin/vgit.nvim
 tashikomaaa/neomongo.nvim
+tednguyendev/recent_rails.nvim
 tenxsoydev/karen-yank.nvim
 tenxsoydev/nx.nvim
 tenxsoydev/tabs-vs-spaces.nvim
