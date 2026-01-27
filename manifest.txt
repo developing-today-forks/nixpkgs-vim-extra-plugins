@@ -6,6 +6,7 @@
 2KAbhishek/markit.nvim
 2KAbhishek/nerdy.nvim
 2KAbhishek/octohub.nvim
+2KAbhishek/seeker.nvim
 2KAbhishek/tdo.nvim
 2KAbhishek/termim.nvim
 2KAbhishek/utils.nvim
@@ -44,6 +45,7 @@ Axot017/multiterm.nvim
 Beargruug/skipper.nvim
 Bekaboo/deadcolumn.nvim
 BibekBhusal0/bufstack.nvim
+BibekBhusal0/nvim-git-utils
 BibekBhusal0/nvim-shadcn
 BibekBhusal0/tree-hierarchy.nvim
 BirdeeHub/lze
@@ -198,6 +200,7 @@ RishabhRD/nvim-rdark
 Rits1272/riff.nvim
 Robitx/gp.nvim
 Rolv-Apneseth/tfm.nvim
+Rtarun3606k/takatime
 RutaTang/compter.nvim
 RutaTang/quicknote.nvim
 RutaTang/spectacle.nvim
@@ -542,6 +545,7 @@ georgeharker/comment-tasks.nvim
 ggandor/leap-spooky.nvim
 ggandor/leap.nvim
 gh-liu/fold_line.nvim
+gh-liu/nvim-winterm
 ghillb/cybu.nvim
 gisketch/triforce.nvim
 github-main-user/lytmode.nvim
@@ -802,6 +806,7 @@ neko-night/nvim
 nekonako/xresources-nvim
 neo451/feed.nvim
 neolooong/whichpy.nvim
+netmute/foldchanged.nvim
 netmute/foldsigns.nvim
 neur1n/noline.nvim
 nfrid/due.nvim
@@ -1076,6 +1081,7 @@ stevearc/quicker.nvim
 stikypiston/cheaty.nvim
 stikypiston/smudge.nvim
 stikypiston/studytools.nvim
+stikypiston/unobtrusive-relnums
 subev/sibling-jump.nvim
 subnut/nvim-ghost.nvim
 sukineco/neoproj
