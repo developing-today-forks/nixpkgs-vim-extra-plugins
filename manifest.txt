@@ -332,6 +332,7 @@ apdot/doodle
 apyra/nvim-unity
 ariel-frischer/bmessages.nvim
 arminveres/md-pdf.nvim
+aronjohanns/smooth-resize.nvim
 artart222/CodeArt
 artemave/workspace-diagnostics.nvim
 aserowy/tmux.nvim
@@ -379,6 +380,7 @@ bluz71/vim-moonfly-colors
 bluz71/vim-nightfly-colors
 bngarren/checkmate.nvim
 booperlv/nvim-gomove
+bravoecho/brook.nvim
 brendalf/mix.nvim
 brenoprata10/nvim-highlight-colors
 brenton-leighton/multiple-cursors.nvim
@@ -389,6 +391,7 @@ bydlw98/blink-cmp-sshconfig
 calind/selenized.nvim
 cappyzawa/trim.nvim
 carlos-algms/agentic.nvim
+carloscalla/notepad.nvim
 catppuccin/nvim::catppuccin
 cbochs/grapple.nvim
 cbochs/portal.nvim
@@ -512,6 +515,7 @@ emileferreira/nvim-strict
 emmanueltouzery/decisive.nvim
 epwalsh/obsidian.nvim
 esensar/nvim-dev-container
+esmuellert/codediff.nvim
 esmuellert/nvim-eslint
 esmuellert/vscode-diff.nvim
 everviolet/nvim
@@ -600,6 +604,7 @@ is0n/jaq-nvim
 isak102/ghostty.nvim
 isak102/telescope-git-file-history.nvim
 ishan9299/modus-theme-vim
+ishiooon/codex.nvim
 itsfernn/auto-gnome-theme.nvim
 iwe-org/iwe.nvim
 j-morano/buffer_manager.nvim
@@ -664,6 +669,7 @@ kiran94/s3edit.nvim
 kiyoon/Korean-IME.nvim
 kiyoon/jupynium.nvim
 kiyoon/python-import.nvim
+kiyoon/repeatable-move.nvim
 kiyoon/telescope-insert-path.nvim
 kiyoon/tmux-send.nvim
 kiyoon/treesitter-indent-object.nvim
@@ -1066,6 +1072,7 @@ sontungexpt/witch
 sontungexpt/witch-line
 soulis-1256/eagle.nvim
 soulis-1256/hoverhints.nvim
+spacedentist/resolve.nvim
 speelbarrow/spLauncher.nvim
 sphamba/smear-cursor.nvim
 sschleemilch/slimline.nvim
