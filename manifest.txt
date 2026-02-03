@@ -73,6 +73,7 @@ Darazaki/indent-o-matic
 David-Kunz/gen.nvim
 David-Kunz/jester
 Dhanus3133/Leetbuddy.nvim
+DrKJeff16/pipenv.nvim
 DrKJeff16/wezterm-types
 DrKJeff16/which-colorscheme.nvim
 EL-MASTOR/bufferlist.nvim
@@ -618,6 +619,7 @@ jbyuki/carrot.nvim
 jbyuki/instant.nvim
 jbyuki/nabla.nvim
 jbyuki/one-small-step-for-vimkind
+jceb/jiejie.nvim
 jedrzejboczar/possession.nvim
 jedrzejboczar/toggletasks.nvim
 jghauser/auto-pandoc.nvim
@@ -639,6 +641,7 @@ jonathandion/web-dev.nvim
 jose-elias-alvarez/null-ls.nvim
 jose-elias-alvarez/typescript.nvim
 josephburgess/nvumi
+josephschmitt/pj.nvim
 jpmcb/nvim-llama
 jpwol/thorn.nvim
 jrop/morph.nvim
@@ -1048,6 +1051,7 @@ shellRaining/hlchunk.nvim
 sho-87/kanagawa-paper.nvim
 shortcuts/no-neck-pain.nvim
 siduck76/NvChad
+silentium-theme/silentium.nvim
 simaxme/java.nvim
 simonmclean/triptych.nvim
 sitiom/nvim-numbertoggle
@@ -1193,6 +1197,7 @@ wurli/visimatch.nvim
 xeluxee/competitest.nvim
 xero/miasma.nvim
 xiaoshihou514/squirrel.nvim
+xieyonn/blink-cmp-dat-word
 xiyaowong/link-visitor.nvim
 xiyaowong/nvim-cursorword
 xiyaowong/nvim-transparent
@@ -1217,6 +1222,7 @@ ycdzj/win-mover.nvim
 yelog/i18n.nvim
 yetone/avante.nvim
 ymich9963/mdnotes.nvim
+yonatan-perel/lake-dweller.nvim
 yonlu/omni.vim
 gitlab:yorickpeterse/nvim-pqf
 yorickpeterse/nvim-window
