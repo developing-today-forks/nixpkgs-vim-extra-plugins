@@ -360,6 +360,8 @@ backdround/improved-search.nvim
 backdround/neowords.nvim
 backdround/tabscope.nvim
 bakageddy/alduin.nvim
+barrettruth/cp.nvim
+barrettruth/diffs.nvim
 gitlab:bartekjaszczak/distinct-nvim
 gitlab:bartekjaszczak/finale-nvim
 gitlab:bartekjaszczak/luma-nvim
@@ -400,6 +402,7 @@ cd-4/git-needy.nvim
 chatvim/chatvim.nvim
 chipsenkbeil/distant.nvim
 chiyadev/dep
+chojs23/ts-bridge
 chomosuke/typst-preview.nvim
 chrisgrieser/nvim-alt-substitute
 chrisgrieser/nvim-chainsaw
@@ -850,6 +853,7 @@ nkakouros-original/scrollofffraction.nvim
 nkakouros/scrollofffraction.nvim
 noib3/cokeline.nvim::cokeline
 noib3/nvim-compleet
+nolleh/warp.nvim
 norcalli/nvim-base16.lua
 nosduco/remote-sshfs.nvim
 notomo/cmdbuf.nvim
@@ -1001,6 +1005,7 @@ rockerBOO/boo-colorscheme-nvim
 rockyzhang24/arctic.nvim
 rodrigore/coc-tailwind-intellisense
 rodrigoscc/nurl.nvim
+rogue-87/inlyne.nvim
 romus204/go-tagger.nvim
 romus204/referencer.nvim
 roobert/action-hints.nvim
@@ -1191,6 +1196,7 @@ wsdjeg/picker.nvim
 wsdjeg/rooter.nvim
 wsdjeg/satellite.nvim
 wsdjeg/scrollbar.nvim
+wsdjeg/tabman.nvim
 wurli/cobalt.nvim
 wurli/split.nvim
 wurli/visimatch.nvim
