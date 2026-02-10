@@ -300,10 +300,12 @@ ajatdarojat45/commitmate.nvim
 akinsho/dependency-assist.nvim
 akinsho/git-conflict.nvim
 akinsho/nvim-toggleterm.lua
+akioweh/lsp-document-highlight.nvim
 al1-ce/just.nvim
 alanfortlink/blackjack.nvim
 alaviss/nim.nvim
 alec-gibson/nvim-tetris
+alessio-vivaldelli/java-creator-nvim
 alex-popov-tech/store.nvim
 alexaandru/nvim-lspupdate
 alexmozaidze/palenight.nvim
@@ -1244,6 +1246,7 @@ zbirenbaum/neodim
 zdcthomas/yop.nvim
 zeioth/heirline-components.nvim
 zeioth/none-ls-autoload.nvim
+zerochae/dbab.nvim
 zhisme/copy_with_context.nvim
 ziontee113/color-picker.nvim
 ziontee113/icon-picker.nvim
