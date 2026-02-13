@@ -190,6 +190,7 @@ Pocco81/HighStr.nvim
 Pocco81/auto-save.nvim::AutoSave
 Pocco81/dap-buddy.nvim
 Pocco81/high-str.nvim
+Prgebish/sigil.nvim
 QuentinGruber/pomodoro.nvim
 QuentinGruber/timespent.nvim
 RAprogramm/nekifoch
@@ -238,7 +239,9 @@ TheBlob42/houdini.nvim
 TheItcor/MoaiVim
 TheLazyCat00/racer-nvim
 TheLazyCat00/replace-nvim
+TheLazyCat00/runner-nvim
 TheLazyCat00/simple-format
+TheLazyCat00/workspaces-nvim
 TheLeoP/powershell.nvim
 ThePrimeagen/vim-be-good
 ThemerCorp/themer.lua
@@ -268,6 +271,7 @@ Xuyuanp/yanil
 YaroSpace/lua-console.nvim
 Yazeed1s/minimal.nvim
 Yazeed1s/oh-lucy.nvim
+YouSame2/inlinediff-nvim
 YousefHadder/markdown-plus.nvim
 Yu-Leo/blame-column.nvim
 Yu-Leo/cmp-go-pkgs
@@ -404,6 +408,7 @@ cd-4/git-needy.nvim
 chatvim/chatvim.nvim
 chipsenkbeil/distant.nvim
 chiyadev/dep
+chojs23/ec
 chojs23/ts-bridge
 chomosuke/typst-preview.nvim
 chrisgrieser/nvim-alt-substitute
@@ -818,6 +823,7 @@ sourcehut:nedia/auto-format.nvim
 sourcehut:nedia/auto-save.nvim
 neko-night/nvim
 nekonako/xresources-nvim
+nemanjamalesija/smart-paste.nvim
 neo451/feed.nvim
 neolooong/whichpy.nvim
 netmute/foldchanged.nvim
