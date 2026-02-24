@@ -299,6 +299,7 @@ adisen99/apprentice.nvim
 adisen99/codeschool.nvim
 adoyle-h/one.nvim
 ahkohd/buffer-sticks.nvim
+aikhe/wrapped.nvim
 aileot/nvim-thyme
 ajatdarojat45/commitmate.nvim
 akinsho/dependency-assist.nvim
@@ -1196,6 +1197,7 @@ windwp/windline.nvim
 winston0410/commented.nvim
 woosaaahh/sj.nvim
 wsdjeg/bufdel.nvim
+wsdjeg/chat.nvim
 wsdjeg/code-runner.nvim
 wsdjeg/cpicker.nvim
 wsdjeg/ctags.nvim
