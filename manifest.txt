@@ -506,6 +506,7 @@ dracula/vim
 dracula/vim::dracula
 drybalka/clean.nvim
 drybalka/tree-climber.nvim
+dtormoen/neural-open.nvim
 duane9/nvim-rg
 dybdeskarphet/gruvbox-minimal.nvim
 dzfrias/arena.nvim
@@ -579,6 +580,7 @@ gsuuon/tshjkl.nvim
 guilherme-puida/tesoura.nvim
 h-hg/fcitx.nvim
 hackorum/VapourNvim
+hadishahpuri/nvimlaunch
 hadronized/mind.nvim
 hakonharnes/img-clip.nvim
 happyeric77/joplin.nvim
@@ -713,6 +715,7 @@ ldelossa/vimdark
 leafOfTree/vim-svelte-plugin
 leblocks/hopcsharp.nvim
 legobeat/l7-devenv
+leo-alvarenga/homecoming.nvim
 leo-alvarenga/quoth.nvim
 letieu/jira.nvim
 lewpoly/sherbet.nvim
@@ -828,6 +831,7 @@ sourcehut:nedia/auto-save.nvim
 neko-night/nvim
 nekonako/xresources-nvim
 nemanjamalesija/smart-paste.nvim
+nemanjamalesija/ts-expand-hover.nvim
 neo451/feed.nvim
 neolooong/whichpy.nvim
 netmute/foldchanged.nvim
@@ -1051,6 +1055,7 @@ samharju/synthweave.nvim
 samharju/yeet.nvim
 samjwill/nvim-unception
 samodostal/image.nvim
+sanjay-np/nvim-yt-player
 savq/melange
 savq/paq-nvim
 saxon1964/neovim-tips
@@ -1125,6 +1130,7 @@ t-troebst/perfanno.nvim
 ta-tikoma/php.easy.nvim
 tadmccorkle/markdown.nvim
 taigrr/blast.nvim
+taigrr/cyberpunk.nvim
 taigrr/glaze.nvim
 taigrr/neocrush.nvim
 tamago324/lir-git-status.nvim
