@@ -116,6 +116,7 @@ Kasama/nvim-custom-diagnostic-highlight
 Kenzo-Wada/boundary.nvim
 Kicamon/markdown-table-mode.nvim
 Kohei-Wada/yadm-git.nvim
+Kurama622/clean-diagnostic
 Kurama622/llm.nvim
 Kurama622/profile.nvim
 Kurren123/mssql.nvim
@@ -780,6 +781,7 @@ mg979/tabline.nvim
 mgalliou/blink-cmp-tmux
 michaelb/sniprun
 miikanissi/modus-themes.nvim
+mikeboiko/nvim-flow
 mikesmithgh/git-prompt-string-lualine.nvim
 mikesmithgh/kitty-scrollback.nvim
 milanglacier/minuet-ai.nvim
