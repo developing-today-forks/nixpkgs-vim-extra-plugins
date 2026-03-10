@@ -532,6 +532,7 @@ esensar/nvim-dev-container
 esmuellert/codediff.nvim
 esmuellert/nvim-eslint
 esmuellert/vscode-diff.nvim
+evanmcpheron/rocketlog.nvim
 everviolet/nvim
 f-person/auto-dark-mode.nvim
 farias-hecdin/CSSVarHighlight
@@ -653,6 +654,7 @@ jkeresman01/tmux-switch.nvim
 johann2357/nvim-smartbufs
 johannww/tts.nvim
 jonathandion/web-dev.nvim
+joryeugene/dadbod-grip.nvim
 jose-elias-alvarez/null-ls.nvim
 jose-elias-alvarez/typescript.nvim
 josephburgess/nvumi
