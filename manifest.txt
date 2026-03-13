@@ -570,6 +570,7 @@ gisketch/triforce.nvim
 github-main-user/lytmode.nvim
 glacambre/firenvim
 glyccogen/imprint.nvim
+gmcusaro/ma.nvim
 gnikdroy/projections.nvim
 gorbit99/codewindow.nvim
 gregorias/coerce.nvim
