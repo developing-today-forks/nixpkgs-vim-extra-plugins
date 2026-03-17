@@ -1,5 +1,6 @@
 00sapo/visual.nvim
 0styx0/abbreinder.nvim
+0xble/dotagent.nvim
 0xstepit/flow.nvim
 2KAbhishek/co-author.nvim
 2KAbhishek/exercism.nvim
@@ -613,6 +614,10 @@ idanarye/nvim-moonicipal
 igorlfs/nvim-dap-view
 imbacraft/dusk.nvim
 imranZERO/multiterm.nvim
+indium114/cheaty.nvim
+indium114/smudge.nvim
+indium114/studytools.nvim
+indium114/unobtrusive-relnums
 ingur/floatty.nvim
 inhesrom/remote-ssh.nvim
 inkch/vim-fish::vim-fish-inkch
