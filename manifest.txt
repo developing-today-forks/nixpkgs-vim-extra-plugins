@@ -528,6 +528,7 @@ embark-theme/vim
 embark-theme/vim::embark-theme
 emileferreira/nvim-strict
 emmanueltouzery/decisive.nvim
+emrearmagan/dockyard.nvim
 epwalsh/obsidian.nvim
 esensar/nvim-dev-container
 esmuellert/codediff.nvim
