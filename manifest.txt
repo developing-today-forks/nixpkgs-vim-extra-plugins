@@ -40,6 +40,7 @@ Akmadan23/local-session.nvim
 AlejandroSuero/freeze-code.nvim
 AlexvZyl/nordic.nvim
 AllenDang/nvim-expand-expr
+AnsonH/copy-python-path.nvim
 AntonVanAssche/music-controls.nvim
 AstroNvim/AstroNvim
 Axot017/multiterm.nvim
@@ -215,6 +216,7 @@ Saghen/blink.cmp
 Saghen/filler-begone.nvim
 SalOrak/whaler.nvim
 Salanoid/gitlogdiff.nvim
+Sang-it/fluoride
 Sengoku11/commitpad.nvim
 SergioRibera/cmp-dotenv
 Shaobin-Jiang/IceNvim
@@ -330,6 +332,8 @@ andersevenrud/nvim_context_vt
 andrewferrier/debugprint.nvim
 andrewferrier/textobj-diagnostic.nvim
 andythigpen/nvim-coverage
+ankushbhagats/liveserver.nvim
+ankushbhagats/pastel.nvim
 anott03/nvim-lspinstall
 antonk52/bad-practices.nvim
 anuvyklack/animation.nvim
@@ -567,6 +571,7 @@ ggandor/leap-spooky.nvim
 ggandor/leap.nvim
 gh-liu/fold_line.nvim
 gh-liu/nvim-winterm
+gh-tui-tools/gh-review.nvim
 ghillb/cybu.nvim
 gisketch/triforce.nvim
 github-main-user/lytmode.nvim
@@ -1067,6 +1072,7 @@ samharju/yeet.nvim
 samjwill/nvim-unception
 samodostal/image.nvim
 sanjay-np/nvim-yt-player
+satozawa/graft.nvim
 savq/melange
 savq/paq-nvim
 saxon1964/neovim-tips
