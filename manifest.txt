@@ -1267,6 +1267,7 @@ yazeed1s/oh-lucy.nvim
 ycdzj/win-mover.nvim
 yelog/i18n.nvim
 yetone/avante.nvim
+ymic9963/mdnotes.nvim
 ymich9963/mdnotes.nvim
 yonatan-perel/lake-dweller.nvim
 yonlu/omni.vim
