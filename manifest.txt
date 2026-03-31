@@ -1,5 +1,6 @@
 00sapo/visual.nvim
 0styx0/abbreinder.nvim
+0x-ximon/acario.nvim
 0xble/dotagent.nvim
 0xstepit/flow.nvim
 2KAbhishek/co-author.nvim
@@ -1217,6 +1218,7 @@ willothy/moveline.nvim
 willothy/nvim-cokeline
 willothy/veil.nvim
 willothy/wezterm.nvim
+willyelm/pulse.nvim
 windwp/nvim-projectconfig
 windwp/nvim-spectre
 windwp/windline.nvim
