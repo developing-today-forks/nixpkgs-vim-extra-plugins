@@ -470,6 +470,7 @@ csessh/stopinsert.nvim
 cstsunfu/.sea.nvim
 cuducos/yaml.nvim
 cunderw/nvim
+cursortab/cursortab.nvim
 cvigilv/esqueleto.nvim
 cxwx/lazyUrlUpdate.nvim
 da-moon/telescope-toggleterm.nvim
@@ -1258,6 +1259,7 @@ y3owk1n/undo-glow.nvim
 y3owk1n/warp.nvim
 yagiziskirik/AirSupport.nvim
 yanskun/gotests.nvim
+yaocccc/blink-cmp-cmdlinehistory
 yaocccc/nvim-foldsign
 yaocccc/nvim-hl-mdcodeblock.lua
 yaocccc/nvim-hlchunk
