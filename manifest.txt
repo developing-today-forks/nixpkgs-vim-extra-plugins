@@ -414,6 +414,8 @@ cbochs/grapple.nvim
 cbochs/portal.nvim
 cd-4/git-needy.nvim
 chatvim/chatvim.nvim
+sourcehut:chinmay/clangd_extensions.nvim
+sourcehut:chinmay/cphelper.nvim
 chipsenkbeil/distant.nvim
 chiyadev/dep
 chojs23/ec
@@ -534,6 +536,7 @@ embark-theme/vim
 embark-theme/vim::embark-theme
 emileferreira/nvim-strict
 emmanueltouzery/decisive.nvim
+emrearmagan/atlas.nvim
 emrearmagan/dockyard.nvim
 epwalsh/obsidian.nvim
 esensar/nvim-dev-container
