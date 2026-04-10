@@ -90,6 +90,7 @@ EvWilson/spelunk.nvim
 Everblush/everblush.nvim
 Everblush/nvim
 Exafunction/codeium.nvim
+Exafunction/windsurf.nvim
 FabianWirth/search.nvim
 FeiyouG/command_center.nvim
 FeiyouG/commander.nvim
@@ -118,6 +119,7 @@ Jxstxs/conceal.nvim
 Kasama/nvim-custom-diagnostic-highlight
 Kenzo-Wada/boundary.nvim
 Kicamon/markdown-table-mode.nvim
+KieranCanter/candela.nvim
 Kohei-Wada/yadm-git.nvim
 Kurama622/clean-diagnostic
 Kurama622/llm.nvim
@@ -251,6 +253,7 @@ TheLeoP/powershell.nvim
 ThePrimeagen/vim-be-good
 ThemerCorp/themer.lua
 Thiago4532/mdmath.nvim
+ThorstenRhau/token
 TimUntersberger/neofs
 TobinPalmer/Tip.nvim
 TobinPalmer/rayso.nvim
@@ -629,6 +632,7 @@ indium114/cheaty.nvim
 indium114/smudge.nvim
 indium114/studytools.nvim
 indium114/unobtrusive-relnums
+indium114/unobtrusive-relnums.nvim
 ingur/floatty.nvim
 inhesrom/remote-ssh.nvim
 inkch/vim-fish::vim-fish-inkch
@@ -1046,6 +1050,7 @@ rodrigoscc/nurl.nvim
 rogue-87/inlyne.nvim
 romus204/go-tagger.nvim
 romus204/referencer.nvim
+romus204/tree-sitter-manager.nvim
 roobert/action-hints.nvim
 roobert/activate.nvim
 roobert/bufferline-cycle-windowless.nvim
@@ -1100,6 +1105,7 @@ silentium-theme/silentium.nvim
 simaxme/java.nvim
 simonmclean/triptych.nvim
 sitiom/nvim-numbertoggle
+sjclayton/goplexity.nvim
 skanehira/christmas.vim
 slugbyte/lackluster.nvim
 slugbyte/unruly-worker
