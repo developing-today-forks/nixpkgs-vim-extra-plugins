@@ -620,6 +620,7 @@ hkupty/iron.nvim
 hkupty/nvimux
 houtsnip/vim-emacscommandline
 hylang/vim-hy
+hyperb1iss/silkcircuit
 iabdelkareem/csharp.nvim
 iamt4nk/smm.nvim
 idanarye/nvim-buffls
@@ -780,6 +781,7 @@ malbertzard/inline-fold.nvim
 mangelozzi/rgflow.nvim
 marilari88/twoslash-queries.nvim
 markgandolfo/dartboard.nvim
+martuscellifaria/ahoicpp.nvim
 matbme/JABS.nvim
 mateuszwieloch/automkdir.nvim
 mawkler/demicolon.nvim
@@ -1028,6 +1030,7 @@ rebelot/heirline.nvim
 redoxahmii/json-to-types.nvim
 sourcehut:reggie/licenses.nvim
 renerocksai/telekasten.nvim
+retran/meow.yarn.nvim
 rgroli/other.nvim
 rhysd/vim-gfm-syntax
 ribru17/bamboo.nvim
