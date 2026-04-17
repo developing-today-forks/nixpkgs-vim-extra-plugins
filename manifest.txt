@@ -508,6 +508,7 @@ diegoulloao/neofusion.nvim
 dimtion/guttermarks.nvim
 dinhhuy258/sfm.nvim
 dlants/magenta.nvim
+dlyongemallo/diffview.nvim
 dmmulroy/ts-error-translator.nvim
 dmmulroy/tsc.nvim
 dmtrKovalenko/fff.nvim
@@ -722,6 +723,7 @@ kmonad/kmonad-vim
 kndndrj/nvim-dbee
 kobbikobb/move-lines.nvim
 koenverburg/peepsight.nvim
+kokusenz/deltaview.nvim
 konapun/vacuumline.nvim
 kr40/nvim-macros
 krissen/blink-cmp-bibtex
@@ -804,6 +806,7 @@ mfussenegger/nvim-treehopper
 mfussenegger/nvim-ts-hint-textobject
 mg979/tabline.nvim
 mgalliou/blink-cmp-tmux
+micdzu/aalto.nvim
 michaelb/sniprun
 miikanissi/modus-themes.nvim
 mikeboiko/nvim-flow
@@ -1094,6 +1097,7 @@ seandewar/actually-doom.nvim
 seandewar/killersheep.nvim
 seandewar/nvimesweeper
 sekke276/dark_flat.nvim
+sektant1/executioner.nvim
 serenevoid/kiwi.nvim
 serhez/teide.nvim
 sgur/vim-textobj-parameter
