@@ -110,6 +110,7 @@ HoNamDuong/hybrid.nvim
 IlyasYOY/obs.nvim
 IndianBoy42/tree-sitter-just
 Iron-E/nvim-cartographer
+J-Cowsert/classlayout.nvim
 JMarkin/gentags.lua
 JesperLundberg/projektgunnar
 JesperLundberg/projektgunnar.nvim
@@ -239,6 +240,7 @@ SunnyTamang/neodoc.nvim
 SunnyTamang/pendulum.nvim
 SunnyTamang/select-undo.nvim
 SuperBo/fugit2.nvim
+T-b-t-nchos/Aquavium.nvim
 Th3Whit3Wolf/onebuddy
 Th3Whit3Wolf/space-nvim
 TheBlob42/drex.nvim
@@ -659,6 +661,7 @@ jbyuki/instant.nvim
 jbyuki/nabla.nvim
 jbyuki/one-small-step-for-vimkind
 jceb/jiejie.nvim
+jeangiraldoo/codedocs.nvim
 jedrzejboczar/possession.nvim
 jedrzejboczar/toggletasks.nvim
 jghauser/auto-pandoc.nvim
@@ -989,6 +992,7 @@ piersolenski/skifree.nvim
 piersolenski/telescope-import.nvim
 piersolenski/wtf.nvim
 pluffie/neoproj
+plutowang/nvim.pack
 pmouraguedes/neodarcula.nvim
 pocco81/auto-save.nvim
 pocco81/dap-buddy.nvim
@@ -1068,6 +1072,7 @@ roobert/surround-ui.nvim
 roobert/tabtree.nvim
 roobert/tailwindcss-colorizer-cmp.nvim
 rose-pine/neovim::rose-pine
+ryan-WORK/ohm
 s1n7ax/nvim-comment-frame
 s1n7ax/nvim-terminal
 sQVe/bufignore.nvim
