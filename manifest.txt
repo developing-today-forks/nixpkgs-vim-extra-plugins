@@ -77,6 +77,7 @@ David-Kunz/gen.nvim
 David-Kunz/jester
 Dhanus3133/Leetbuddy.nvim
 DrKJeff16/pipenv.nvim
+DrKJeff16/shebang.nvim
 DrKJeff16/wezterm-types
 DrKJeff16/which-colorscheme.nvim
 EL-MASTOR/bufferlist.nvim
