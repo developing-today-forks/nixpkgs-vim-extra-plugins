@@ -41,6 +41,7 @@ Akmadan23/local-session.nvim
 AlejandroSuero/freeze-code.nvim
 AlexvZyl/nordic.nvim
 AllenDang/nvim-expand-expr
+Amansingh-afk/milli.nvim
 AnsonH/copy-python-path.nvim
 AntonVanAssche/music-controls.nvim
 AstroNvim/AstroNvim
@@ -710,6 +711,7 @@ keaising/im-select.nvim
 kelly-lin/ranger.nvim
 kevinhwang91/nvim-ufo
 kevinm6/kurayami.nvim
+kibi2/tirenvi.nvim
 kiddos/gemini.nvim
 killitar/obscure.nvim
 kiran94/edit-markdown-table.nvim
@@ -1082,6 +1084,7 @@ sachinsenal0x64/hot.nvim
 saghen/blink.cmp
 saghen/blink.compat
 saghen/blink.indent
+saghen/blink.lib
 saghen/filler-begone.nvim
 saifulapm/chartoggle.nvim
 saifulapm/commasemi.nvim
