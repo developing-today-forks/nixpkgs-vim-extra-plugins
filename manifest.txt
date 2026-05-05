@@ -70,6 +70,7 @@ CopilotC-Nvim/CopilotChat.nvim
 CosmicNvim/CosmicNvim
 CosmicNvim/cosmic-ui
 Cris-lml007/NeoPlus
+DaFi-1/tasknvim
 Dan7h3x/neaterm.nvim
 Dan7h3x/signup.nvim
 DanilaMihailov/beacon.nvim
@@ -344,6 +345,7 @@ andrewferrier/debugprint.nvim
 andrewferrier/textobj-diagnostic.nvim
 andythigpen/nvim-coverage
 ankushbhagats/liveserver.nvim
+ankushbhagats/match.nvim
 ankushbhagats/pastel.nvim
 anott03/nvim-lspinstall
 antonk52/bad-practices.nvim
@@ -615,6 +617,7 @@ harrisoncramer/GitLab.nvim
 hat0uma/csvview.nvim
 hat0uma/doxygen-previewer.nvim
 hat0uma/prelive.nvim
+hawknewton/termyank.nvim
 hedyhli/outline.nvim
 heilgar/bookmarks.nvim
 heilgar/nochat.nvim
@@ -754,6 +757,7 @@ leblocks/hopcsharp.nvim
 legobeat/l7-devenv
 leo-alvarenga/homecoming.nvim
 leo-alvarenga/quoth.nvim
+leolaurindo/tunnelvision.nvim
 letieu/jira.nvim
 lewpoly/sherbet.nvim
 lfilho/note2cal.nvim
@@ -1313,6 +1317,7 @@ ysmb-wtsg/in-and-out.nvim
 yus-works/csc.nvim
 yutkat/confirm-quit.nvim
 yutkat/git-rebase-auto-diff.nvim
+zaakiy/line-justice.nvim
 zaldih/themery.nvim
 zbirenbaum/copilot-cmp
 zbirenbaum/neodim
