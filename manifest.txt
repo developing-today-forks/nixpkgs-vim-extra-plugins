@@ -1186,6 +1186,7 @@ taigrr/blast.nvim
 taigrr/cyberpunk.nvim
 taigrr/glaze.nvim
 taigrr/neocrush.nvim
+tajirhas9/muslim.nvim
 tamago324/lir-git-status.nvim
 tamago324/nlsp-settings.nvim
 tamton-aquib/staline.nvim
