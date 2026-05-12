@@ -318,6 +318,7 @@ ahkohd/buffer-sticks.nvim
 aikhe/wrapped.nvim
 aileot/nvim-thyme
 ajatdarojat45/commitmate.nvim
+akasataikisiti/tabLocalBuffer.nvim
 akinsho/dependency-assist.nvim
 akinsho/git-conflict.nvim
 akinsho/nvim-toggleterm.lua
