@@ -24,6 +24,7 @@
 3v0k4/exit.nvim
 404pilo/aicommits.nvim
 4e554c4c/darkman.nvim
+54L1M/Oshen.nvim
 9seconds/repolink.nvim
 A7Lavinraj/fyler.nvim
 Aaronik/GPTModels.nvim
@@ -182,6 +183,7 @@ NTBBloodbath/doom-one.nvim
 NeViRAIDE/nekifoch.nvim
 Nedra1998/nvim-mdlink
 Nexmean/caskey.nvim
+NickTsaizer/splitasm.nvim
 NormalNvim/NormalNvim
 NvChad/nvim-colorizer.lua
 OXY2DEV/bars.nvim
@@ -375,6 +377,7 @@ attilarepka/header.nvim
 atusy/treemonkey.nvim
 axkirillov/easypick.nvim
 axkirillov/hbac.nvim
+axsaucedo/neovim-power-mode
 ayamir/nvimdots
 azorng/goose.nvim
 azratul/expose-localhost.nvim
@@ -487,6 +490,7 @@ cuducos/yaml.nvim
 cunderw/nvim
 cursortab/cursortab.nvim
 cvigilv/esqueleto.nvim
+cxwx/keysound.nvim
 cxwx/lazyUrlUpdate.nvim
 da-moon/telescope-toggleterm.nvim
 daltongd/yanklock.nvim
@@ -569,6 +573,7 @@ feline-nvim/feline.nvim
 flashcodes-themayankjha/Fknotes.nvim
 flashcodes-themayankjha/fkthemes.nvim
 fnune/recall.nvim
+folke/drop.nvim
 frabjous/knap
 francescarpi/buffon.nvim
 fredrikaverpil/godoc.nvim
@@ -674,6 +679,7 @@ jceb/jiejie.nvim
 jeangiraldoo/codedocs.nvim
 jedrzejboczar/possession.nvim
 jedrzejboczar/toggletasks.nvim
+jerrywang1981/keystroke.nvim
 jghauser/auto-pandoc.nvim
 jghauser/fold-cycle.nvim
 jghauser/follow-md-links.nvim
