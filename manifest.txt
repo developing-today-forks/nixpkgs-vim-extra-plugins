@@ -1045,6 +1045,7 @@ rasulomaroff/telepath.nvim
 ravsii/nvim-dap-envfile
 ravsii/timers.nvim
 rawnly/gist.nvim
+ray-x/copilot-agent.nvim
 ray-x/go.nvim
 ray-x/guihua.lua
 ray-x/navigator.lua
