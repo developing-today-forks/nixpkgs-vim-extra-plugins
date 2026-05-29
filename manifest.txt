@@ -317,6 +317,7 @@ adisen99/apprentice.nvim
 adisen99/codeschool.nvim
 adithyasource/spearmint.nvim
 adoyle-h/one.nvim
+adriancmiranda/glimpse.nvim
 ahkohd/buffer-sticks.nvim
 aikhe/wrapped.nvim
 aileot/nvim-thyme
@@ -719,6 +720,7 @@ k2589/lluminate.nvim
 kaiuri/nvim-juliana
 kana/vim-textobj-indent
 karshPrime/only-tmux.nvim
+karshPrime/switchboard.nvim
 karshPrime/tmux-compile.nvim
 kawre/leetcode.nvim
 kazhala/close-buffers.nvim
@@ -750,6 +752,7 @@ konapun/vacuumline.nvim
 kr40/nvim-macros
 krissen/blink-cmp-bibtex
 kuri-sun/comment-graph.nvim
+kuri-sun/todoage.nvim
 kuri-sun/yoda.nvim
 kvrohit/mellow.nvim
 kvrohit/rasmus.nvim
