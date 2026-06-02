@@ -401,6 +401,7 @@ gitlab:bartekjaszczak/luma-nvim
 bassamsdata/namu.nvim
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
+benborla/at-file.nvim
 bennorichters/taal.nvim
 bennypowers/nvim-regexplainer
 bennypowers/splitjoin.nvim
@@ -807,6 +808,7 @@ m4xshen/autoclose.nvim
 madskjeldgaard/reaper-nvim
 malbertzard/inline-fold.nvim
 mangelozzi/rgflow.nvim
+marekh19/meowsoot.nvim
 marilari88/twoslash-queries.nvim
 markgandolfo/dartboard.nvim
 martuscellifaria/ahoicpp.nvim
