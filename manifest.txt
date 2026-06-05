@@ -63,6 +63,7 @@ CWood-sdf/spaceport.nvim
 CamdenClark/flyboy
 Carcuis/dap-breakpoints.nvim
 Chaitanyabsprip/present.nvim
+ChuYanLon/telegram.nvim
 ChuufMaster/buffer-vacuum
 ChuufMaster/markdown-toc
 Cih2001/pikchr.nvim
@@ -338,6 +339,7 @@ alexmozaidze/palenight.nvim
 alexmozaidze/tree-comment.nvim
 alexpasmantier/pymple.nvim
 aliou/bats.vim
+alsi-lawr/agent-term.nvim
 altermo/iedit.nvim
 altermo/nwm
 altermo/nxwm
