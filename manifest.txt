@@ -744,6 +744,7 @@ kiyoon/repeatable-move.nvim
 kiyoon/telescope-insert-path.nvim
 kiyoon/tmux-send.nvim
 kiyoon/treesitter-indent-object.nvim
+kkew3/jieba.vim
 kkharji/sqlite.lua
 klen/nvim-test
 kmonad/kmonad-vim
@@ -888,6 +889,7 @@ necrom4/calcium.nvim
 necrom4/convy.nvim
 sourcehut:nedia/auto-format.nvim
 sourcehut:nedia/auto-save.nvim
+negativo/nx-nvim
 neko-night/nvim
 nekonako/xresources-nvim
 nemanjamalesija/smart-paste.nvim
