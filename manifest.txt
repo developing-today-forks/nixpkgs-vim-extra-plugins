@@ -81,6 +81,7 @@ David-Kunz/gen.nvim
 David-Kunz/jester
 Dhanus3133/Leetbuddy.nvim
 DrKJeff16/boolean-toggle.nvim
+DrKJeff16/nvim-luaref
 DrKJeff16/pipenv.nvim
 DrKJeff16/shebang.nvim
 DrKJeff16/wezterm-types
@@ -250,6 +251,7 @@ SunnyTamang/pendulum.nvim
 SunnyTamang/select-undo.nvim
 SuperBo/fugit2.nvim
 T-b-t-nchos/Aquavium.nvim
+T-b-t-nchos/FMP7.nvim
 Th3Whit3Wolf/onebuddy
 Th3Whit3Wolf/space-nvim
 TheBlob42/drex.nvim
