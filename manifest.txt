@@ -467,6 +467,7 @@ chrsm/paramount-ng.nvim
 chuwy/ucm.nvim
 cjodo/convert.nvim
 ckolkey/ts-node-action
+clang-engineer/dadbod-vertica.nvim
 claydugo/browsher.nvim
 cljoly/telescope-repo.nvim
 clojure-vim/jazz.nvim
@@ -584,6 +585,7 @@ fnune/recall.nvim
 folke/drop.nvim
 frabjous/knap
 francescarpi/buffon.nvim
+frans-johansson/lazy-nvim-starter
 fredrikaverpil/godoc.nvim
 fschaal/azfunc.nvim
 fuenor/JpFormat.vim
@@ -621,6 +623,7 @@ gsuuon/model.nvim
 gsuuon/note.nvim
 gsuuon/tshjkl.nvim
 guilherme-puida/tesoura.nvim
+gunasekar/markview-smart-tables.nvim
 h-hg/fcitx.nvim
 hackorum/VapourNvim
 hadishahpuri/nvimlaunch
@@ -724,6 +727,8 @@ jyscao/ventana.nvim
 k2589/lluminate.nvim
 kaiuri/nvim-juliana
 kana/vim-textobj-indent
+karnull/only-tmux.nvim
+karnull/switchboard.nvim
 karshPrime/only-tmux.nvim
 karshPrime/switchboard.nvim
 karshPrime/tmux-compile.nvim
@@ -772,6 +777,7 @@ ldelossa/nvim-ide
 ldelossa/vimdark
 leafOfTree/vim-svelte-plugin
 leblocks/hopcsharp.nvim
+leblocks/toggle.nvim
 legobeat/l7-devenv
 leo-alvarenga/homecoming.nvim
 leo-alvarenga/quoth.nvim
@@ -1005,6 +1011,7 @@ p00f/clangd_extensions.nvim
 p00f/cphelper.nvim
 pandasoli/nekovim
 paul-louyot/toggle-quotes.nvim
+paulburgess1357/nvim-mcp
 pebeto/dookie.nvim
 petertriho/nvim-scrollbar
 pewpewnor/pilot.nvim
@@ -1150,6 +1157,7 @@ siduck76/NvChad
 silentium-theme/silentium.nvim
 simaxme/java.nvim
 simonmclean/triptych.nvim
+simonwinther/cppman.nvim
 sitiom/nvim-numbertoggle
 sjclayton/goplexity.nvim
 skanehira/christmas.vim
@@ -1237,6 +1245,7 @@ tjdevries/express_line.nvim
 tjdevries/gruvbuddy.nvim
 tjdevries/vlog.nvim
 tmillr/sos.nvim
+tokiory/neovim-boilerplate
 tomasky/bookmarks.nvim
 tomasky/bookmarks.nvim::bookmarks-nvim-2
 tomiis4/BufferTabs.nvim
