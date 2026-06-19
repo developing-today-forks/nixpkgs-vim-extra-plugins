@@ -47,6 +47,7 @@ AnsonH/copy-python-path.nvim
 AntonVanAssche/music-controls.nvim
 AstroNvim/AstroNvim
 Axot017/multiterm.nvim
+BRONZowl/codux.nvim
 Beargruug/skipper.nvim
 Bekaboo/deadcolumn.nvim
 BibekBhusal0/bufstack.nvim
