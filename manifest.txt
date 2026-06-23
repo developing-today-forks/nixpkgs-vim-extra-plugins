@@ -73,6 +73,7 @@ CopilotC-Nvim/CopilotChat.nvim
 CosmicNvim/CosmicNvim
 CosmicNvim/cosmic-ui
 Cris-lml007/NeoPlus
+Crysthamus/nvim-file-operations
 DaFi-1/tasknvim
 Dan7h3x/neaterm.nvim
 Dan7h3x/signup.nvim
@@ -305,6 +306,7 @@ Zeioth/garbage-day.nvim
 Zeioth/heirline-components.nvim
 Zeioth/makeit.nvim
 Zeioth/markmap.nvim
+Zeioth/none-ls-autoload.nvim
 ZhiyuanLck/smart-pairs
 aaronhallaert/advanced-git-search.nvim
 aaronik/Treewalker.nvim
@@ -469,6 +471,7 @@ chuwy/ucm.nvim
 cjodo/convert.nvim
 ckolkey/ts-node-action
 clang-engineer/dadbod-vertica.nvim
+clang-engineer/jvm-env.nvim
 claydugo/browsher.nvim
 cljoly/telescope-repo.nvim
 clojure-vim/jazz.nvim
@@ -632,6 +635,7 @@ hadronized/mind.nvim
 hakonharnes/img-clip.nvim
 happyeric77/joplin.nvim
 harrisoncramer/GitLab.nvim
+hasansujon786/nvim-navbuddy
 hat0uma/csvview.nvim
 hat0uma/doxygen-previewer.nvim
 hat0uma/prelive.nvim
@@ -1351,6 +1355,7 @@ yus-works/csc.nvim
 yutkat/confirm-quit.nvim
 yutkat/git-rebase-auto-diff.nvim
 zaakiy/line-justice.nvim
+zachyarbrough/anchor.nvim
 zaldih/themery.nvim
 zbirenbaum/copilot-cmp
 zbirenbaum/neodim
