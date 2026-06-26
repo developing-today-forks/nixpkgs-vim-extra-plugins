@@ -728,6 +728,7 @@ julwrites/llm-nvim
 juniorsundar/refer.nvim
 junnplus/lsp-setup.nvim
 juselara1/tmutils.nvim
+justinmk/guh.nvim
 jyscao/ventana.nvim
 k2589/lluminate.nvim
 kaiuri/nvim-juliana
@@ -827,6 +828,7 @@ mangelozzi/rgflow.nvim
 marekh19/meowsoot.nvim
 marilari88/twoslash-queries.nvim
 markgandolfo/dartboard.nvim
+markosnarinian/fold-logging.nvim
 martuscellifaria/ahoicpp.nvim
 matbme/JABS.nvim
 mateuszwieloch/automkdir.nvim
