@@ -213,6 +213,7 @@ QuentinGruber/pomodoro.nvim
 QuentinGruber/timespent.nvim
 RAprogramm/nekifoch
 RRethy/nvim-treesitter-textsubjects
+Rimkomatic/vimtagger.nvim
 RishabhRD/gruvy
 RishabhRD/lspactions
 RishabhRD/lspactions:nvim-0.6-compatible:lspactions-nvim06-compatible
@@ -406,6 +407,7 @@ gitlab:bartekjaszczak/distinct-nvim
 gitlab:bartekjaszczak/finale-nvim
 gitlab:bartekjaszczak/luma-nvim
 bassamsdata/namu.nvim
+batoaqaa/nvim-pio
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
 benborla/at-file.nvim
@@ -913,6 +915,7 @@ neo451/feed.nvim
 neolooong/whichpy.nvim
 netmute/foldchanged.nvim
 netmute/foldsigns.nvim
+neur1n/hyphen.nvim
 neur1n/noline.nvim
 nfrid/due.nvim
 nfrid/markdown-togglecheck
