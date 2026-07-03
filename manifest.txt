@@ -501,6 +501,7 @@ cryptomilk/nightcity.nvim
 csessh/aoc.nvim
 csessh/stopinsert.nvim
 cstsunfu/.sea.nvim
+ctchen222/openspec.nvim
 cuducos/yaml.nvim
 cunderw/nvim
 cursortab/cursortab.nvim
@@ -543,6 +544,7 @@ dmmulroy/tsc.nvim
 dmtrKovalenko/fff.nvim
 doctorfree/cheatsheet.nvim
 doctorfree/nvim-lazyman
+dominic-righthere/markdown-pipetable.nvim
 doodleEsc/translator.nvim
 dpayne/CodeGPT.nvim
 dracula/vim
@@ -710,6 +712,7 @@ jim-at-jibba/micropython.nvim
 jim-fx/sudoku.nvim
 jinzhongjia/LspUI.nvim
 jinzhongjia/zig-lamp
+jjuchara/obsidian-tasks.nvim
 jkeresman01/tmux-switch.nvim
 johann2357/nvim-smartbufs
 johannww/tts.nvim
