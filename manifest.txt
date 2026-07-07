@@ -794,6 +794,7 @@ leo-alvarenga/homecoming.nvim
 leo-alvarenga/quoth.nvim
 leolaurindo/tunnelvision.nvim
 letieu/jira.nvim
+lewistg/pesto.nvim
 lewpoly/sherbet.nvim
 lfilho/note2cal.nvim
 liangxianzhe/nap.nvim
@@ -1272,6 +1273,7 @@ tris203/hawtkeys.nvim
 tris203/precognition.nvim
 tristone13th/lspmark.nvim
 tttol/md-outline.nvim
+tumillanino/semgrep.nvim
 tveskag/nvim-blame-line
 udayvir-singh/hibiscus.nvim
 udayvir-singh/tangerine.nvim
