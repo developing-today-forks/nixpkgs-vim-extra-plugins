@@ -442,6 +442,7 @@ catppuccin/nvim::catppuccin
 cbochs/grapple.nvim
 cbochs/portal.nvim
 cd-4/git-needy.nvim
+celeste3z/celeste_comment.nvim
 chatvim/chatvim.nvim
 sourcehut:chinmay/clangd_extensions.nvim
 sourcehut:chinmay/cphelper.nvim
@@ -639,6 +640,7 @@ hadronized/mind.nvim
 hakonharnes/img-clip.nvim
 happyeric77/joplin.nvim
 harrisoncramer/GitLab.nvim
+harukikuri/viteenv.nvim
 hasansujon786/nvim-navbuddy
 hat0uma/csvview.nvim
 hat0uma/doxygen-previewer.nvim
@@ -673,6 +675,7 @@ indium114/studytools.nvim
 indium114/unobtrusive-relnums
 indium114/unobtrusive-relnums.nvim
 ingur/floatty.nvim
+ingur/fzf-oil.nvim
 inhesrom/remote-ssh.nvim
 inkch/vim-fish::vim-fish-inkch
 iquzart/toggleword.nvim
@@ -1339,6 +1342,7 @@ y3owk1n/time-machine.nvim
 y3owk1n/undo-glow.nvim
 y3owk1n/warp.nvim
 yagiziskirik/AirSupport.nvim
+yal212/pomodoro.nvim
 yanskun/gotests.nvim
 yaocccc/blink-cmp-cmdlinehistory
 yaocccc/nvim-foldsign
