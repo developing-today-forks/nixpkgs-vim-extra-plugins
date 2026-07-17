@@ -234,6 +234,7 @@ Saghen/filler-begone.nvim
 SalOrak/whaler.nvim
 Salanoid/gitlogdiff.nvim
 Sang-it/fluoride
+Senal-D-A-Gunaratna/matugen.nvim
 Sengoku11/commitpad.nvim
 SergioRibera/cmp-dotenv
 Shaobin-Jiang/IceNvim
@@ -964,6 +965,7 @@ notomo/cmdbuf.nvim
 notomo/gesture.nvim
 novakne/kosmikoa.nvim
 ntk148v/slack.nvim
+ntk148v/yankdown.nvim
 numToStr/BufOnly.nvim
 numToStr/Comment.nvim
 nvim-colortils/colortils.nvim
@@ -1091,6 +1093,7 @@ ray-x/starry.nvim
 ray-x/web-tools.nvim
 rebelot/heirline.nvim
 redoxahmii/json-to-types.nvim
+redpierrot/ballerina.nvim
 sourcehut:reggie/licenses.nvim
 renerocksai/telekasten.nvim
 retran/meow.yarn.nvim
@@ -1323,6 +1326,7 @@ wsdjeg/rooter.nvim
 wsdjeg/satellite.nvim
 wsdjeg/scrollbar.nvim
 wsdjeg/tabman.nvim
+wsdjeg/tasks.nvim
 wurli/cobalt.nvim
 wurli/split.nvim
 wurli/visimatch.nvim
