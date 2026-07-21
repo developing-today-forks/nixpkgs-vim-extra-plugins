@@ -38,6 +38,7 @@ AckslD/nvim-gfold.lua
 AckslD/nvim-revJ.lua
 AckslD/nvim-trevJ.lua
 AckslD/swenv.nvim
+Aejkatappaja/sora
 Akmadan23/local-session.nvim
 AlejandroSuero/freeze-code.nvim
 AlexvZyl/nordic.nvim
@@ -124,6 +125,7 @@ JMarkin/gentags.lua
 JesperLundberg/projektgunnar
 JesperLundberg/projektgunnar.nvim
 JoosepAlviste/nvim-ts-context-commentstring
+JulOuellet/bzl.nvim
 Junnplus/nvim-lsp-setup
 Jxstxs/conceal.nvim
 Kasama/nvim-custom-diagnostic-highlight
@@ -347,6 +349,7 @@ alexmozaidze/tree-comment.nvim
 alexpasmantier/pymple.nvim
 aliou/bats.vim
 alsi-lawr/agent-term.nvim
+alsi-lawr/neotheme.nvim
 altermo/iedit.nvim
 altermo/nwm
 altermo/nxwm
@@ -421,6 +424,7 @@ bfredl/nvim-ipy
 bfredl/nvim-luadev
 bfredl/nvim-miniyank
 bgaillard/readonly.nvim
+bird-chinese-community/BIRD.nvim
 bkegley/gloombuddy
 blob42/codegpt-ng.nvim
 bluz71/vim-moonfly-colors
@@ -510,6 +514,7 @@ cursortab/cursortab.nvim
 cvigilv/esqueleto.nvim
 cxwx/keysound.nvim
 cxwx/lazyUrlUpdate.nvim
+cxwx/shadowMyName.nvim
 da-moon/telescope-toggleterm.nvim
 daltongd/yanklock.nvim
 dam9000/kickstart-modular.nvim
@@ -964,6 +969,7 @@ nosduco/remote-sshfs.nvim
 notomo/cmdbuf.nvim
 notomo/gesture.nvim
 novakne/kosmikoa.nvim
+ntk148v/lauds
 ntk148v/slack.nvim
 ntk148v/yankdown.nvim
 numToStr/BufOnly.nvim
