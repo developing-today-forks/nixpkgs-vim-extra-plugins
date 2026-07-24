@@ -379,6 +379,7 @@ arminveres/md-pdf.nvim
 aronjohanns/smooth-resize.nvim
 artart222/CodeArt
 artemave/workspace-diagnostics.nvim
+artur-shaik/jc.nvim
 aserowy/tmux.nvim
 ashfinal/qfview.nvim
 askfiy/nvim
@@ -746,6 +747,7 @@ justinmk/guh.nvim
 jyscao/ventana.nvim
 k2589/lluminate.nvim
 kaiuri/nvim-juliana
+kamegoro/tobira.nvim
 kana/vim-textobj-indent
 karnull/only-tmux.nvim
 karnull/switchboard.nvim
@@ -1097,6 +1099,7 @@ ray-x/navigator.lua
 ray-x/sad.nvim
 ray-x/starry.nvim
 ray-x/web-tools.nvim
+raymondware/focusmode.nvim
 rebelot/heirline.nvim
 redoxahmii/json-to-types.nvim
 redpierrot/ballerina.nvim
@@ -1295,6 +1298,7 @@ uhs-robert/sshfs.nvim
 uncleTen276/dark_flat.nvim
 utilyre/barbecue.nvim
 utilyre/sentiment.nvim
+valenyala/cmp-forge-remappings
 vi-tality/neovitality
 vigoux/complementree.nvim
 vodchella/hodur.nvim
