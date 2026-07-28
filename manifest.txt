@@ -237,6 +237,7 @@ SalOrak/whaler.nvim
 Salanoid/gitlogdiff.nvim
 Sang-it/fluoride
 Senal-D-A-Gunaratna/matugen.nvim
+Senal-D-A-Gunaratna/swapson.nvim
 Sengoku11/commitpad.nvim
 SergioRibera/cmp-dotenv
 Shaobin-Jiang/IceNvim
@@ -267,6 +268,7 @@ TheLazyCat00/racer-nvim
 TheLazyCat00/replace-nvim
 TheLazyCat00/runner-nvim
 TheLazyCat00/simple-format
+TheLazyCat00/termfile-nvim
 TheLazyCat00/workspaces-nvim
 TheLeoP/powershell.nvim
 ThePrimeagen/vim-be-good
@@ -555,6 +557,7 @@ doctorfree/nvim-lazyman
 dominic-righthere/markdown-pipetable.nvim
 doodleEsc/translator.nvim
 dpayne/CodeGPT.nvim
+dpezto/chezmoi-template.nvim
 dracula/vim
 dracula/vim::dracula
 drybalka/clean.nvim
@@ -864,6 +867,7 @@ mcchrish/zenbones.nvim
 melMass/echo.nvim
 melkster/modicator.nvim
 mellow-theme/mellow.nvim
+mesirendon/nvim-ghrelease
 mfussenegger/nvim-jdtls
 mfussenegger/nvim-treehopper
 mfussenegger/nvim-ts-hint-textobject
@@ -1363,6 +1367,7 @@ yaocccc/nvim-foldsign
 yaocccc/nvim-hl-mdcodeblock.lua
 yaocccc/nvim-hlchunk
 yaocccc/nvim-lines.lua
+yaocccc/visual-multi.nvim
 yarospace/dev-tools.nvim
 yashguptaz/calvera-dark.nvim
 yazeed1s/minimal.nvim
