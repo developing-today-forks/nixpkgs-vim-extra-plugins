@@ -65,6 +65,7 @@ CWood-sdf/spaceport.nvim
 CamdenClark/flyboy
 Carcuis/dap-breakpoints.nvim
 Chaitanyabsprip/present.nvim
+Chiarandini/smart-enter.nvim
 ChuYanLon/telegram.nvim
 ChuufMaster/buffer-vacuum
 ChuufMaster/markdown-toc
@@ -236,6 +237,7 @@ Saghen/filler-begone.nvim
 SalOrak/whaler.nvim
 Salanoid/gitlogdiff.nvim
 Sang-it/fluoride
+Senal-D-A-Gunaratna/hyprfade.nvim
 Senal-D-A-Gunaratna/matugen.nvim
 Senal-D-A-Gunaratna/swapson.nvim
 Sengoku11/commitpad.nvim
@@ -1252,6 +1254,7 @@ tajirhas9/muslim.nvim
 tamago324/lir-git-status.nvim
 tamago324/nlsp-settings.nvim
 tamton-aquib/staline.nvim
+tan-wei/zimablue.nvim
 tanloong/interlaced.nvim
 tanvirtin/monokai.nvim
 tanvirtin/vgit.nvim
@@ -1260,6 +1263,7 @@ tednguyendev/recent_rails.nvim
 tenxsoydev/karen-yank.nvim
 tenxsoydev/nx.nvim
 tenxsoydev/tabs-vs-spaces.nvim
+teocns/neocursor.nvim
 terje/simctl.nvim
 thaerkh/vim-workspace
 theKnightsOfRohan/csvlens.nvim
@@ -1397,6 +1401,7 @@ zeioth/heirline-components.nvim
 zeioth/none-ls-autoload.nvim
 zerochae/dbab.nvim
 zeybek/camouflage.nvim
+zgs225/pi2.nvim
 zhisme/copy_with_context.nvim
 ziontee113/color-picker.nvim
 ziontee113/icon-picker.nvim
