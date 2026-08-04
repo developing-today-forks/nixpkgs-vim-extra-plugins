@@ -38,6 +38,7 @@ AckslD/nvim-gfold.lua
 AckslD/nvim-revJ.lua
 AckslD/nvim-trevJ.lua
 AckslD/swenv.nvim
+Aejkatappaja/cendre
 Aejkatappaja/sora
 Akmadan23/local-session.nvim
 AlejandroSuero/freeze-code.nvim
@@ -381,6 +382,7 @@ apyra/nvim-unity
 ariel-frischer/bmessages.nvim
 arminveres/md-pdf.nvim
 aronjohanns/smooth-resize.nvim
+art220/dancheong.nvim
 artart222/CodeArt
 artemave/workspace-diagnostics.nvim
 artur-shaik/jc.nvim
@@ -553,6 +555,7 @@ dlants/magenta.nvim
 dlyongemallo/diffview.nvim
 dmmulroy/ts-error-translator.nvim
 dmmulroy/tsc.nvim
+dmshvedchenko/persist.nvim
 dmtrKovalenko/fff.nvim
 doctorfree/cheatsheet.nvim
 doctorfree/nvim-lazyman
@@ -700,6 +703,7 @@ ishiooon/codex.nvim
 itsfernn/auto-gnome-theme.nvim
 iwe-org/iwe.nvim
 j-morano/buffer_manager.nvim
+jaimeibanezrivera/zj-theme
 jakewvincent/mkdnflow.nvim
 jakewvincent/texmagic.nvim
 jameshiew/nvim-magic
@@ -887,6 +891,7 @@ milisims/nvim-luaref
 millerjason/neovimacs.nvim
 mistricky/codesnap.nvim
 mistweaverco/kulala.nvim
+mitander/flume.nvim
 miversen33/import.nvim
 miversen33/sunglasses.nvim
 mizlan/iswap.nvim
