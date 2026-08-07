@@ -165,6 +165,7 @@ Mauritz8/gitstatus.nvim
 MeanderingProgrammer/markdown.nvim
 MeanderingProgrammer/render-markdown.nvim
 MeanderingProgrammer/treesitter-modules.nvim
+Mirsmog/real-icons.nvim
 MisanthropicBit/decipher.nvim
 MisanthropicBit/neotest-busted
 MisanthropicBit/winmove.nvim
@@ -317,6 +318,7 @@ Zeioth/makeit.nvim
 Zeioth/markmap.nvim
 Zeioth/none-ls-autoload.nvim
 ZhiyuanLck/smart-pairs
+aadielpr/bono.nvim
 aaronhallaert/advanced-git-search.nvim
 aaronik/Treewalker.nvim
 abdellatif-temsamani/adev.nvim
