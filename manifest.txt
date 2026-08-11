@@ -703,6 +703,7 @@ isak102/telescope-git-file-history.nvim
 ishan9299/modus-theme-vim
 ishiooon/codex.nvim
 itsfernn/auto-gnome-theme.nvim
+itsfernn/vimtex-follow
 iwe-org/iwe.nvim
 j-morano/buffer_manager.nvim
 jaimeibanezrivera/zj-theme
