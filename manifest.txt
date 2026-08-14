@@ -953,6 +953,7 @@ nguyenvukhang/nvim-toggler
 nikvdp/neomux
 nishu-murmu/ThemeSwitch.nvim
 nishu-murmu/cursor-inline
+nitinbhat972/cwal.nvim
 niuiic/code-shot.nvim
 niuiic/cp-image.nvim
 niuiic/dap-utils.nvim
@@ -1019,6 +1020,7 @@ nvimtools/hydra.nvim
 nvimtools/none-ls.nvim
 nvoid-lua/nvoid
 nvzone/minty
+nwiizo/signalbox.nvim
 nxhung2304/lastplace.nvim
 nxvu699134/vn-night.nvim
 nyngwang/NeoNoName.lua
