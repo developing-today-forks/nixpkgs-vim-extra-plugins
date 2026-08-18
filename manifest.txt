@@ -77,6 +77,7 @@ CosmicNvim/CosmicNvim
 CosmicNvim/cosmic-ui
 Cris-lml007/NeoPlus
 Crysthamus/nvim-file-operations
+DRoma82/add-subtract-ex.nvim
 DaFi-1/tasknvim
 Dan7h3x/neaterm.nvim
 Dan7h3x/signup.nvim
