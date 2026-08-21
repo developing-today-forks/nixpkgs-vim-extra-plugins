@@ -83,8 +83,10 @@ Dan7h3x/neaterm.nvim
 Dan7h3x/signup.nvim
 DanilaMihailov/beacon.nvim
 Darazaki/indent-o-matic
+Darkskittlz/GitCompanion
 David-Kunz/gen.nvim
 David-Kunz/jester
+Dev-Addict/FloatingFile.nvim
 Dhanus3133/Leetbuddy.nvim
 DrKJeff16/boolean-toggle.nvim
 DrKJeff16/nvim-luaref
@@ -1183,6 +1185,7 @@ satozawa/graft.nvim
 savq/melange
 savq/paq-nvim
 saxon1964/neovim-tips
+saya-ashen/agent-workbench.nvim
 scottmckendry/cyberdream.nvim
 sduras/duras_bridge
 seandewar/actually-doom.nvim
