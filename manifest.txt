@@ -451,6 +451,7 @@ brianaung/compl.nvim
 brianhuster/live-preview.nvim
 bydlw98/blink-cmp-env
 bydlw98/blink-cmp-sshconfig
+bytehound-labs/nvim-flow
 calind/selenized.nvim
 cappyzawa/trim.nvim
 carlos-algms/agentic.nvim
