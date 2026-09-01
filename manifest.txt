@@ -748,6 +748,7 @@ jose-elias-alvarez/null-ls.nvim
 jose-elias-alvarez/typescript.nvim
 josephburgess/nvumi
 josephschmitt/pj.nvim
+jpease/hex-outdated.nvim
 jpmcb/nvim-llama
 jpwol/thorn.nvim
 jrop/morph.nvim
@@ -1052,6 +1053,7 @@ otavioschwanck/arrow.nvim
 otavioschwanck/mood-nvim
 otavioschwanck/telescope-alternate.nvim
 otavioschwanck/tmux-awesome-manager.nvim
+overflow/fs-review.nvim
 ovk/endec.nvim
 oxfist/night-owl.nvim
 p00f/clangd_extensions.nvim
@@ -1120,6 +1122,7 @@ ray-x/sad.nvim
 ray-x/starry.nvim
 ray-x/web-tools.nvim
 raymondware/focusmode.nvim
+raymondware/herdr.nvim
 rebelot/heirline.nvim
 redoxahmii/json-to-types.nvim
 redpierrot/ballerina.nvim
