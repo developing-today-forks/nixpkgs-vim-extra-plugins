@@ -905,6 +905,7 @@ miversen33/sunglasses.nvim
 mizlan/iswap.nvim
 mkajsjo/windowcolumns.nvim
 mluders/comfy-line-numbers.nvim
+mm4cN/nvim-conan
 mnacamura/iron.nvim::iron-nvim-mnacamura
 mnacamura/nvim-srcerite
 mnacamura/vim-fennel-syntax
