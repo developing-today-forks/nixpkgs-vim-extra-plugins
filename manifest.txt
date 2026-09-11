@@ -88,6 +88,7 @@ David-Kunz/gen.nvim
 David-Kunz/jester
 Dev-Addict/FloatingFile.nvim
 Dhanus3133/Leetbuddy.nvim
+Doehnert/laravel-log-watcher.nvim
 DrKJeff16/boolean-toggle.nvim
 DrKJeff16/nvim-luaref
 DrKJeff16/pipenv.nvim
@@ -667,6 +668,7 @@ hat0uma/csvview.nvim
 hat0uma/doxygen-previewer.nvim
 hat0uma/prelive.nvim
 hawknewton/termyank.nvim
+hebercosfer/floating-claude.nvim
 hedyhli/outline.nvim
 heilgar/bookmarks.nvim
 heilgar/nochat.nvim
@@ -906,6 +908,7 @@ mizlan/iswap.nvim
 mkajsjo/windowcolumns.nvim
 mluders/comfy-line-numbers.nvim
 mm4cN/nvim-conan
+mm4cN/nvim-gitlab
 mnacamura/iron.nvim::iron-nvim-mnacamura
 mnacamura/nvim-srcerite
 mnacamura/vim-fennel-syntax
@@ -1047,6 +1050,7 @@ olexsmir/gopher.nvim
 olimorris/codecompanion.nvim
 olimorris/persisted.nvim
 olivercederborg/poimandres.nvim
+olivgr/winbarbuf.nvim
 onlyati/quadlet-lsp.nvim
 onsails/lspkind.nvim
 ostralyan/scribe.nvim
@@ -1130,6 +1134,7 @@ redpierrot/ballerina.nvim
 sourcehut:reggie/licenses.nvim
 renerocksai/telekasten.nvim
 retran/meow.yarn.nvim
+rezniqov/soviet.nvim
 rgroli/other.nvim
 rhysd/vim-gfm-syntax
 ribru17/bamboo.nvim
