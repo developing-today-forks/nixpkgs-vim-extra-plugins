@@ -25,6 +25,7 @@
 404pilo/aicommits.nvim
 4e554c4c/darkman.nvim
 54L1M/Oshen.nvim
+7KiLL/copybara.nvim
 9seconds/repolink.nvim
 A7Lavinraj/fyler.nvim
 Aaronik/GPTModels.nvim
@@ -193,6 +194,7 @@ NMAC427/guess-indent.nvim
 NTBBloodbath/cheovim
 NTBBloodbath/doom-nvim
 NTBBloodbath/doom-one.nvim
+Nagato-Yuzuru/bang.nvim
 NeViRAIDE/nekifoch.nvim
 Nedra1998/nvim-mdlink
 Nexmean/caskey.nvim
@@ -718,6 +720,7 @@ jakewvincent/texmagic.nvim
 jameshiew/nvim-magic
 jamestthompson3/nvim-remote-containers
 jameswolensky/marker-groups.nvim
+javanoo6/persist-toggle.nvim
 jaytyrrell13/static.nvim
 jbyuki/carrot.nvim
 jbyuki/instant.nvim
@@ -734,6 +737,7 @@ jghauser/follow-md-links.nvim
 jghauser/kitty-runner.nvim
 jghauser/mkdir.nvim
 jghauser/papis.nvim
+jgonmor16/hdlsnip.nvim
 jim-at-jibba/ariake-vim-colors
 jim-at-jibba/ariake.nvim
 jim-at-jibba/micropython.nvim
@@ -750,6 +754,7 @@ jose-elias-alvarez/null-ls.nvim
 jose-elias-alvarez/typescript.nvim
 josephburgess/nvumi
 josephschmitt/pj.nvim
+josstei/whisk.nvim
 jpease/hex-outdated.nvim
 jpmcb/nvim-llama
 jpwol/thorn.nvim
@@ -931,6 +936,7 @@ mrcjkb/kickstart-nix.nvim
 mrcjkb/rustaceanvim
 mrjones2014/codesettings.nvim
 mrjones2014/legendary.nvim
+mrjones2014/smart-splits.nvim
 mrloop/telescope-git-branch.nvim
 nanotee/luv-vimdocs
 nanotee/nvim-lsp-basics
@@ -1370,6 +1376,7 @@ wsdjeg/scrollbar.nvim
 wsdjeg/tabman.nvim
 wsdjeg/tasks.nvim
 wurli/cobalt.nvim
+wurli/jet.nvim
 wurli/split.nvim
 wurli/visimatch.nvim
 xeluxee/competitest.nvim
