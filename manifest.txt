@@ -1296,6 +1296,7 @@ tenxsoydev/tabs-vs-spaces.nvim
 teocns/neocursor.nvim
 terje/simctl.nvim
 thaerkh/vim-workspace
+the-mayankjha/fk_markdown.nvim
 theKnightsOfRohan/csvlens.nvim
 theKnightsOfRohan/hexer.nvim
 themaxmarchuk/tailwindcss-colors.nvim
