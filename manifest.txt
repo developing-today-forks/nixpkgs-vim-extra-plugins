@@ -68,6 +68,7 @@ CamdenClark/flyboy
 Carcuis/dap-breakpoints.nvim
 Chaitanyabsprip/present.nvim
 Chiarandini/smart-enter.nvim
+ChrisGVE/docshelf.nvim
 ChuYanLon/telegram.nvim
 ChuufMaster/buffer-vacuum
 ChuufMaster/markdown-toc
@@ -129,6 +130,7 @@ IndianBoy42/tree-sitter-just
 Iron-E/nvim-cartographer
 J-Cowsert/classlayout.nvim
 JMarkin/gentags.lua
+JarnDev/autodap.nvim
 JesperLundberg/projektgunnar
 JesperLundberg/projektgunnar.nvim
 JoosepAlviste/nvim-ts-context-commentstring
@@ -772,6 +774,7 @@ juniorsundar/cling.nvim
 juniorsundar/refer.nvim
 junnplus/lsp-setup.nvim
 juselara1/tmutils.nvim
+justinhj/battery.nvim
 justinmk/guh.nvim
 jyscao/ventana.nvim
 k2589/lluminate.nvim
@@ -1056,6 +1059,7 @@ ofirgall/open.nvim
 ojroques/nvim-hardline
 ojroques/nvim-lspfuzzy
 ok97465/ipybridge.nvim
+okram78/vahti.nvim
 okuuva/auto-save.nvim
 olexsmir/gopher.nvim
 olimorris/codecompanion.nvim
