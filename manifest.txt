@@ -133,6 +133,7 @@ JMarkin/gentags.lua
 JarnDev/autodap.nvim
 JesperLundberg/projektgunnar
 JesperLundberg/projektgunnar.nvim
+gitlab:JimmyPla6z/Firevim
 JoosepAlviste/nvim-ts-context-commentstring
 JulOuellet/bzl.nvim
 Junnplus/nvim-lsp-setup
@@ -904,6 +905,7 @@ mg979/tabline.nvim
 mgalliou/blink-cmp-tmux
 micdzu/aalto.nvim
 michaelb/sniprun
+mihovilrak/scroll.nvim
 miikanissi/modus-themes.nvim
 mikeboiko/nvim-flow
 mikesmithgh/git-prompt-string-lualine.nvim
@@ -1389,6 +1391,7 @@ wsdjeg/tabman.nvim
 wsdjeg/tasks.nvim
 wurli/cobalt.nvim
 wurli/jet.nvim
+wurli/servery.nvim
 wurli/split.nvim
 wurli/visimatch.nvim
 xeluxee/competitest.nvim
