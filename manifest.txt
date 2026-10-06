@@ -12,6 +12,7 @@
 2KAbhishek/tdo.nvim
 2KAbhishek/termim.nvim
 2KAbhishek/utils.nvim
+2giosangmitom/nightfall.nvim
 2kabhishek/octohub.nvim
 2kabhishek/utils.nvim
 2nthony/vitesse.nvim
@@ -756,6 +757,7 @@ jkeresman01/tmux-switch.nvim
 johann2357/nvim-smartbufs
 johannww/tts.nvim
 jonathandion/web-dev.nvim
+jonestristand/dune.nvim
 joryeugene/dadbod-grip.nvim
 jose-elias-alvarez/null-ls.nvim
 jose-elias-alvarez/typescript.nvim
@@ -878,6 +880,7 @@ mangelozzi/rgflow.nvim
 marekh19/meowsoot.nvim
 marilari88/twoslash-queries.nvim
 markgandolfo/dartboard.nvim
+markosnarinian/distill.nvim
 markosnarinian/fold-logging.nvim
 martuscellifaria/ahoicpp.nvim
 matbme/JABS.nvim
@@ -974,6 +977,7 @@ neur1n/noline.nvim
 nfrid/due.nvim
 nfrid/markdown-togglecheck
 nfrid/treesitter-utils
+nghiant03/jove.nvim
 nguyenvukhang/nvim-toggler
 nikvdp/neomux
 nishu-murmu/ThemeSwitch.nvim
