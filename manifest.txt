@@ -539,6 +539,9 @@ cxwx/keysound.nvim
 cxwx/lazyUrlUpdate.nvim
 cxwx/shadowMyName.nvim
 da-moon/telescope-toggleterm.nvim
+daaanny90/claude-desktop.nvim
+daaanny90/iterm2-dark-background.nvim
+daaanny90/zed.nvim
 daltongd/yanklock.nvim
 dam9000/kickstart-modular.nvim
 danielpieper/telescope-tmuxinator.nvim
@@ -1082,6 +1085,7 @@ otavioschwanck/tmux-awesome-manager.nvim
 overflow/fs-review.nvim
 ovk/endec.nvim
 oxfist/night-owl.nvim
+oxidescheme/nvim
 p00f/clangd_extensions.nvim
 p00f/cphelper.nvim
 pandasoli/nekovim
