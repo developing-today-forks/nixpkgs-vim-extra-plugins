@@ -115,6 +115,7 @@ FeiyouG/command_center.nvim
 FeiyouG/commander.nvim
 Fildo7525/pretty_hover
 Flemma-Dev/flemma.nvim
+FrancescoDerme/tuna.nvim
 FrenzyExists/aquarium-vim
 Fymyte/rasi.vim
 GCBallesteros/NotebookNavigator.nvim
@@ -540,6 +541,7 @@ cxwx/lazyUrlUpdate.nvim
 cxwx/shadowMyName.nvim
 da-moon/telescope-toggleterm.nvim
 daaanny90/claude-desktop.nvim
+daaanny90/interlinked.nvim
 daaanny90/iterm2-dark-background.nvim
 daaanny90/zed.nvim
 daltongd/yanklock.nvim
@@ -1356,6 +1358,7 @@ uga-rosa/ccc.nvim
 uhs-robert/oasis.nvim
 uhs-robert/sshfs.nvim
 uncleTen276/dark_flat.nvim
+upyesp/epher.nvim
 utilyre/barbecue.nvim
 utilyre/sentiment.nvim
 valenyala/cmp-forge-remappings
