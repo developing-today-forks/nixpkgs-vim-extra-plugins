@@ -96,6 +96,7 @@ DrKJeff16/boolean-toggle.nvim
 DrKJeff16/nvim-luaref
 DrKJeff16/pipenv.nvim
 DrKJeff16/shebang.nvim
+DrKJeff16/triforce.nvim
 DrKJeff16/wezterm-types
 DrKJeff16/which-colorscheme.nvim
 EL-MASTOR/bufferlist.nvim
