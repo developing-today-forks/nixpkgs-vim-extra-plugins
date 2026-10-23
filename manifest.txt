@@ -1459,6 +1459,7 @@ zachyarbrough/anchor.nvim
 zaldih/themery.nvim
 zbirenbaum/copilot-cmp
 zbirenbaum/neodim
+zdcthomas/sprout.nvim
 zdcthomas/yop.nvim
 zeioth/heirline-components.nvim
 zeioth/none-ls-autoload.nvim
