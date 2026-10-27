@@ -232,6 +232,7 @@ QuentinGruber/pomodoro.nvim
 QuentinGruber/timespent.nvim
 RAprogramm/nekifoch
 RRethy/nvim-treesitter-textsubjects
+RazikSF/lumina-themes
 RedEye-Developers/starfall.nvim
 Rimkomatic/vimtagger.nvim
 RishabhRD/gruvy
@@ -684,6 +685,7 @@ hasansujon786/nvim-navbuddy
 hat0uma/csvview.nvim
 hat0uma/doxygen-previewer.nvim
 hat0uma/prelive.nvim
+hawknewton/matrix-splash.nvim
 hawknewton/termyank.nvim
 hebercosfer/floating-claude.nvim
 hedyhli/outline.nvim
@@ -905,6 +907,7 @@ mcauley-penney/techbase.nvim
 mcauley-penney/tidy.nvim
 mcauley-penney/visual-whitespace.nvim
 mcchrish/zenbones.nvim
+mcp1766/stylepeek.nvim
 melMass/echo.nvim
 melkster/modicator.nvim
 mellow-theme/mellow.nvim
@@ -925,6 +928,7 @@ milanglacier/minuet-ai.nvim
 milanglacier/yarepl.nvim
 milisims/nvim-luaref
 millerjason/neovimacs.nvim
+minhyeoky/tmux-oil.nvim
 mistricky/codesnap.nvim
 mistweaverco/kulala.nvim
 mitander/flume.nvim
@@ -959,6 +963,7 @@ mrjones2014/codesettings.nvim
 mrjones2014/legendary.nvim
 mrjones2014/smart-splits.nvim
 mrloop/telescope-git-branch.nvim
+mrwatts88/ghost.nvim
 nanotee/luv-vimdocs
 nanotee/nvim-lsp-basics
 nanotee/sqls.nvim
