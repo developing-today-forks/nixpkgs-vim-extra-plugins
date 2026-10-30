@@ -582,6 +582,7 @@ dmmulroy/ts-error-translator.nvim
 dmmulroy/tsc.nvim
 dmshvedchenko/persist.nvim
 dmtrKovalenko/fff.nvim
+dobsontom/dbt-ft.nvim
 doctorfree/cheatsheet.nvim
 doctorfree/nvim-lazyman
 dominic-righthere/markdown-pipetable.nvim
@@ -641,6 +642,7 @@ fuenor/JpFormat.vim
 gaborvecsei/cryptoprice.nvim
 gaborvecsei/memento.nvim
 gaborvecsei/usage-tracker.nvim
+gamjagoon/earlgrey.nvim
 gbprod/cutlass.nvim
 gbprod/nord.nvim
 gbprod/phpactor.nvim
@@ -694,6 +696,7 @@ heilgar/nochat.nvim
 heilgar/nvim-http-client
 sourcehut:henriquehbr/ataraxis.lua
 sourcehut:henriquehbr/nvim-startup.lua
+heritage-themes/heritage-themes.nvim
 hiberabyss/bzlops.vim
 hinell/duplicate.nvim
 hinell/lsp-timeout.nvim
@@ -1227,6 +1230,7 @@ samharju/serene.nvim
 samharju/synthweave.nvim
 samharju/yeet.nvim
 samjwill/nvim-unception
+sammaji/markdown-preview.nvim
 samodostal/image.nvim
 sanjay-np/nvim-yt-player
 satozawa/graft.nvim
