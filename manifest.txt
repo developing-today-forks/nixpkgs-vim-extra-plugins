@@ -832,6 +832,7 @@ kokusenz/deltaview.nvim
 konapun/vacuumline.nvim
 kr40/nvim-macros
 krissen/blink-cmp-bibtex
+kryptamine/gruber-darker-renaissance
 kuri-sun/comment-graph.nvim
 kuri-sun/todoage.nvim
 kuri-sun/yoda.nvim
@@ -972,6 +973,7 @@ nanotee/nvim-lsp-basics
 nanotee/sqls.nvim
 nanozuki/tabby.nvim
 natecraddock/workspaces.nvim
+navasvarela/vimdojo
 nbeversl/urtext_neovim
 neanias/everforest-nvim
 neanvo/buben.nvim
