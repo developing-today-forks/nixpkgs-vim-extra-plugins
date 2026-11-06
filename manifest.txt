@@ -153,6 +153,7 @@ Kurama622/llm.nvim
 Kurama622/profile.nvim
 Kurren123/mssql.nvim
 L3MON4D3/LuaSnip
+LFSCamargo/nvim.setup
 LeonHeidelbach/trailblazer.nvim
 LinArcX/telescope-command-palette.nvim
 LintaoAmons/bookmarks.nvim
@@ -160,6 +161,7 @@ LintaoAmons/cd-project.nvim
 LintaoAmons/easy-commands.nvim
 LintaoAmons/scratch.nvim
 LionC/nest.nvim
+LongYinStudio/suda.nvim
 LoricAndre/OneTerm.nvim
 LucasTavaresA/SingleComment.nvim
 LucasTavaresA/headers.nvim
@@ -365,9 +367,12 @@ al1-ce/just.nvim
 alanfortlink/blackjack.nvim
 alaviss/nim.nvim
 alec-gibson/nvim-tetris
+alessandropietrobelli/dotnet-counters.nvim
+alessandropietrobelli/dotnet-tree.nvim
 alessio-vivaldelli/java-creator-nvim
 alex-popov-tech/store.nvim
 alexaandru/nvim-lspupdate
+alexcloudstar/cheatsheet.nvim
 alexmozaidze/palenight.nvim
 alexmozaidze/tree-comment.nvim
 alexpasmantier/pymple.nvim
@@ -741,6 +746,7 @@ jakewvincent/texmagic.nvim
 jameshiew/nvim-magic
 jamestthompson3/nvim-remote-containers
 jameswolensky/marker-groups.nvim
+javanoo6/intellij-formatter.nvim
 javanoo6/persist-toggle.nvim
 jaytyrrell13/static.nvim
 jbyuki/carrot.nvim
@@ -1464,6 +1470,7 @@ ysmb-wtsg/in-and-out.nvim
 yus-works/csc.nvim
 yutkat/confirm-quit.nvim
 yutkat/git-rebase-auto-diff.nvim
+ywsrock/nvim-md-preview
 zaakiy/line-justice.nvim
 zacesshq/zacess.nvim
 zachyarbrough/anchor.nvim
