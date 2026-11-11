@@ -153,6 +153,7 @@ Kurama622/llm.nvim
 Kurama622/profile.nvim
 Kurren123/mssql.nvim
 L3MON4D3/LuaSnip
+LFSCamargo/macscroll.nvim
 LFSCamargo/nvim.setup
 LeonHeidelbach/trailblazer.nvim
 LinArcX/telescope-command-palette.nvim
@@ -369,6 +370,7 @@ alaviss/nim.nvim
 alec-gibson/nvim-tetris
 alessandropietrobelli/dotnet-counters.nvim
 alessandropietrobelli/dotnet-tree.nvim
+alessandropietrobelli/nuget.nvim
 alessio-vivaldelli/java-creator-nvim
 alex-popov-tech/store.nvim
 alexaandru/nvim-lspupdate
@@ -1347,6 +1349,7 @@ themaxmarchuk/tailwindcss-colors.nvim
 themercorp/themer.lua
 theniceboy/nvim-deus
 thesimonho/kanagawa-paper.nvim
+tiagovla/projet.nvim
 tiagovla/tokyodark.nvim
 tigion/swap.nvim
 timantipov/md-table-tidy.nvim
