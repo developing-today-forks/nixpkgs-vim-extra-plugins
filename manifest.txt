@@ -392,6 +392,7 @@ andersevenrud/nvim_context_vt
 andrewferrier/debugprint.nvim
 andrewferrier/textobj-diagnostic.nvim
 andythigpen/nvim-coverage
+anirbanchakraborty-dev/swara
 ankushbhagats/liveserver.nvim
 ankushbhagats/match.nvim
 ankushbhagats/pastel.nvim
@@ -790,6 +791,7 @@ jpmcb/nvim-llama
 jpwol/thorn.nvim
 jrop/morph.nvim
 jrychn/ModuleVim
+jtprogru/pack-ui.nvim
 jubnzv/mdeval.nvim
 jubnzv/virtual-types.nvim
 judaew/ronny.nvim
@@ -838,6 +840,7 @@ kobbikobb/move-lines.nvim
 koenverburg/peepsight.nvim
 kokusenz/deltaview.nvim
 konapun/vacuumline.nvim
+kova1max/float-claude.nvim
 kr40/nvim-macros
 krissen/blink-cmp-bibtex
 kryptamine/gruber-darker-renaissance
