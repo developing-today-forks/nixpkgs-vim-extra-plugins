@@ -604,6 +604,7 @@ drybalka/tree-climber.nvim
 dtormoen/neural-open.nvim
 duane9/nvim-rg
 dybdeskarphet/gruvbox-minimal.nvim
+dybdeskarphet/min.nvim
 dzfrias/arena.nvim
 echaya/neowiki.nvim
 ecthelionvi/NeoColumn.nvim
@@ -860,6 +861,7 @@ ldelossa/vimdark
 leafOfTree/vim-svelte-plugin
 leblocks/hopcsharp.nvim
 leblocks/toggle.nvim
+leblocks/treetags.nvim
 legobeat/l7-devenv
 leo-alvarenga/homecoming.nvim
 leo-alvarenga/quoth.nvim
@@ -1393,6 +1395,7 @@ valenyala/cmp-forge-remappings
 vi-tality/neovitality
 vigoux/complementree.nvim
 vodchella/hodur.nvim
+vshulcz/deja-vu
 vxpm/ferris.nvim
 vyfor/cord.nvim
 vzze/cmdline.nvim
@@ -1435,6 +1438,7 @@ wurli/split.nvim
 wurli/visimatch.nvim
 xeluxee/competitest.nvim
 xero/miasma.nvim
+xheisenbugx/org.nvim
 xiangnongWu2233/rubiks-cube.nvim
 xiaoshihou514/squirrel.nvim
 xieyonn/blink-cmp-dat-word
