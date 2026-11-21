@@ -465,6 +465,7 @@ bluz71/vim-moonfly-colors
 bluz71/vim-nightfly-colors
 bngarren/checkmate.nvim
 booperlv/nvim-gomove
+bradley101/nvim-remote-ssh
 bravoecho/brook.nvim
 brendalf/mix.nvim
 brenoprata10/nvim-highlight-colors
@@ -550,6 +551,7 @@ cursortab/cursortab.nvim
 cvigilv/esqueleto.nvim
 cxwx/keysound.nvim
 cxwx/lazyUrlUpdate.nvim
+cxwx/rslime.nvim
 cxwx/shadowMyName.nvim
 da-moon/telescope-toggleterm.nvim
 daaanny90/claude-desktop.nvim
@@ -642,6 +644,7 @@ flashcodes-themayankjha/Fknotes.nvim
 flashcodes-themayankjha/fkthemes.nvim
 fnune/recall.nvim
 folke/drop.nvim
+sourcehut:foosoft/boomer.nvim
 frabjous/knap
 francescarpi/buffon.nvim
 frans-johansson/lazy-nvim-starter
@@ -1185,6 +1188,7 @@ raymondware/herdr.nvim
 rebelot/heirline.nvim
 redoxahmii/json-to-types.nvim
 redpierrot/ballerina.nvim
+refine-sh/refine.nvim
 sourcehut:reggie/licenses.nvim
 renerocksai/telekasten.nvim
 retran/meow.yarn.nvim
