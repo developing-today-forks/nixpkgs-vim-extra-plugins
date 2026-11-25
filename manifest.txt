@@ -132,6 +132,7 @@ IlyasYOY/obs.nvim
 Imngzx/jisho.nvim
 Imngzx/resonance.nvim
 IndianBoy42/tree-sitter-just
+Irdis/swimd
 Iron-E/nvim-cartographer
 J-Cowsert/classlayout.nvim
 JMarkin/gentags.lua
@@ -174,6 +175,7 @@ LunarVim/LunarVim
 LuxVim/nvim-luxmotion
 LuxVim/nvim-luxterm
 MagicDuck/grug-far.nvim
+Malick-Tammal/chroma.nvim
 Mangeshrex/uwu.vim
 MarcHamamji/runner.nvim
 MattHandzel/taskwarrior.nvim
@@ -694,6 +696,7 @@ hadronized/mind.nvim
 hakonharnes/img-clip.nvim
 happyeric77/joplin.nvim
 harrisoncramer/GitLab.nvim
+harukikuri/tsconfig-lens.nvim
 harukikuri/viteenv.nvim
 hasansujon786/nvim-navbuddy
 hat0uma/csvview.nvim
@@ -841,6 +844,7 @@ klen/nvim-test
 kmonad/kmonad-vim
 kndndrj/nvim-dbee
 kobbikobb/move-lines.nvim
+kochetkov-ma/brewpage-nvim
 koenverburg/peepsight.nvim
 kokusenz/deltaview.nvim
 konapun/vacuumline.nvim
