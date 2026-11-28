@@ -146,6 +146,7 @@ Junnplus/nvim-lsp-setup
 Jxstxs/conceal.nvim
 Kasama/nvim-custom-diagnostic-highlight
 Kenzo-Wada/boundary.nvim
+Kepler2024/iterm-preview.nvim
 Kicamon/markdown-table-mode.nvim
 KieranCanter/candela.nvim
 Kohei-Wada/yadm-git.nvim
@@ -603,6 +604,7 @@ dpayne/CodeGPT.nvim
 dpezto/chezmoi-template.nvim
 dracula/vim
 dracula/vim::dracula
+drumandbytes/dbt-lens.nvim
 drybalka/clean.nvim
 drybalka/tree-climber.nvim
 dtormoen/neural-open.nvim
@@ -953,6 +955,7 @@ milanglacier/yarepl.nvim
 milisims/nvim-luaref
 millerjason/neovimacs.nvim
 minhyeoky/tmux-oil.nvim
+mistgc/sshdev.nvim
 mistricky/codesnap.nvim
 mistweaverco/kulala.nvim
 mitander/flume.nvim
@@ -1233,6 +1236,7 @@ roobert/tabtree.nvim
 roobert/tailwindcss-colorizer-cmp.nvim
 rose-pine/neovim::rose-pine
 ryan-WORK/ohm
+ryanjayleyva/kasumi.nvim
 ryutaro-asada/partial-diff.nvim
 s1n7ax/nvim-comment-frame
 s1n7ax/nvim-terminal
